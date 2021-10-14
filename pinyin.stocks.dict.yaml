@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.10.14"
+version: "2021.10.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1070,6 +1070,7 @@ use_preset_vocabulary: true
 科前生物
 科森科技
 科思科技
+科新发展
 科兴制药
 克来机电
 空港股份
@@ -1622,8 +1623,8 @@ use_preset_vocabulary: true
 西南证券
 西宁特钢
 新安股份
-新澳股份
 新奥股份
+新澳股份
 新潮能源
 新城控股
 新钢股份
