@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.10.15"
+version: "2021.10.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1993,6 +1993,7 @@ use_preset_vocabulary: true
 重庆银行
 众望布艺
 众源新材
+珠海冠宇
 珠江股份
 株冶集团
 卓锦股份
