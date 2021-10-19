@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.10.19"
+version: "2021.10.20"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -276,6 +276,7 @@ use_preset_vocabulary: true
 天智航
 同庆楼
 同仁堂
+同益中
 王府井
 外高桥
 万德斯
