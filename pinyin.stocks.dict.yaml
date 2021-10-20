@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.10.20"
+version: "2021.10.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -611,6 +611,7 @@ use_preset_vocabulary: true
 甘李药业
 高测股份
 高能环境
+高铁电气
 赣粤高速
 歌华有线
 格尔软件
