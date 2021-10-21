@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.10.21"
+version: "2021.10.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -507,6 +507,7 @@ use_preset_vocabulary: true
 德邦股份
 得邦照明
 德才股份
+德昌股份
 德创环保
 德宏股份
 德利股份
