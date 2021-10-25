@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.10.23"
+version: "2021.10.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -196,6 +196,7 @@ use_preset_vocabulary: true
 康隆达
 康普顿
 康希诺
+凯尔达
 科博达
 柯利达
 科力远
@@ -591,6 +592,7 @@ use_preset_vocabulary: true
 福光股份
 福建高速
 福建水泥
+福莱蒽特
 福莱新材
 涪陵电力
 福能股份
@@ -1627,8 +1629,8 @@ use_preset_vocabulary: true
 西南证券
 西宁特钢
 新安股份
-新奥股份
 新澳股份
+新奥股份
 新潮能源
 新城控股
 新钢股份
