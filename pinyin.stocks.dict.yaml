@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.10.26"
+version: "2021.10.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -907,6 +907,7 @@ use_preset_vocabulary: true
 惠泰医疗
 会通股份
 汇通能源
+汇宇制药
 火炬电子
 基蛋生物
 金杯汽车
@@ -1629,8 +1630,8 @@ use_preset_vocabulary: true
 西南证券
 西宁特钢
 新安股份
-新澳股份
 新奥股份
+新澳股份
 新潮能源
 新城控股
 新钢股份
@@ -1945,6 +1946,7 @@ use_preset_vocabulary: true
 中炬高新
 中科曙光
 中科通达
+中科微至
 中科星图
 中控技术
 中粮糖业
