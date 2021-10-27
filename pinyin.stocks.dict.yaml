@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.10.27"
+version: "2021.10.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -953,6 +953,7 @@ use_preset_vocabulary: true
 京沪高铁
 京华激光
 晶华新材
+精进电动
 晶科科技
 精伦电子
 京能电力
@@ -1443,6 +1444,7 @@ use_preset_vocabulary: true
 圣龙股份
 圣诺生物
 圣泉集团
+盛泰集团
 盛屯矿业
 圣湘生物
 盛洋科技
@@ -1657,6 +1659,7 @@ use_preset_vocabulary: true
 新泉股份
 新日股份
 新日恒力
+新锐股份
 新赛股份
 新天绿能
 新天然气
