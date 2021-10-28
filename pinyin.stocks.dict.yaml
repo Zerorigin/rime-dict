@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.10.28"
+version: "2021.10.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -453,6 +453,7 @@ use_preset_vocabulary: true
 晨光新材
 辰欣药业
 诚邦股份
+成大生物
 城地香江
 成都燃气
 成都先导
@@ -1571,6 +1572,7 @@ use_preset_vocabulary: true
 皖新传媒
 皖仪科技
 网达软件
+外服控股
 万东医疗
 万华化学
 万林物流
