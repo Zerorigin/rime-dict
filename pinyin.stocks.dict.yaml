@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.11.02"
+version: "2021.11.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1181,8 +1181,8 @@ use_preset_vocabulary: true
 大洋电机
 大洋生物
 大亚圣象
-大业股份
 大叶股份
+大业股份
 大烨智能
 大禹节水
 大元泵业
@@ -1213,8 +1213,8 @@ use_preset_vocabulary: true
 德尔未来
 德方纳米
 德宏股份
-德力股份
 德利股份
+德力股份
 德联集团
 德马科技
 德美化工
@@ -1581,8 +1581,8 @@ use_preset_vocabulary: true
 国脉科技
 国茂股份
 国民技术
-国瑞科技
 国睿科技
+国瑞科技
 国盛金控
 国盛智科
 国泰集团
@@ -1830,8 +1830,8 @@ use_preset_vocabulary: true
 洪都航空
 红豆股份
 宏发股份
-宏和科技
 鸿合科技
+宏和科技
 宏华数科
 宏辉果蔬
 洪汇新材
@@ -2383,6 +2383,7 @@ use_preset_vocabulary: true
 聚石化学
 巨星科技
 巨星农牧
+巨一科技
 绝味食品
 开创国际
 开尔新材
@@ -4086,8 +4087,8 @@ use_preset_vocabulary: true
 裕兴股份
 御银股份
 豫园股份
-韵达股份
 运达股份
+韵达股份
 运达科技
 运机集团
 运盛医疗
