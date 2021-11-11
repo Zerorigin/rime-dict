@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.11.11"
+version: "2021.11.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4238,6 +4238,7 @@ use_preset_vocabulary: true
 振华重工
 振江股份
 振芯科技
+镇洋发展
 震有科技
 震裕科技
 正邦科技
