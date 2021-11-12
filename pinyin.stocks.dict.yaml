@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.11.12"
+version: "2021.11.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -845,6 +845,7 @@ use_preset_vocabulary: true
 安克创新
 安利股份
 安联锐视
+安路科技
 安妮股份
 安宁股份
 安琪酵母
@@ -1213,8 +1214,8 @@ use_preset_vocabulary: true
 德尔未来
 德方纳米
 德宏股份
-德利股份
 德力股份
+德利股份
 德联集团
 德马科技
 德美化工
@@ -1558,8 +1559,8 @@ use_preset_vocabulary: true
 国发股份
 国芳集团
 国风塑业
-国光电器
 国光电气
+国光电器
 国光股份
 国光连锁
 国海证券
@@ -1830,8 +1831,8 @@ use_preset_vocabulary: true
 洪都航空
 红豆股份
 宏发股份
-鸿合科技
 宏和科技
+鸿合科技
 宏华数科
 宏辉果蔬
 洪汇新材
@@ -3517,8 +3518,8 @@ use_preset_vocabulary: true
 天域生态
 天喻信息
 天源迪科
-天原股份
 天元股份
+天原股份
 天泽信息
 天正电气
 天舟文化
@@ -3763,8 +3764,8 @@ use_preset_vocabulary: true
 新锐股份
 欣锐科技
 新赛股份
-欣天科技
 新天科技
+欣天科技
 新天绿能
 新天然气
 新天药业
