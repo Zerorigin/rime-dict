@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.11.13"
+version: "2021.11.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -552,6 +552,7 @@ use_preset_vocabulary: true
 宁通信
 农产品
 诺普信
+诺唯赞
 欧比特
 欧菲光
 欧科亿
@@ -883,6 +884,7 @@ use_preset_vocabulary: true
 奥福环保
 奥海科技
 澳弘电子
+澳华内镜
 奥精医疗
 奥康国际
 奥克股份
@@ -1182,8 +1184,8 @@ use_preset_vocabulary: true
 大洋电机
 大洋生物
 大亚圣象
-大叶股份
 大业股份
+大叶股份
 大烨智能
 大禹节水
 大元泵业
@@ -1214,8 +1216,8 @@ use_preset_vocabulary: true
 德尔未来
 德方纳米
 德宏股份
-德力股份
 德利股份
+德力股份
 德联集团
 德马科技
 德美化工
@@ -1559,8 +1561,8 @@ use_preset_vocabulary: true
 国发股份
 国芳集团
 国风塑业
-国光电气
 国光电器
+国光电气
 国光股份
 国光连锁
 国海证券
@@ -3518,8 +3520,8 @@ use_preset_vocabulary: true
 天域生态
 天喻信息
 天源迪科
-天元股份
 天原股份
+天元股份
 天泽信息
 天正电气
 天舟文化
