@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.11.16"
+version: "2021.11.17"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -826,6 +826,7 @@ use_preset_vocabulary: true
 中信博
 中毅达
 周大生
+重庆港
 众业达
 珠海港
 卓胜微
@@ -1052,6 +1053,7 @@ use_preset_vocabulary: true
 彩虹集团
 彩讯股份
 菜百股份
+灿勤科技
 测绘股份
 昌红科技
 超华科技
@@ -1584,8 +1586,8 @@ use_preset_vocabulary: true
 国脉科技
 国茂股份
 国民技术
-国睿科技
 国瑞科技
+国睿科技
 国盛金控
 国盛智科
 国泰集团
@@ -1904,8 +1906,8 @@ use_preset_vocabulary: true
 华纺股份
 华峰测控
 华峰超纤
-华锋股份
 华丰股份
+华锋股份
 华峰化学
 华峰铝业
 华孚时尚
@@ -3766,8 +3768,8 @@ use_preset_vocabulary: true
 新锐股份
 欣锐科技
 新赛股份
-新天科技
 欣天科技
+新天科技
 新天绿能
 新天然气
 新天药业
@@ -4209,6 +4211,7 @@ use_preset_vocabulary: true
 浙江广厦
 浙江交科
 浙江建投
+浙江黎明
 浙江力诺
 浙江龙盛
 浙江美大
