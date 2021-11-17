@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.11.17"
+version: "2021.11.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1563,8 +1563,8 @@ use_preset_vocabulary: true
 国发股份
 国芳集团
 国风塑业
-国光电器
 国光电气
+国光电器
 国光股份
 国光连锁
 国海证券
@@ -1586,8 +1586,8 @@ use_preset_vocabulary: true
 国脉科技
 国茂股份
 国民技术
-国瑞科技
 国睿科技
+国瑞科技
 国盛金控
 国盛智科
 国泰集团
@@ -1835,8 +1835,8 @@ use_preset_vocabulary: true
 洪都航空
 红豆股份
 宏发股份
-宏和科技
 鸿合科技
+宏和科技
 宏华数科
 宏辉果蔬
 洪汇新材
@@ -1906,8 +1906,8 @@ use_preset_vocabulary: true
 华纺股份
 华峰测控
 华峰超纤
-华丰股份
 华锋股份
+华丰股份
 华峰化学
 华峰铝业
 华孚时尚
@@ -3720,14 +3720,15 @@ use_preset_vocabulary: true
 锡业股份
 西仪股份
 新安股份
-新奥股份
 新澳股份
+新奥股份
 新宝股份
 鑫铂股份
 新柴股份
 新潮能源
 新晨科技
 新城控股
+新点软件
 新钢股份
 新光光电
 新光药业
