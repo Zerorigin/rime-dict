@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: "2021.11.18"
+version: "2021.11.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -855,6 +855,7 @@ use_preset_vocabulary: true
 安泰科技
 安通控股
 安图生物
+安旭生物
 安阳钢铁
 安源煤业
 安正时尚
@@ -1563,8 +1564,8 @@ use_preset_vocabulary: true
 国发股份
 国芳集团
 国风塑业
-国光电气
 国光电器
+国光电气
 国光股份
 国光连锁
 国海证券
@@ -1586,8 +1587,8 @@ use_preset_vocabulary: true
 国脉科技
 国茂股份
 国民技术
-国睿科技
 国瑞科技
+国睿科技
 国盛金控
 国盛智科
 国泰集团
@@ -3264,6 +3265,7 @@ use_preset_vocabulary: true
 胜利精密
 圣龙股份
 盛路通信
+盛美上海
 圣农发展
 圣诺生物
 圣泉集团
@@ -3522,8 +3524,8 @@ use_preset_vocabulary: true
 天域生态
 天喻信息
 天源迪科
-天原股份
 天元股份
+天原股份
 天泽信息
 天正电气
 天舟文化
@@ -3720,8 +3722,8 @@ use_preset_vocabulary: true
 锡业股份
 西仪股份
 新安股份
-新澳股份
 新奥股份
+新澳股份
 新宝股份
 鑫铂股份
 新柴股份
@@ -3769,8 +3771,8 @@ use_preset_vocabulary: true
 新锐股份
 欣锐科技
 新赛股份
-欣天科技
 新天科技
+欣天科技
 新天绿能
 新天然气
 新天药业
@@ -4093,8 +4095,8 @@ use_preset_vocabulary: true
 裕兴股份
 御银股份
 豫园股份
-运达股份
 韵达股份
+运达股份
 运达科技
 运机集团
 运盛医疗
