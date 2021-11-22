@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.11.19
+version: 2021.11.23
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1187,8 +1187,8 @@ use_preset_vocabulary: true
 大亚圣象
 大洋电机
 大洋生物
-大叶股份
 大业股份
+大叶股份
 大烨智能
 大禹节水
 大元泵业
@@ -1222,8 +1222,8 @@ use_preset_vocabulary: true
 德尔未来
 德方纳米
 德宏股份
-德力股份
 德利股份
+德力股份
 德联集团
 德马科技
 德美化工
@@ -1435,6 +1435,7 @@ use_preset_vocabulary: true
 富春环保
 富春染织
 富煌钢构
+富佳股份
 富临精工
 富临运业
 富淼科技
@@ -1578,6 +1579,7 @@ use_preset_vocabulary: true
 国机精工
 国机汽车
 国机通用
+国机重装
 国际实业
 国际医学
 国检集团
@@ -1592,8 +1594,8 @@ use_preset_vocabulary: true
 国脉科技
 国茂股份
 国民技术
-国瑞科技
 国睿科技
+国瑞科技
 国盛金控
 国盛智科
 国泰集团
@@ -1911,8 +1913,8 @@ use_preset_vocabulary: true
 华纺股份
 华峰测控
 华峰超纤
-华丰股份
 华锋股份
+华丰股份
 华峰化学
 华峰铝业
 华孚时尚
@@ -2782,6 +2784,7 @@ use_preset_vocabulary: true
 摩恩电气
 模塑科技
 莫高股份
+沐邦高科
 牧原股份
 纳川股份
 纳尔股份
