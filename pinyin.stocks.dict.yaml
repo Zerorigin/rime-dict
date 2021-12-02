@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.11.23
+version: 2021.12.03
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1222,8 +1222,8 @@ use_preset_vocabulary: true
 德尔未来
 德方纳米
 德宏股份
-德利股份
 德力股份
+德利股份
 德联集团
 德马科技
 德美化工
@@ -1265,6 +1265,7 @@ use_preset_vocabulary: true
 鼎胜新材
 鼎通科技
 鼎信通讯
+鼎阳科技
 东阿阿胶
 东安动力
 东百集团
@@ -1570,8 +1571,8 @@ use_preset_vocabulary: true
 国发股份
 国芳集团
 国风塑业
-国光电器
 国光电气
+国光电器
 国光股份
 国光连锁
 国海证券
@@ -1980,6 +1981,7 @@ use_preset_vocabulary: true
 华胜天成
 华数传媒
 华斯股份
+华塑股份
 华泰股份
 华泰证券
 华特达因
@@ -2386,6 +2388,7 @@ use_preset_vocabulary: true
 巨一科技
 炬华科技
 炬申股份
+炬芯科技
 聚灿光电
 聚辰股份
 聚飞光电
@@ -3543,8 +3546,8 @@ use_preset_vocabulary: true
 天域生态
 天喻信息
 天源迪科
-天原股份
 天元股份
+天原股份
 天泽信息
 天正电气
 天舟文化
@@ -3848,6 +3851,7 @@ use_preset_vocabulary: true
 欣龙控股
 欣锐科技
 欣天科技
+芯导科技
 芯海科技
 芯能科技
 芯原股份
@@ -4132,6 +4136,7 @@ use_preset_vocabulary: true
 跃岭股份
 云鼎科技
 云海金属
+云路股份
 云铝股份
 云煤能源
 云南白药
