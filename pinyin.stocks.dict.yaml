@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.03
+version: 2021.12.07
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -560,6 +560,7 @@ use_preset_vocabulary: true
 欧菲光
 欧科亿
 欧陆通
+派斯林
 鹏博士
 皮阿诺
 片仔癀
@@ -1914,8 +1915,8 @@ use_preset_vocabulary: true
 华纺股份
 华峰测控
 华峰超纤
-华锋股份
 华丰股份
+华锋股份
 华峰化学
 华峰铝业
 华孚时尚
@@ -1964,6 +1965,7 @@ use_preset_vocabulary: true
 华培动力
 华平股份
 华骐环保
+华强科技
 华仁药业
 华荣股份
 华嵘控股
@@ -3546,8 +3548,8 @@ use_preset_vocabulary: true
 天域生态
 天喻信息
 天源迪科
-天元股份
 天原股份
+天元股份
 天泽信息
 天正电气
 天舟文化
