@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.08
+version: 2021.12.09
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1188,8 +1188,8 @@ use_preset_vocabulary: true
 大亚圣象
 大洋电机
 大洋生物
-大叶股份
 大业股份
+大叶股份
 大烨智能
 大禹节水
 大元泵业
@@ -1596,8 +1596,8 @@ use_preset_vocabulary: true
 国脉科技
 国茂股份
 国民技术
-国睿科技
 国瑞科技
+国睿科技
 国盛金控
 国盛智科
 国泰集团
@@ -1915,8 +1915,8 @@ use_preset_vocabulary: true
 华纺股份
 华峰测控
 华峰超纤
-华锋股份
 华丰股份
+华锋股份
 华峰化学
 华峰铝业
 华孚时尚
@@ -3549,8 +3549,8 @@ use_preset_vocabulary: true
 天域生态
 天喻信息
 天源迪科
-天原股份
 天元股份
+天原股份
 天泽信息
 天正电气
 天舟文化
@@ -3793,8 +3793,8 @@ use_preset_vocabulary: true
 协鑫能科
 心脉医疗
 新安股份
-新奥股份
 新澳股份
+新奥股份
 新宝股份
 新柴股份
 新潮能源
@@ -3953,6 +3953,7 @@ use_preset_vocabulary: true
 盐湖股份
 盐津铺子
 研奥股份
+兖矿能源
 兖州煤业
 燕京啤酒
 燕麦科技
