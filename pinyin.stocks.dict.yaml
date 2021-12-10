@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.09
+version: 2021.12.11
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1188,8 +1188,8 @@ use_preset_vocabulary: true
 大亚圣象
 大洋电机
 大洋生物
-大业股份
 大叶股份
+大业股份
 大烨智能
 大禹节水
 大元泵业
@@ -1242,6 +1242,7 @@ use_preset_vocabulary: true
 迪普科技
 迪瑞医疗
 迪森股份
+迪哲医药
 帝尔激光
 帝科股份
 帝欧家居
@@ -1332,6 +1333,7 @@ use_preset_vocabulary: true
 东土科技
 东威科技
 东吴证券
+东芯股份
 东信和平
 东兴证券
 东旭光电
@@ -1915,8 +1917,8 @@ use_preset_vocabulary: true
 华纺股份
 华峰测控
 华峰超纤
-华丰股份
 华锋股份
+华丰股份
 华峰化学
 华峰铝业
 华孚时尚
@@ -3793,8 +3795,8 @@ use_preset_vocabulary: true
 协鑫能科
 心脉医疗
 新安股份
-新澳股份
 新奥股份
+新澳股份
 新宝股份
 新柴股份
 新潮能源
