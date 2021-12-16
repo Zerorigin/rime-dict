@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2021.12.16
+version: 2021.12.17
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5888,6 +5888,7 @@ use_preset_vocabulary: true
 荒村凶间
 荒村怨灵
 荒岛枪声
+荒漠奇行
 荒唐历险
 荒唐事件
 荒唐协议
@@ -6176,6 +6177,7 @@ use_preset_vocabulary: true
 江苏秀色
 江西风物
 姣姣小姐
+胶东乳娘
 郊区的鸟
 角落紫兰
 叫声妈妈
@@ -6928,6 +6930,7 @@ use_preset_vocabulary: true
 冒冒风险
 冒名顶替
 冒牌镖师
+冒牌车王
 冒牌搭档
 冒牌皇帝
 冒牌恋人
@@ -7308,6 +7311,7 @@ use_preset_vocabulary: true
 农历十七
 农民代表
 农民股东
+农民院士
 弄巧成拙
 弄巧反拙
 努尔尼莎
@@ -9111,6 +9115,7 @@ use_preset_vocabulary: true
 勿忘初心
 物极必反
 物尽其用
+蘁梦惊魂
 误闯谍海
 误入歧途
 误入青春
@@ -10497,6 +10502,7 @@ use_preset_vocabulary: true
 爱情斑马线
 爱情不等式
 爱情搭错车
+爱情的代驾
 爱情的旅程
 爱情的牙齿
 爱情冻住了
@@ -11308,6 +11314,7 @@ use_preset_vocabulary: true
 黑匣喋血记
 黑月亮升起
 横财局中局
+横山游击队
 轰天雷凌振
 洪湖赤卫队
 红蝙蝠公寓
@@ -13348,6 +13355,7 @@ use_preset_vocabulary: true
 欲望的黑洞
 欲望的火焰
 欲望三角洲
+浴血大别山
 浴血红马车
 浴血雁门关
 玉茭吐穗儿
@@ -15452,6 +15460,7 @@ use_preset_vocabulary: true
 我的奶奶是天使
 我的男友是辅警
 我的女神女汉子
+我的青春不再见
 我的青春都是你
 我的青春你来过
 我的青春永不逝
