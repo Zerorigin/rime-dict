@@ -7,7 +7,7 @@
 #
 # 部署位置：
 # ~/.config/ibus/rime   (Linux)
-# ~/Library/Rime        (Mac OS)
+# ~/Library/Rime        (macOS)
 # %AppData%/Rime        (Windows)
 # /sdcard/rime          (Android)
 #
@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2021.12.11
+version: 2021.12.16
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -330,8 +330,8 @@ use_preset_vocabulary: true
 多多
 夺爱
 夺宝
-夺镖
 夺标
+夺镖
 夺冠
 夺金
 夺印
@@ -798,8 +798,8 @@ use_preset_vocabulary: true
 老店
 老嘎
 老狗
-老警
 老井
+老警
 老末
 老那
 老倪
@@ -947,8 +947,8 @@ use_preset_vocabulary: true
 迷路
 迷情
 迷失
-迷网
 迷惘
+迷网
 米尼
 米香
 密件
@@ -1158,8 +1158,8 @@ use_preset_vocabulary: true
 秋水
 秋田
 秋喜
-秋雨
 秋语
+秋雨
 秋月
 求鲤
 球道
@@ -1370,8 +1370,8 @@ use_preset_vocabulary: true
 天河
 天火
 天机
-天脊
 天极
+天脊
 天际
 天降
 天骄
@@ -1380,8 +1380,8 @@ use_preset_vocabulary: true
 天良
 天伦
 天梦
-天目
 天慕
+天目
 天平
 天琴
 天渠
@@ -1613,14 +1613,14 @@ use_preset_vocabulary: true
 血囚
 血刃
 血誓
-血缘
 血源
+血缘
 寻爱
 寻包
 寻梦
 寻觅
-寻羌
 寻枪
+寻羌
 巡夜
 驯鹿
 丫丫
@@ -2151,11 +2151,11 @@ use_preset_vocabulary: true
 当家人
 当年情
 刀安仁
-刀见笑
 刀剑笑
+刀见笑
 导火线
-倒记时
 倒计时
+倒记时
 盗版猫
 盗非盗
 盗魂铃
@@ -2291,8 +2291,8 @@ use_preset_vocabulary: true
 凤凰琴
 凤凰情
 凤凰台
-凤凰萧
 凤凰箫
+凤凰萧
 凤凰镇
 夫妻经
 夫妻哨
@@ -3132,8 +3132,8 @@ use_preset_vocabulary: true
 清溪河
 青藏线
 青春逗
-青春纪
 青春祭
+青春纪
 青春鸟
 青春派
 青春期
@@ -3214,8 +3214,8 @@ use_preset_vocabulary: true
 沙塔尔
 鲨鱼岛
 山城雪
-山叮咚
 山丁冬
+山叮咚
 山花花
 山魂女
 山菊花
@@ -4058,6 +4058,7 @@ use_preset_vocabulary: true
 爱情日记
 爱情散打
 爱情傻瓜
+爱情神话
 爱情时空
 爱情手铐
 爱情天使
@@ -4324,8 +4325,8 @@ use_preset_vocabulary: true
 碧海丹心
 碧海红波
 碧海琴心
-碧空雄狮
 碧空雄师
+碧空雄狮
 碧空银花
 碧罗雪山
 碧水双魂
@@ -5817,10 +5818,10 @@ use_preset_vocabulary: true
 花儿一样
 花果之香
 花海情缘
-花好月圆
 花好月园
-花花型警
+花好月圆
 花花刑警
+花花型警
 花滑女王
 花季年华
 花椒红了
@@ -6258,8 +6259,8 @@ use_preset_vocabulary: true
 锦绣前程
 锦绣人生
 锦衣喋血
-晋洲女人
 晋州女人
+晋洲女人
 禁宫情妓
 禁锢之地
 禁烟枪手
@@ -6778,8 +6779,8 @@ use_preset_vocabulary: true
 留守女士
 留守小孩
 留住春天
-留驻青山
 留住青山
+留驻青山
 柳暗花明
 柳湖新颂
 柳浪闻莺
@@ -6814,8 +6815,8 @@ use_preset_vocabulary: true
 龙年警察
 龙年警官
 龙牌之谜
-龙泉天下
 龙拳天下
+龙泉天下
 龙拳小子
 龙蛇争霸
 龙神之子
@@ -7065,8 +7066,8 @@ use_preset_vocabulary: true
 蜜月计划
 蜜月再来
 棉花白了
-沔洲烽火
 沔州烽火
+沔洲烽火
 面对生命
 面目全非
 面向群众
@@ -7327,8 +7328,8 @@ use_preset_vocabulary: true
 女大当婚
 女飞行员
 女孩别哭
-女检查官
 女检察官
+女检查官
 女交通员
 女警神威
 女警天职
@@ -9034,8 +9035,8 @@ use_preset_vocabulary: true
 无声的河
 无事生非
 无手老师
-无锁不能
 无所不能
+无锁不能
 无畏英雄
 无问西东
 无线信号
@@ -9325,8 +9326,8 @@ use_preset_vocabulary: true
 小镇风云
 小镇警官
 小镇夕阳
-小镇猪室
 小镇猪事
+小镇猪室
 小足球队
 孝女彩金
 孝顺媳妇
@@ -9558,8 +9559,8 @@ use_preset_vocabulary: true
 寻龙三甲
 寻梦之路
 寻人奇事
-寻人启示
 寻人启事
+寻人启示
 寻心启示
 寻找成龙
 寻找关公
@@ -9668,8 +9669,8 @@ use_preset_vocabulary: true
 野兽之心
 业余警察
 叶问前传
-夜半歌声
 夜伴歌声
+夜半歌声
 夜半怪声
 夜半哭声
 夜半梳头
@@ -9716,6 +9717,7 @@ use_preset_vocabulary: true
 一家老小
 一家两口
 一家两制
+一件棉袄
 一件提案
 一件小事
 一剑钟情
@@ -9739,8 +9741,8 @@ use_preset_vocabulary: true
 一路囧逃
 一路狂奔
 一路逆风
-一路顺风
 一路顺疯
+一路顺风
 一路同行
 一路相亲
 一路向爱
@@ -10430,8 +10432,8 @@ use_preset_vocabulary: true
 最爱的人
 最高惩罚
 最后八天
-最后一课
 最后一刻
+最后一课
 最后一球
 最后证言
 最佳导演
@@ -10908,8 +10910,8 @@ use_preset_vocabulary: true
 电影狂想曲
 凋谢的鲜花
 雕花的马鞍
-喋血嘉陵江
 喋血嘉凌江
+喋血嘉陵江
 喋血通臂拳
 谍海计中计
 谍战锦屏山
@@ -12030,8 +12032,8 @@ use_preset_vocabulary: true
 年年窗花俏
 年轻的皇后
 年轻的朋友
-年青的一代
 年轻的一代
+年青的一代
 年兽大作战
 念书的孩子
 娘子军传奇
@@ -14354,8 +14356,8 @@ use_preset_vocabulary: true
 为孩子们祝福
 为了你的微笑
 为了这片土地
-卫斯里蓝血人
 卫斯理蓝血人
+卫斯里蓝血人
 未完成的喜剧
 蔚蓝色的杭盖
 温暖的倒春寒
@@ -16030,8 +16032,8 @@ use_preset_vocabulary: true
 太阳照亮了红石沟
 泰迪熊之玩具大战
 陶宝萍的幸福生活
-天上掉下个琳妹妹
 天上掉下个林妹妹
+天上掉下个琳妹妹
 天生神探之千年咒
 天生神探之双子座
 屠门镇之绑架风暴
@@ -16135,6 +16137,7 @@ use_preset_vocabulary: true
 一只狗的大学时光
 姨妈的后现代生活
 遗落在山里的星星
+以年为单位的恋爱
 银色头发的阿基德
 英雄豪杰之苏乞儿
 鹦哥岭之盗猎禁区

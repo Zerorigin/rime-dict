@@ -8,7 +8,7 @@
 #
 # 部署位置：
 # ~/.config/ibus/rime   (Linux)
-# ~/Library/Rime        (Mac OS)
+# ~/Library/Rime        (macOS)
 # %AppData%/Rime        (Windows)
 # /sdcard/rime          (Android)
 #
@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.11
+version: 2021.12.16
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -926,6 +926,7 @@ use_preset_vocabulary: true
 百川能源
 百达精工
 百大集团
+百济神州
 百克生物
 百利电气
 百利科技
@@ -1188,8 +1189,8 @@ use_preset_vocabulary: true
 大亚圣象
 大洋电机
 大洋生物
-大叶股份
 大业股份
+大叶股份
 大烨智能
 大禹节水
 大元泵业
@@ -1223,8 +1224,8 @@ use_preset_vocabulary: true
 德尔未来
 德方纳米
 德宏股份
-德力股份
 德利股份
+德力股份
 德联集团
 德马科技
 德美化工
@@ -1574,8 +1575,8 @@ use_preset_vocabulary: true
 国发股份
 国芳集团
 国风塑业
-国光电气
 国光电器
+国光电气
 国光股份
 国光连锁
 国海证券
@@ -1917,8 +1918,8 @@ use_preset_vocabulary: true
 华纺股份
 华峰测控
 华峰超纤
-华锋股份
 华丰股份
+华锋股份
 华峰化学
 华峰铝业
 华孚时尚
@@ -2129,6 +2130,7 @@ use_preset_vocabulary: true
 加加食品
 嘉澳环保
 嘉诚国际
+嘉和美康
 嘉亨家化
 嘉化能源
 嘉美包装
@@ -2762,6 +2764,7 @@ use_preset_vocabulary: true
 蒙娜丽莎
 蒙泰高新
 梦洁股份
+梦天家居
 梦网科技
 密尔克卫
 密封科技
@@ -3719,6 +3722,7 @@ use_preset_vocabulary: true
 武汉凡谷
 武汉控股
 武进不锈
+物产环能
 物产中大
 熙菱信息
 西安旅游
