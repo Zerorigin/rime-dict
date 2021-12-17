@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2021.12.17
+version: 2021.12.18
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3471,6 +3471,7 @@ use_preset_vocabulary: true
 偷心者
 偷鱼贼
 投名状
+突破口
 图兰朵
 兔儿爷
 兔送信
