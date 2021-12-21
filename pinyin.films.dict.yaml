@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2021.12.18
+version: 2021.12.22
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11729,6 +11729,7 @@ use_preset_vocabulary: true
 黎乡遇见你
 李茶的姑妈
 李二嫂改嫁
+李茂扮太子
 李米的猜想
 李天保娶亲
 李知凡太太

@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.16
+version: 2021.12.22
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1791,6 +1791,7 @@ use_preset_vocabulary: true
 河钢资源
 河化股份
 禾丰股份
+禾迈股份
 禾盛新材
 禾望电气
 禾信仪器
