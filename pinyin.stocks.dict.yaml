@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.22
+version: 2021.12.23
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2835,6 +2835,7 @@ use_preset_vocabulary: true
 南山铝业
 南山智尚
 南天信息
+南网科技
 南网能源
 南威软件
 南微医学
