@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2021.12.24
+version: 2021.12.25
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10381,6 +10381,7 @@ use_preset_vocabulary: true
 追金行动
 追梦赤子
 追梦年华
+追梦少年
 追梦险途
 追梦英雄
 追你而来

@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.24
+version: 2021.12.25
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2393,6 +2393,7 @@ use_preset_vocabulary: true
 巨星科技
 巨星农牧
 巨一科技
+炬光科技
 炬华科技
 炬申股份
 炬芯科技
@@ -2844,6 +2845,7 @@ use_preset_vocabulary: true
 南兴股份
 南亚新材
 内蒙华电
+内蒙新华
 内蒙一机
 能辉科技
 能科科技
