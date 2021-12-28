@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.25
+version: 2021.12.29
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1448,6 +1448,7 @@ use_preset_vocabulary: true
 富通信息
 富祥药业
 富信科技
+概伦电子
 甘化科工
 甘李药业
 甘肃电投
@@ -2829,6 +2830,7 @@ use_preset_vocabulary: true
 南京证券
 南凌科技
 南岭民爆
+南模生物
 南宁百货
 南宁糖业
 南侨食品
@@ -3608,6 +3610,7 @@ use_preset_vocabulary: true
 铜峰电子
 铜陵有色
 铜牛信息
+统联精密
 透景生命
 图南股份
 外服控股
