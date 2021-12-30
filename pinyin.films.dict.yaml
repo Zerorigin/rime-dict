@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2021.12.29
+version: 2021.12.31
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11933,6 +11933,7 @@ use_preset_vocabulary: true
 梦回搭衣岭
 梦回金沙城
 梦回金莎城
+梦境历险记
 梦境俏佳人
 梦酒家之夜
 梦想的面具
@@ -13795,6 +13796,7 @@ use_preset_vocabulary: true
 大爷和他的狗
 大侦探皮卡丘
 带轱辘的摇篮
+带你去见我妈
 带手铐的旅客
 戴佛珠的藏娃
 弹钢琴的盲童

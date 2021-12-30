@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.29
+version: 2021.12.31
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1144,6 +1144,7 @@ use_preset_vocabulary: true
 春光科技
 春晖智控
 春兰股份
+春立医疗
 春秋电子
 春秋航空
 春兴精工
@@ -2901,6 +2902,7 @@ use_preset_vocabulary: true
 鹏翎股份
 鹏欣资源
 鹏鹞环保
+品高股份
 品茗股份
 品渥食品
 平安银行
