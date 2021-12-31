@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2021.12.31
+version: 2022.01.01
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2081,6 +2081,7 @@ use_preset_vocabulary: true
 汇隆新材
 汇绿生态
 汇纳科技
+汇通集团
 汇通能源
 汇宇制药
 汇源通信
