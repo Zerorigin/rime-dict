@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.01
+version: 2022.01.05
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -353,6 +353,7 @@ use_preset_vocabulary: true
 风语筑
 福莱特
 福立旺
+福龙马
 福然德
 福斯特
 富安娜
