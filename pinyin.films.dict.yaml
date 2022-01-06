@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.01.05
+version: 2022.01.07
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7125,6 +7125,7 @@ use_preset_vocabulary: true
 魔发精灵
 魔法精灵
 魔法老师
+魔法满屋
 魔法奇程
 魔法学院
 魔宫魅影
@@ -9036,6 +9037,7 @@ use_preset_vocabulary: true
 无尽攀登
 无梦之年
 无冕之王
+无名故事
 无名机车
 无名英雄
 无名之辈

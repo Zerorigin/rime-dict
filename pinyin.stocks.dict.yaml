@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.06
+version: 2022.01.07
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1615,6 +1615,7 @@ use_preset_vocabulary: true
 国网信通
 国网英大
 国新健康
+国芯科技
 国新能源
 国新文化
 国信证券
