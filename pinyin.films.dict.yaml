@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.01.07
+version: 2022.01.08
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -426,6 +426,7 @@ use_preset_vocabulary: true
 古曼
 古镇
 股疯
+谷魂
 谷雨
 骨瓷
 鼓王
@@ -6769,6 +6770,7 @@ use_preset_vocabulary: true
 零八三七
 零点杀机
 零点行动
+零度极限
 岭上花开
 领袖情怀
 另类村姑

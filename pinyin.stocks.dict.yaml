@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.07
+version: 2022.01.08
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3944,6 +3944,7 @@ use_preset_vocabulary: true
 亚邦股份
 亚宝药业
 亚光科技
+亚虹医药
 亚钾国际
 亚康股份
 亚联发展
