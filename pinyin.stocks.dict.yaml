@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.08
+version: 2022.01.13
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1135,6 +1135,7 @@ use_preset_vocabulary: true
 创维数字
 创新医疗
 创兴资源
+创耀科技
 创业黑马
 创业环保
 创业慧康
@@ -3567,6 +3568,7 @@ use_preset_vocabulary: true
 天源迪科
 天元股份
 天原股份
+天岳先进
 天泽信息
 天正电气
 天舟文化
