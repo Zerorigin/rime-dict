@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.13
+version: 2022.01.15
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -887,6 +887,7 @@ use_preset_vocabulary: true
 鞍钢股份
 鞍重股份
 昂立教育
+翱捷科技
 傲农生物
 奥飞数据
 奥飞娱乐
