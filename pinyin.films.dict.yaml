@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.01.13
+version: 2022.01.19
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -12815,6 +12815,7 @@ use_preset_vocabulary: true
 我们爱农村
 我们毕业啦
 我们的爱情
+我们的冬奥
 我们的嗓嘎
 我们的生活
 我们的十年

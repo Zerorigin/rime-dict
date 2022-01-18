@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.15
+version: 2022.01.19
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2367,6 +2367,7 @@ use_preset_vocabulary: true
 经纬辉开
 景峰医药
 景津环保
+景津装备
 景旺电子
 景兴纸业
 靖远煤电
@@ -2735,6 +2736,7 @@ use_preset_vocabulary: true
 迈普医学
 迈瑞医疗
 迈拓股份
+迈威生物
 迈为股份
 麦迪科技
 麦格米特
