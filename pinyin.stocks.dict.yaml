@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.19
+version: 2022.01.20
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1336,6 +1336,7 @@ use_preset_vocabulary: true
 东瑞股份
 东山精密
 东土科技
+东望时代
 东威科技
 东吴证券
 东芯股份
