@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.01.19
+version: 2022.01.22
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1330,6 +1330,7 @@ use_preset_vocabulary: true
 私奔
 私了
 死证
+四海
 四戒
 送礼
 送粮
@@ -2698,6 +2699,7 @@ use_preset_vocabulary: true
 酒厂行
 救豪猪
 救婴记
+狙击手
 狙击者
 局中局
 桔园情
@@ -14504,6 +14506,7 @@ use_preset_vocabulary: true
 小动物大英雄
 小鹅与红房子
 小胡同大尊严
+小虎墩大英雄
 小黄人大眼萌
 小黄鼬的故事
 小建的合唱团
@@ -15731,6 +15734,7 @@ use_preset_vocabulary: true
 长大尾巴的免子
 长冈的难忘岁月
 长江七号爱地球
+长津湖之水门桥
 长在屋里的竹笋
 照片中的谋杀案
 浙江青年到宁夏
@@ -16214,6 +16218,7 @@ use_preset_vocabulary: true
 长成一棵树的岁月
 赵尚志智取五常堡
 折腾出来的金窝窝
+这个杀手不太冷静
 这里的黎明静悄悄
 只要你过得比我好
 周恩来的四个昼夜
