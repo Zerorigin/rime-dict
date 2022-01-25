@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.22
+version: 2022.01.26
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -929,6 +929,7 @@ use_preset_vocabulary: true
 百川能源
 百达精工
 百大集团
+百合股份
 百济神州
 百克生物
 百利电气
@@ -3645,6 +3646,7 @@ use_preset_vocabulary: true
 万和电气
 万华化学
 万集科技
+万朗磁塑
 万里股份
 万林物流
 万隆光电
