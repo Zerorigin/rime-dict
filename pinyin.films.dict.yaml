@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.01.26
+version: 2022.01.27
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -14776,6 +14776,7 @@ use_preset_vocabulary: true
 不想恋爱的青春
 不想长高的孩子
 不要钱的出租屋
+不要忘记我爱你
 不愿沉默的知了
 彩虹总在风雨后
 彩月和她的情人

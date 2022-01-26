@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.26
+version: 2022.01.27
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2352,6 +2352,7 @@ use_preset_vocabulary: true
 晶丰明源
 晶华新材
 晶科科技
+晶科能源
 晶瑞电材
 晶盛机电
 晶雪节能
