@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.27
+version: 2022.01.28
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3702,6 +3702,7 @@ use_preset_vocabulary: true
 伟思医疗
 伟星股份
 伟星新材
+纬德信息
 卫光生物
 卫宁健康
 卫星化学
@@ -4295,6 +4296,7 @@ use_preset_vocabulary: true
 浙文互联
 浙文影业
 真爱美家
+臻镭科技
 振邦智能
 振德医疗
 振东制药
