@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.01.28
+version: 2022.02.09
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -38,6 +38,7 @@ use_preset_vocabulary: true
 博信
 步森
 昌鱼
+超讯
 晨鸣
 晨鑫
 澄星
