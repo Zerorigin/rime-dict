@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.02.11
+version: 2022.02.16
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2526,6 +2526,7 @@ use_preset_vocabulary: true
 旷达科技
 葵花药业
 坤彩科技
+坤恒顺维
 昆仑万维
 昆药集团
 拉芳家化
