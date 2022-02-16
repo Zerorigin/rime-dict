@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.02.16
+version: 2022.02.17
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2382,6 +2382,7 @@ use_preset_vocabulary: true
 诡心墨
 诡新娘
 鬼仙沟
+刿心剑
 桂花雨
 桂香街
 郭富山
@@ -3288,6 +3289,7 @@ use_preset_vocabulary: true
 十分爱
 十级浪
 十七岁
+十三行
 十三月
 十五贯
 十小福
@@ -4755,6 +4757,7 @@ use_preset_vocabulary: true
 大峰祖师
 大富之家
 大哥让位
+大国粮仓
 大黑天神
 大话股神
 大话食神
@@ -7663,6 +7666,7 @@ use_preset_vocabulary: true
 情路悠长
 情侣风尘
 情满草原
+情满茶香
 情满人间
 情满山乡
 情满天山
@@ -9911,6 +9915,7 @@ use_preset_vocabulary: true
 银杏之梦
 隐婚男女
 隐秘日程
+隐入尘烟
 隐身博士
 饮料超人
 印度暴徒
@@ -10372,6 +10377,7 @@ use_preset_vocabulary: true
 朱门玉碎
 猪仔出更
 珠城之恋
+珠峰队长
 诸葛孔明
 诸神之怒
 诸神之战
@@ -14816,6 +14822,7 @@ use_preset_vocabulary: true
 穿越丝路的花雨
 穿越硝烟的歌声
 传奇将军赵尚志
+传奇少年王阳明
 船游中国古运河
 吹吹打打牛三牛
 春草和她的母亲
@@ -15046,6 +15053,7 @@ use_preset_vocabulary: true
 脚尖上的信天游
 秸秆沼气新技术
 街上流行红裙子
+今年过年就结婚
 今生只为遇见你
 今天是个好日子
 今夜在浪漫剧场

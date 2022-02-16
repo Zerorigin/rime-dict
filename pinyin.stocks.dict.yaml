@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.02.16
+version: 2022.02.17
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -823,6 +823,7 @@ use_preset_vocabulary: true
 指南针
 智动力
 智明达
+中触媒
 中达安
 中富通
 中关村
@@ -1779,6 +1780,7 @@ use_preset_vocabulary: true
 合锻智能
 合肥百货
 合肥城建
+合富中国
 合金投资
 合康新能
 合力科技
