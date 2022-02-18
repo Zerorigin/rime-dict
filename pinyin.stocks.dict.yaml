@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.02.17
+version: 2022.02.19
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1006,6 +1006,7 @@ use_preset_vocabulary: true
 本川智能
 本钢板材
 本立科技
+比依股份
 比音勒芬
 必创科技
 必得科技

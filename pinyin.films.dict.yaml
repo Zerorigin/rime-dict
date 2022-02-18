@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.02.18
+version: 2022.02.19
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15238,6 +15238,7 @@ use_preset_vocabulary: true
 你是否依然爱我
 你是我的葱姜蒜
 你在我的世界里
+纽约的一个雨天
 怒放之青春再见
 诺亚方舟漂流记
 女汉子真爱公式
