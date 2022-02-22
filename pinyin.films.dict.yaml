@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.02.19
+version: 2022.02.23
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8984,6 +8984,7 @@ use_preset_vocabulary: true
 我想长大
 我心不死
 我心飞翔
+我心飞扬
 我心雀跃
 我心深处
 我心向上
