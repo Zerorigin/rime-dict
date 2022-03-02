@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.02.23
+version: 2022.03.03
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8107,6 +8107,7 @@ use_preset_vocabulary: true
 神枪雪恨
 神人卡赞
 神圣使命
+神探大战
 神探驾到
 神探罗蒙
 神通佛影
