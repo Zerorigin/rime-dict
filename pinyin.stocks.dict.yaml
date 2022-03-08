@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.02.23
+version: 2022.03.09
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1984,6 +1984,7 @@ use_preset_vocabulary: true
 华平股份
 华骐环保
 华强科技
+华秦科技
 华仁药业
 华荣股份
 华嵘控股
