@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.09
+version: 2022.03.11
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3655,6 +3655,7 @@ use_preset_vocabulary: true
 万和电气
 万华化学
 万集科技
+万控智造
 万朗磁塑
 万里股份
 万林物流

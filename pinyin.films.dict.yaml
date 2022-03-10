@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.03.10
+version: 2022.03.11
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7784,6 +7784,7 @@ use_preset_vocabulary: true
 人命如天
 人皮拼图
 人山人海
+人生大事
 人兽之间
 人体漫游
 人小鬼大
@@ -9923,6 +9924,7 @@ use_preset_vocabulary: true
 饮料超人
 印度暴徒
 印度拉贾
+印度女孩
 印度奇游
 印度往事
 印度制造
