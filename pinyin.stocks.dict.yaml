@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.11
+version: 2022.03.12
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3090,6 +3090,7 @@ use_preset_vocabulary: true
 赛科希德
 赛隆药业
 赛轮轮胎
+赛伦生物
 赛摩智能
 赛诺医疗
 赛升药业
