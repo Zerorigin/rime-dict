@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.12
+version: 2022.03.16
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -638,6 +638,7 @@ use_preset_vocabulary: true
 硕贝德
 司尔特
 司太立
+思林杰
 思瑞浦
 思特奇
 斯迪克
@@ -1474,6 +1475,7 @@ use_preset_vocabulary: true
 高鸿股份
 高澜股份
 高乐股份
+高凌信息
 高盟新材
 高能环境
 高斯贝尔
@@ -2630,6 +2632,7 @@ use_preset_vocabulary: true
 立方数科
 立方制药
 立高食品
+立航科技
 立华股份
 立讯精密
 立中集团
