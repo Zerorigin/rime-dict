@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2022.02.16
+version: 2022.03.17
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1080,6 +1080,7 @@ use_preset_vocabulary: true
 穿甲弹
 传家宝
 窗之外
+闯东口
 闯广东
 闯海人
 闯江湖
@@ -1223,6 +1224,7 @@ use_preset_vocabulary: true
 地道战
 地雷战
 德妃传
+登科录
 等着我
 邓恩铭
 帝皇书
@@ -1290,6 +1292,7 @@ use_preset_vocabulary: true
 高凤翰
 高墙花
 高山青
+高原红
 疙瘩沟
 格斗士
 葛藤凹
@@ -1895,6 +1898,7 @@ use_preset_vocabulary: true
 宋教仁
 宋耀如
 搜索连
+苏北里
 苏乞儿
 酸辣粉
 岁食记
@@ -2071,6 +2075,7 @@ use_preset_vocabulary: true
 新雪豹
 信天游
 幸福草
+幸福村
 幸福路
 幸福桥
 幸福树
@@ -2526,6 +2531,7 @@ use_preset_vocabulary: true
 别样人生
 别样幸福
 滨海帝国
+滨海盐都
 滨海之恋
 兵从天降
 兵法乡村
@@ -2798,6 +2804,7 @@ use_preset_vocabulary: true
 大话八仙
 大话红娘
 大嫁风尚
+大江奔流
 大江大河
 大江东去
 大江作证
@@ -4697,6 +4704,7 @@ use_preset_vocabulary: true
 燃烧的雪
 让爱灿烂
 让爱回家
+让爱继续
 让爱重生
 让你幸福
 热河儿女
@@ -4813,6 +4821,7 @@ use_preset_vocabulary: true
 山花烂漫
 山花怒放
 山里山外
+山南水北
 山塘茶馆
 山外青山
 闪电飚车
@@ -5004,6 +5013,7 @@ use_preset_vocabulary: true
 双喜盈门
 双星奇缘
 双园风云
+双月之下
 双重保险
 双重任务
 水岸人家
@@ -5223,6 +5233,7 @@ use_preset_vocabulary: true
 铁面歌女
 铁牛社区
 铁骑英雄
+铁骑纵横
 铁腕行动
 铁血保镖
 铁血边关
@@ -5263,6 +5274,7 @@ use_preset_vocabulary: true
 桐乡故事
 铜都卫士
 铜鼓密码
+头等大事
 头号前妻
 头条女王
 投行风云
@@ -5286,6 +5298,7 @@ use_preset_vocabulary: true
 完美假期
 完美恋人
 完美生活
+完美说客
 完美先生
 完美兄弟
 完美再婚
@@ -5717,6 +5730,7 @@ use_preset_vocabulary: true
 雪场情缘
 雪落黄河
 雪满弓刀
+雪漫三江
 雪球之舞
 雪山草地
 雪山飞狐
@@ -5933,6 +5947,7 @@ use_preset_vocabulary: true
 赢在美国
 迎风展翅
 影戏传奇
+硬核时代
 拥抱朝阳
 拥抱幸福
 勇敢的心
@@ -6588,6 +6603,7 @@ use_preset_vocabulary: true
 第二次人生
 第二次握手
 第二次相遇
+第六检察部
 第三次求婚
 第三类爱情
 第四类接触
@@ -7482,6 +7498,7 @@ use_preset_vocabulary: true
 青春四周转
 青春托老所
 青春万万岁
+青春限定时
 青春小澎湃
 青春修炼站
 青春须早为
@@ -8249,6 +8266,7 @@ use_preset_vocabulary: true
 要过好日子
 爷们儿难当
 爷们要出嫁
+野马望天山
 业委会主任
 夜幕满天星
 夜色暗涌时
@@ -8458,6 +8476,7 @@ use_preset_vocabulary: true
 致勇敢的我
 中东大饭店
 中关村传奇
+中关村往事
 中国大矿山
 中国合伙人
 中国石油师
@@ -8542,6 +8561,7 @@ use_preset_vocabulary: true
 最美遇见你
 最顽强抵抗
 左半边翅膀
+做自己的光
 阿勒泰的天空
 爱从未离开你
 爱的二八定律
@@ -9684,6 +9704,7 @@ use_preset_vocabulary: true
 老爹要住养老院
 老公的麻辣宣言
 老公们的私房钱
+老妈的快乐时光
 老蒲的春夏秋冬
 老汤家的掌门人
 了不起的创客邦
@@ -9956,6 +9977,7 @@ use_preset_vocabulary: true
 岁月是朵两生花
 岁月有迹有春天
 孙老师和同学们
+他从火光中走来
 她们灿烂的人生
 踏着彩虹的我们
 太极宗师陈王廷
@@ -9997,6 +10019,7 @@ use_preset_vocabulary: true
 脱了军装还是兵
 外来媳妇本地郎
 完美妈妈成长记
+万家灯火平安夜
 万米高空的俊颜
 万木霜天红烂漫
 万水千山风雨情
@@ -10521,6 +10544,7 @@ use_preset_vocabulary: true
 你问我爱你有多深
 你知道我在等你吗
 年轻的朋友来相会
+女博士的美丽事业
 女汉子的幸福生活
 女人至死都是少年
 女爷是这样炼成的
@@ -10599,6 +10623,7 @@ use_preset_vocabulary: true
 我们的微幸福时代
 我们的幸福不是梦
 我们说好的爱情呢
+我们与法庭的距离
 我们最美好的十年
 我拿什么奉献给您
 我亲爱的小姨子们

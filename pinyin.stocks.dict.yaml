@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.16
+version: 2022.03.17
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3421,6 +3421,7 @@ use_preset_vocabulary: true
 思维列控
 思源电气
 斯达半导
+斯瑞新材
 四川成渝
 四川金顶
 四川九洲
