@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.17
+version: 2022.03.18
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1488,6 +1488,7 @@ use_preset_vocabulary: true
 格力地产
 格力电器
 格林精密
+格灵深瞳
 公牛集团
 公司简称
 工大高科

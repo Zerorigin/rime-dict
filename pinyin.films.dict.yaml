@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.03.12
+version: 2022.03.18
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10126,6 +10126,7 @@ use_preset_vocabulary: true
 月亮之声
 月满英伦
 月球漫步
+月球陨落
 月色撩人
 月色狰狞
 月上柳梢
