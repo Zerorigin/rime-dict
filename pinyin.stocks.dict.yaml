@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.18
+version: 2022.03.19
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2545,6 +2545,7 @@ use_preset_vocabulary: true
 莱克电气
 莱美药业
 莱绅通灵
+莱特光电
 莱茵生物
 莱茵体育
 兰花科创
@@ -2602,6 +2603,7 @@ use_preset_vocabulary: true
 蕾奥规划
 蠡湖股份
 理邦仪器
+理工导航
 理工光科
 理工环科
 丽臣实业
