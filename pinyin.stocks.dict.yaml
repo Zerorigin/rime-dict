@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.19
+version: 2022.03.23
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1803,6 +1803,7 @@ use_preset_vocabulary: true
 和胜股份
 和顺电气
 和顺石油
+和元生物
 和远气体
 河钢股份
 河钢资源
@@ -2432,6 +2433,7 @@ use_preset_vocabulary: true
 君实生物
 君亭酒店
 君正集团
+均普智能
 均胜电子
 均瑶健康
 钧达股份
