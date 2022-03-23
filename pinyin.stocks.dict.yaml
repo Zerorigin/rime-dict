@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.23
+version: 2022.03.24
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3380,6 +3380,7 @@ use_preset_vocabulary: true
 首华燃气
 首开股份
 首旅酒店
+首药控股
 舒华体育
 曙光股份
 数码视讯
