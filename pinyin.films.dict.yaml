@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.03.18
+version: 2022.03.25
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4355,6 +4355,7 @@ use_preset_vocabulary: true
 边境缉凶
 边境迷雾
 边塞烽火
+边缘行者
 边寨烽火
 变身超人
 变身攻略
@@ -13300,6 +13301,7 @@ use_preset_vocabulary: true
 一样的天空
 一夜未了情
 一直是晴天
+一周的朋友
 伊阿索密码
 伊宁不眠夜
 伊宁一条街

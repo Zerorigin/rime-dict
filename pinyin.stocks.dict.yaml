@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.24
+version: 2022.03.25
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3938,6 +3938,7 @@ use_preset_vocabulary: true
 兴蓉环境
 兴瑞科技
 兴森科技
+兴通股份
 兴图新科
 兴业股份
 兴业科技
