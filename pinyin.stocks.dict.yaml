@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.25
+version: 2022.03.26
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2731,6 +2731,7 @@ use_preset_vocabulary: true
 露天煤业
 露笑科技
 鹭燕医药
+鹿山新材
 罗博特科
 罗莱生活
 罗曼股份
