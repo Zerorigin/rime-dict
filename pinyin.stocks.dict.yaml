@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.26
+version: 2022.03.30
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1090,6 +1090,7 @@ use_preset_vocabulary: true
 郴电国际
 宸展光电
 晨丰科技
+晨光股份
 晨光生物
 晨光文具
 晨光新材
@@ -1356,6 +1357,7 @@ use_preset_vocabulary: true
 东易日盛
 东岳硅材
 东珠生态
+动力新科
 豆神教育
 读客文化
 读者传媒
@@ -3647,6 +3649,7 @@ use_preset_vocabulary: true
 统联精密
 透景生命
 图南股份
+退市新亿
 外服控股
 丸美股份
 完美世界
