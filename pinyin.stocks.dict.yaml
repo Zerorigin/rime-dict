@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.30
+version: 2022.03.31
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3030,6 +3030,7 @@ use_preset_vocabulary: true
 人福医药
 人民同泰
 仁东控股
+仁度生物
 仁和药业
 日播时尚
 日辰股份
