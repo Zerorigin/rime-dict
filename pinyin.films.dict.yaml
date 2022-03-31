@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.03.25
+version: 2022.04.01
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11335,6 +11335,7 @@ use_preset_vocabulary: true
 和谐一家亲
 核桃梦圆了
 河对岸是山
+盒子的秘密
 黑暗终结者
 黑白启示录
 黑白照相馆
@@ -15657,6 +15658,7 @@ use_preset_vocabulary: true
 阳关灿烂的日子
 阳光灿烂的夏天
 阳光总在风雨后
+幺妹住在十三寨
 姚喆游击大青山
 摇摇晃晃的人间
 遥望南方的童年

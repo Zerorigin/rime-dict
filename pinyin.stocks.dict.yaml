@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.03.31
+version: 2022.04.01
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3050,6 +3050,7 @@ use_preset_vocabulary: true
 戎美股份
 榕基软件
 荣安地产
+荣昌生物
 荣晟环保
 荣丰控股
 荣科科技
