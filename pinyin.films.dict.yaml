@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.04.01
+version: 2022.04.02
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15778,6 +15778,7 @@ use_preset_vocabulary: true
 只羡鸳鸯不羡仙
 只想和你在一起
 只要我们在一起
+致我的陌生恋人
 中俄列车大劫案
 中国的木偶艺术
 中国功夫少女组

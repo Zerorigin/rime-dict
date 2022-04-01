@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.01
+version: 2022.04.02
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4244,6 +4244,7 @@ use_preset_vocabulary: true
 长方集团
 长飞光纤
 长高集团
+长光华芯
 长海股份
 长航凤凰
 长鸿高科
