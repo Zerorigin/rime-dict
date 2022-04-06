@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.02
+version: 2022.04.07
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -205,6 +205,7 @@ use_preset_vocabulary: true
 星星
 星源
 熊猫
+璇风
 雪莱
 雅博
 亚星
