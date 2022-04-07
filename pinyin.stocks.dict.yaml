@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.07
+version: 2022.04.08
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4409,6 +4409,7 @@ use_preset_vocabulary: true
 中飞股份
 中孚信息
 中富电路
+中复神鹰
 中钢国际
 中钢天源
 中公高科
