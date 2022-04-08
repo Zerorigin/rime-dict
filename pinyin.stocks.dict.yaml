@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.08
+version: 2022.04.09
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2949,6 +2949,7 @@ use_preset_vocabulary: true
 普洛药业
 普门科技
 普冉股份
+普源精电
 普元信息
 浦东建设
 浦东金桥
