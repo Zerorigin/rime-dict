@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.09
+version: 2022.04.13
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3720,6 +3720,7 @@ use_preset_vocabulary: true
 维康药业
 维科技术
 维力医疗
+维维股份
 维业股份
 维远股份
 韦尔股份

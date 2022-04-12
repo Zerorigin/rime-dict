@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.04.02
+version: 2022.04.13
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -12952,6 +12952,7 @@ use_preset_vocabulary: true
 舞动我青春
 舞狮人传奇
 悟空奇遇记
+误杀瞒天记
 雾中的剑旗
 夕阳也风流
 希望的方向
