@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2022.03.17
+version: 2022.04.14
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1905,6 +1905,7 @@ use_preset_vocabulary: true
 岁岁红
 孙思邈
 锁梦楼
+他是谁
 踏沧然
 踏雪寻
 台儿庄
@@ -2626,6 +2627,7 @@ use_preset_vocabulary: true
 产科医生
 忏悔之门
 常开笑口
+厂里厂外
 唱出彩虹
 超级宝贝
 超级菜鸟
@@ -3366,6 +3368,7 @@ use_preset_vocabulary: true
 海上繁花
 海氏花局
 海苔公司
+海天雄鹰
 海外救援
 海峡恋人
 海洋女儿
@@ -3997,6 +4000,7 @@ use_preset_vocabulary: true
 离婚男人
 离婚协议
 离职攻略
+黎明将至
 黎明之前
 黎明之战
 黎明追剿
@@ -4019,6 +4023,7 @@ use_preset_vocabulary: true
 恋爱先生
 恋爱专家
 恋恋不忘
+恋恋匠心
 恋恋阙歌
 恋恋时光
 恋恋星空
@@ -4314,6 +4319,7 @@ use_preset_vocabulary: true
 明珠游龙
 茗天闪亮
 铭心刻骨
+鸣龙少年
 命若琴弦
 命悬一线
 命运对决
@@ -4494,6 +4500,7 @@ use_preset_vocabulary: true
 乒乓家族
 凭海临风
 平安是福
+平凡之路
 平湖往事
 平民英雄
 平西线上
@@ -5002,6 +5009,7 @@ use_preset_vocabulary: true
 淑女之家
 熟男不婚
 曙光之裔
+蜀风乡音
 蜀汉茶馆
 蜀锦人家
 数字时代
@@ -5297,6 +5305,7 @@ use_preset_vocabulary: true
 完美计划
 完美假期
 完美恋人
+完美如她
 完美生活
 完美说客
 完美先生
@@ -5371,6 +5380,7 @@ use_preset_vocabulary: true
 汶川故事
 问鼎中原
 问心无愧
+翁婿和合
 我爱老友
 我爱你家
 我本纯真
@@ -5451,6 +5461,7 @@ use_preset_vocabulary: true
 无声恋曲
 无为婚姻
 无畏英雄
+无形之刃
 无忧之地
 五彩呈祥
 五彩琉璃
@@ -5538,6 +5549,7 @@ use_preset_vocabulary: true
 县长达仁
 现场铁证
 线上线下
+限速人生
 乡村大业
 乡村法庭
 乡村故事
@@ -6250,6 +6262,7 @@ use_preset_vocabulary: true
 竹马青梅
 逐爱天堂
 逐梦时代
+主任来了
 煮夫正传
 煮妇神探
 祝你平安
@@ -6260,6 +6273,7 @@ use_preset_vocabulary: true
 专列一号
 转身就走
 转战陕北
+庄严承诺
 庄子传奇
 壮美人生
 壮士一去
@@ -6323,6 +6337,7 @@ use_preset_vocabulary: true
 爱的创可贴
 爱的妇产科
 爱的交响乐
+爱的勘探法
 爱的三重奏
 爱的双行线
 爱的屋檐下
@@ -6816,6 +6831,7 @@ use_preset_vocabulary: true
 海上嫁女记
 海上牧云记
 海上升明月
+海上游击队
 海外安全官
 海鲜素食馆
 旱天雷行动
@@ -6828,6 +6844,7 @@ use_preset_vocabulary: true
 好人宝二哥
 好人罗达贵
 好事不出门
+好一方水土
 何以笙箫默
 和爱去旅行
 和平与战争
@@ -7608,6 +7625,7 @@ use_preset_vocabulary: true
 闪闪的国徽
 闪耀的品格
 闪耀的她们
+商圣陶朱公
 商业调查师
 商战上海滩
 上海的世界
@@ -8153,6 +8171,7 @@ use_preset_vocabulary: true
 星星耀太空
 星选者联盟
 刑警的诺言
+刑警的日子
 幸福保卫战
 幸福不是梦
 幸福不远处
@@ -8239,6 +8258,7 @@ use_preset_vocabulary: true
 鸭绿江风云
 哑父与花花
 雅典娜女神
+烟火江湖情
 烟雨北京城
 烟雨梦江南
 烟雨三河镇
@@ -8641,6 +8661,7 @@ use_preset_vocabulary: true
 嫦娥奔月传奇
 厂卫之攻心战
 唱过整个夏天
+超时空护卫队
 朝阳下春风里
 炒鱿鱼面谈官
 尘缘之解离诀
@@ -8835,6 +8856,7 @@ use_preset_vocabulary: true
 金粉世家之梦
 金粉世家之飘
 金色的伊犁河
+近在云端的你
 京港爱情故事
 井塔上的天轮
 警务站的故事
@@ -8934,6 +8956,7 @@ use_preset_vocabulary: true
 南京爱情故事
 南梁武帝萧衍
 南通人在非洲
+你比星光美丽
 你不是我爸爸
 你好岳父大人
 你是我的答案
@@ -9436,6 +9459,7 @@ use_preset_vocabulary: true
 北京遇上西雅图
 北纬十七度以北
 被风吹散的青春
+奔赴下一场山海
 奔腾到海不复回
 遍地狼烟之猎杀
 彪哥的快乐生活
@@ -9543,6 +9567,7 @@ use_preset_vocabulary: true
 二十四桥明月夜
 发错信息嫁对郎
 繁花盛开的夏天
+芳华绽放的年代
 飞越国界的风筝
 奋不顾身的爱情
 风吹樟树满村香
@@ -9774,6 +9799,7 @@ use_preset_vocabulary: true
 喵小姐与汪先生
 民族英雄戚继光
 名为梦想的翅膀
+明天是个好天气
 命中注定的爱恋
 摩登中产恋爱时
 魔术学院之傲客
@@ -10221,6 +10247,7 @@ use_preset_vocabulary: true
 小襄的美丽人生
 小镇有个王警官
 肖叮叮的剿匪记
+斜杠青年欢乐多
 斜杠青年养成记
 谢谢你一直都在
 谢谢生命中有你
@@ -10481,6 +10508,7 @@ use_preset_vocabulary: true
 国防生之烈火海洋
 好好学习天天向上
 好男儿之情感护理
+好日子都在歌里过
 郝大郎的好吃大院
 和空姐一起的日子
 黑咖啡也可以很甜

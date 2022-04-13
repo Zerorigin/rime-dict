@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.04.13
+version: 2022.04.14
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -16529,6 +16529,7 @@ use_preset_vocabulary: true
 我的宝贝老爸宝贝妈
 我的心里住着一只猫
 我没谈完的那场恋爱
+我是真的讨厌异地恋
 我与母亲的那段日子
 无间行者之生死潜行
 五月天人生无限公司
