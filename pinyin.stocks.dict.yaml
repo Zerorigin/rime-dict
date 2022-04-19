@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.13
+version: 2022.04.20
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1204,6 +1204,7 @@ use_preset_vocabulary: true
 大业股份
 大叶股份
 大烨智能
+大有能源
 大禹节水
 大元泵业
 大中矿业
@@ -3456,6 +3457,7 @@ use_preset_vocabulary: true
 松发股份
 松井股份
 松霖科技
+松炀资源
 松原股份
 松芝股份
 宋城演艺

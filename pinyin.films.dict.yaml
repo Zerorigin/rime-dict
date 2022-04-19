@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.04.14
+version: 2022.04.20
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -12758,6 +12758,7 @@ use_preset_vocabulary: true
 万万没想到
 万一有一天
 亡命地中海
+亡命救护车
 王二姐思夫
 王老虎抢亲
 王老五添丁
