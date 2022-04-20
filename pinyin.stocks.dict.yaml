@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.20
+version: 2022.04.21
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1195,6 +1195,7 @@ use_preset_vocabulary: true
 大庆华科
 大全能源
 大商股份
+大唐电信
 大唐发电
 大通燃气
 大为股份
