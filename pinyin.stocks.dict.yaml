@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.21
+version: 2022.04.22
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3656,7 +3656,9 @@ use_preset_vocabulary: true
 统联精密
 透景生命
 图南股份
+退市拉夏
 退市新亿
+退市中新
 外服控股
 丸美股份
 完美世界
