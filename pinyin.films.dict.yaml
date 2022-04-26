@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.04.20
+version: 2022.04.27
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5871,6 +5871,7 @@ use_preset_vocabulary: true
 画室惊魂
 话梦光影
 淮上人家
+坏蛋联盟
 欢欢笑笑
 欢乐宝宝
 欢乐常在

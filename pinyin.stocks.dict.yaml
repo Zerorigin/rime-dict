@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.22
+version: 2022.04.27
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -239,6 +239,7 @@ use_preset_vocabulary: true
 中珠
 众泰
 众应
+洲际
 阿尔特
 阿科力
 阿拉丁
@@ -1618,6 +1619,7 @@ use_preset_vocabulary: true
 国旅联合
 国脉科技
 国茂股份
+国美通讯
 国民技术
 国瑞科技
 国睿科技
