@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.27
+version: 2022.04.28
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -79,6 +79,7 @@ use_preset_vocabulary: true
 赫美
 恒光
 恒康
+恒誉
 宏图
 弘高
 沪科
@@ -220,6 +221,7 @@ use_preset_vocabulary: true
 远程
 粤泰
 云投
+运盛
 张裕
 长安
 长动
