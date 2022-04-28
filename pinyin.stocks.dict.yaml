@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.28
+version: 2022.04.29
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -92,6 +92,7 @@ use_preset_vocabulary: true
 华仪
 华英
 华钰
+华源
 华资
 环球
 皇庭

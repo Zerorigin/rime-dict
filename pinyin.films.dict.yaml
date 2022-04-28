@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.04.27
+version: 2022.04.29
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -13590,6 +13590,7 @@ use_preset_vocabulary: true
 总统浪漫史
 走出大森林
 走出地平线
+走出炭子冲
 走出西柏坡
 走访地下城
 走访洛杉矶
