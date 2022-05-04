@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.04.29
+version: 2022.05.05
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -58,6 +58,7 @@ use_preset_vocabulary: true
 东网
 东旭
 东洋
+泛微
 方大
 方科
 飞马
@@ -148,6 +149,7 @@ use_preset_vocabulary: true
 起步
 全新
 群兴
+热电
 仁智
 戎美
 榕泰
@@ -189,6 +191,7 @@ use_preset_vocabulary: true
 瓦轴
 万方
 万科
+万林
 万祥
 网力
 威尔
@@ -285,6 +288,7 @@ use_preset_vocabulary: true
 白云山
 百奥泰
 百合花
+百花村
 保立佳
 保力新
 保龄宝
