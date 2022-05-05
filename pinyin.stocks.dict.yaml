@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.05
+version: 2022.05.06
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -35,6 +35,7 @@ use_preset_vocabulary: true
 宝德
 北文
 冰山
+博天
 博信
 步森
 昌鱼
@@ -129,6 +130,7 @@ use_preset_vocabulary: true
 联建
 林重
 柳工
+龙净
 龙韵
 鲁泰
 罗顿
@@ -139,6 +141,7 @@ use_preset_vocabulary: true
 美讯
 猛狮
 米奥
+明诚
 明科
 摩登
 目药
@@ -246,6 +249,7 @@ use_preset_vocabulary: true
 众泰
 众应
 洲际
+紫晶
 阿尔特
 阿科力
 阿拉丁
@@ -890,6 +894,7 @@ use_preset_vocabulary: true
 安宁股份
 安琪酵母
 安硕信息
+安泰集团
 安泰科技
 安通控股
 安图生物

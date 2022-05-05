@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.04.29
+version: 2022.05.06
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11608,6 +11608,7 @@ use_preset_vocabulary: true
 敬礼检察官
 静静的摇篮
 囧会遇到爱
+囧男进化论
 九九艳阳天
 九克拉战栗
 九龙杯传奇
