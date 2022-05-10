@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.06
+version: 2022.05.11
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1259,6 +1259,7 @@ use_preset_vocabulary: true
 德赛电池
 德赛西威
 德生科技
+德新交运
 德业股份
 德艺文创
 德展健康
@@ -3574,6 +3575,7 @@ use_preset_vocabulary: true
 天健集团
 天箭科技
 天津普林
+天津松江
 天康生物
 天利科技
 天龙股份
@@ -3846,6 +3848,7 @@ use_preset_vocabulary: true
 湘邮科技
 襄阳轴承
 香江控股
+香梨股份
 香农芯创
 香山股份
 香雪制药
@@ -4022,6 +4025,7 @@ use_preset_vocabulary: true
 亚威股份
 亚翔集成
 亚信安全
+亚星化学
 亚星客车
 亚星锚链
 亚振家居

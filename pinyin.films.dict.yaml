@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.05.06
+version: 2022.05.11
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6387,6 +6387,7 @@ use_preset_vocabulary: true
 巨额来电
 巨鳄风暴
 巨奖传奇
+巨星嫁到
 拒绝采访
 拒绝来访
 飓风奇劫
