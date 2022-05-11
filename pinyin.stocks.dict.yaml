@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.11
+version: 2022.05.12
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4577,6 +4577,7 @@ use_preset_vocabulary: true
 中能电气
 中农立华
 中农联合
+中葡股份
 中旗股份
 中旗新材
 中潜股份
