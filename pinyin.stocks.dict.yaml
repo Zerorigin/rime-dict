@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.12
+version: 2022.05.13
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -227,6 +227,7 @@ use_preset_vocabulary: true
 园城
 远程
 粤泰
+云城
 云投
 运盛
 张裕
