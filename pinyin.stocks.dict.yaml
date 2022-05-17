@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.13
+version: 2022.05.18
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2350,6 +2350,7 @@ use_preset_vocabulary: true
 金字火腿
 金自天正
 锦富技术
+锦和商管
 锦和商业
 锦泓集团
 锦鸡股份
@@ -2711,6 +2712,7 @@ use_preset_vocabulary: true
 隆华新材
 隆基股份
 隆基机械
+隆基绿能
 隆利科技
 隆平高科
 隆盛科技
@@ -3674,6 +3676,8 @@ use_preset_vocabulary: true
 透景生命
 图南股份
 退市拉夏
+退市绿庭
+退市西水
 退市新亿
 退市中新
 外服控股
