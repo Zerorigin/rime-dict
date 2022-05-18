@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.05.11
+version: 2022.05.19
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -425,6 +425,7 @@ use_preset_vocabulary: true
 古路
 古曼
 古镇
+瞽师
 股疯
 谷魂
 谷雨
@@ -12238,6 +12239,7 @@ use_preset_vocabulary: true
 青春后驱动
 青春集合号
 青春检察官
+青春是首歌
 青春逐梦者
 青花瓷之谜
 青面兽杨志
