@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.18
+version: 2022.05.20
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1201,6 +1201,7 @@ use_preset_vocabulary: true
 大立科技
 大连电瓷
 大连热电
+大连圣亚
 大连友谊
 大连重工
 大龙地产
@@ -4437,6 +4438,7 @@ use_preset_vocabulary: true
 中电兴发
 中鼎股份
 中飞股份
+中孚实业
 中孚信息
 中富电路
 中复神鹰
