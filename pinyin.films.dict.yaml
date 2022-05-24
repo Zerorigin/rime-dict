@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.05.19
+version: 2022.05.25
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -16423,6 +16423,7 @@ use_preset_vocabulary: true
 今年夏天我们在一起
 镜花缘之决战女儿国
 卡车上掉下的小提琴
+开心超人之英雄的心
 铠甲勇士之雅塔莱斯
 空天战队之星兽大战
 快乐星球之三十六号

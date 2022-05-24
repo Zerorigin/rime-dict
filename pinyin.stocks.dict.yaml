@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.20
+version: 2022.05.25
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -392,6 +392,7 @@ use_preset_vocabulary: true
 广誉远
 广州港
 桂发祥
+贵人鸟
 国安达
 国科微
 哈尔斯
@@ -2460,6 +2461,7 @@ use_preset_vocabulary: true
 均胜电子
 均瑶健康
 钧达股份
+骏亚科技
 开创国际
 开尔新材
 开开实业
@@ -3676,10 +3678,16 @@ use_preset_vocabulary: true
 统联精密
 透景生命
 图南股份
+退市昌鱼
 退市拉夏
+退市罗顿
 退市绿庭
+退市明科
 退市西水
 退市新亿
+退市游久
+退市中房
+退市中天
 退市中新
 外服控股
 丸美股份
