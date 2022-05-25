@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.25
+version: 2022.05.26
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -327,6 +327,7 @@ use_preset_vocabulary: true
 川金诺
 创世纪
 创益通
+达仁堂
 达意隆
 大北农
 大参林
@@ -2074,6 +2075,7 @@ use_preset_vocabulary: true
 华映科技
 华友钴业
 华宇软件
+华钰矿业
 华域汽车
 华源控股
 华远地产
@@ -3685,6 +3687,7 @@ use_preset_vocabulary: true
 退市明科
 退市西水
 退市新亿
+退市易见
 退市游久
 退市中房
 退市中天

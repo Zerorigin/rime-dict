@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.05.25
+version: 2022.05.26
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6271,6 +6271,7 @@ use_preset_vocabulary: true
 紧急营救
 紧急追捕
 锦上添花
+锦绣河山
 锦绣花园
 锦绣前程
 锦绣人生
