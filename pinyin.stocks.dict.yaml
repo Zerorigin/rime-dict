@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.26
+version: 2022.05.27
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2199,6 +2199,7 @@ use_preset_vocabulary: true
 健友股份
 剑桥科技
 建发股份
+建发合诚
 建工修复
 建科机械
 建霖家居
@@ -2712,6 +2713,7 @@ use_preset_vocabulary: true
 柳钢股份
 柳化股份
 柳药股份
+柳药集团
 六国化工
 隆华科技
 隆华新材
@@ -2875,6 +2877,7 @@ use_preset_vocabulary: true
 南华期货
 南华生物
 南华仪器
+南化股份
 南极电商
 南京高科
 南京公用
