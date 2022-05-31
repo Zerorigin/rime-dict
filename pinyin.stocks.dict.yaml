@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.05.27
+version: 2022.06.01
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2744,6 +2744,7 @@ use_preset_vocabulary: true
 龙宇燃油
 龙源技术
 龙元建设
+龙韵股份
 龙洲股份
 陇神戎发
 泸州老窖
