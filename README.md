@@ -20,24 +20,24 @@ Rime 输入法词库 - 字典仓库
 
 数据来源：
 
-$luna_pinyin$
-- ☑ [朙月拼音](https://github.com/rime/rime-luna-pinyin)
+$luna\underline{}pinyin$
+- - [x] [朙月拼音](https://github.com/rime/rime-luna-pinyin)
 
 $pinyin.counties$
-- ☑ [全国行政区划信息查询平台](http://xzqh.mca.gov.cn/map)(县级及以上) - 中华人民共和国民政部
-- ☐ 县级以下
+- - [x] [全国行政区划信息查询平台](http://xzqh.mca.gov.cn/map)(县级及以上) - 中华人民共和国民政部
+- - [ ] 县级以下
 
 $pinyin.films$
-- ☑ [中国电影数据信息网](https://www.zgdypw.cn/) - 国家电影专资办
+- - [x] [中国电影数据信息网](https://www.zgdypw.cn/) - 国家电影专资办
 
 $pinyin.hwxnet$
-- ☑ 现代汉语词典 - [汉文学网](https://cd.hwxnet.com/)
+- - [x] 现代汉语词典 - [汉文学网](https://cd.hwxnet.com/)
 
 $pinyin.soaps$
-- ☑ [电视剧电子政务平台](https://dsj.nrta.gov.cn/index.shanty) - 国家广播电影电视总局
+- - [x] [电视剧电子政务平台](https://dsj.nrta.gov.cn/index.shanty) - 国家广播电影电视总局
 
 $pinyin.stocks$
-- ☑ 上海证券交易所 - [SSE](http://www.sse.com.cn/)
-- ☑ 深圳证券交易所 - [SZSE](http://www.szse.cn/)
-- ☐ 香港交易所 - [HKEX](https://www.hkex.com.hk/)
-- ☐ 台湾证券交易所 -[TWSE](https://www.twse.com.tw/)
+- - [x] 上海证券交易所 - [SSE](http://www.sse.com.cn/)
+- - [x] 深圳证券交易所 - [SZSE](http://www.szse.cn/)
+- - [ ] 香港交易所 - [HKEX](https://www.hkex.com.hk/)
+- - [ ] 台湾证券交易所 -[TWSE](https://www.twse.com.tw/)
