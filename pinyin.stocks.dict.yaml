@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.06.01
+version: 2022.06.02
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3685,10 +3685,12 @@ use_preset_vocabulary: true
 透景生命
 图南股份
 退市昌鱼
+退市环球
 退市拉夏
 退市罗顿
 退市绿庭
 退市明科
+退市厦华
 退市西水
 退市新亿
 退市易见
