@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.06.02
+version: 2022.06.08
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -950,6 +950,7 @@ use_preset_vocabulary: true
 百达精工
 百大集团
 百合股份
+百花医药
 百济神州
 百克生物
 百利电气

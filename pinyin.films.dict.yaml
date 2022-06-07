@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.05.26
+version: 2022.06.08
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -365,6 +365,7 @@ use_preset_vocabulary: true
 飞鹰
 飞羽
 芬芳
+焚情
 奋斗
 丰碑
 丰年
@@ -445,6 +446,7 @@ use_preset_vocabulary: true
 关机
 归巢
 归来
+归路
 归情
 归去
 归宿
@@ -9876,6 +9878,7 @@ use_preset_vocabulary: true
 遗忘空间
 以爱为名
 以岛为家
+以法之名
 以寡敌众
 以血还血
 义薄云天
