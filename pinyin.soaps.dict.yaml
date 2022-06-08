@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2022.05.18
+version: 2022.06.09
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -234,6 +234,7 @@ use_preset_vocabulary: true
 钢魂
 高飞
 高位
+高兴
 根脉
 哏儿
 功勋
@@ -311,6 +312,7 @@ use_preset_vocabulary: true
 花季
 花魁
 花脸
+画眉
 画皮
 画圣
 画乡
@@ -1592,6 +1594,7 @@ use_preset_vocabulary: true
 丽姬传
 丽人行
 厉家寨
+莲花楼
 连城决
 连城诀
 连环套
@@ -1936,6 +1939,7 @@ use_preset_vocabulary: true
 特化师
 特勤组
 特搜组
+天地颂
 天国泪
 天河传
 天狐令
@@ -1946,6 +1950,7 @@ use_preset_vocabulary: true
 天堂绣
 天下师
 天行健
+天增顺
 填四川
 铁哥们
 铁核桃
@@ -2112,6 +2117,7 @@ use_preset_vocabulary: true
 胭脂泪
 胭脂债
 严蕊传
+盐店街
 晏婴传
 燕阳春
 燕云台
@@ -3972,6 +3978,7 @@ use_preset_vocabulary: true
 老白有喜
 老板家事
 老板来了
+老宝贝儿
 老兵客栈
 老兵荣耀
 老大当家
@@ -4125,6 +4132,7 @@ use_preset_vocabulary: true
 陆军一号
 陆军中学
 陆战之王
+鹭岛春潮
 鹿鸣呦呦
 滦河人家
 乱世厨娘
@@ -4206,6 +4214,7 @@ use_preset_vocabulary: true
 冒险婚姻
 帽子戏法
 梅花儿香
+梅花红桃
 梅香傲雪
 玫瑰大院
 玫瑰人生
@@ -4682,6 +4691,7 @@ use_preset_vocabulary: true
 情谜股林
 情暖万家
 情暖谊长
+情洒戈壁
 情洒香山
 情锁民国
 情系兵民
@@ -4985,6 +4995,7 @@ use_preset_vocabulary: true
 石头开花
 食全食美
 食色男女
+食味人间
 使者行动
 始祖炎帝
 世纪沧桑
@@ -6086,6 +6097,7 @@ use_preset_vocabulary: true
 云巅之上
 云端之恋
 云海之恋
+云胡不喜
 云锦传奇
 云卷山河
 云开雾散
@@ -6670,6 +6682,7 @@ use_preset_vocabulary: true
 都市一家人
 都是一家人
 斗气喜乐缘
+独孤剑客行
 独生子女们
 杜鹃的女儿
 杜齐花姑娘
@@ -6924,6 +6937,7 @@ use_preset_vocabulary: true
 欢乐一家亲
 欢乐一家人
 欢喜万家人
+欢笑老弄堂
 欢迎爱光临
 欢迎再结婚
 皇甫谧传奇
@@ -7336,6 +7350,7 @@ use_preset_vocabulary: true
 那棵许愿树
 那龙的早上
 那年枫叶红
+南茶北引赋
 南方枫叶红
 南方有嘉木
 南方有嘉人
@@ -7715,6 +7730,7 @@ use_preset_vocabulary: true
 胜者即花魁
 失恋博物馆
 失落的天使
+狮子山下情
 十八里营盘
 十二金钱镖
 十三根金条
@@ -8003,6 +8019,7 @@ use_preset_vocabulary: true
 我为广告狂
 我为你哭泣
 我想有个爸
+我心向大海
 我要当八路
 我要当空姐
 我要当老板
@@ -8729,6 +8746,7 @@ use_preset_vocabulary: true
 大来府的汉子
 大猫儿追爱记
 大年初一立春
+大山里的女校
 大上海手枪队
 大时代风云录
 大叔的单人床
@@ -9755,6 +9773,7 @@ use_preset_vocabulary: true
 老爸和我是校友
 老爸老妈的情史
 老爸老妈来逼婚
+老板请听我解释
 老爹要住养老院
 老公的麻辣宣言
 老公们的私房钱
@@ -9882,6 +9901,7 @@ use_preset_vocabulary: true
 女人花开艳阳天
 女人三十朱冬花
 女人要过好日子
+女士的恋爱日志
 女婿的美好时代
 盘龙卧虎高山顶
 陪你看烈焰繁花
@@ -9978,6 +9998,7 @@ use_preset_vocabulary: true
 山外青山楼外楼
 山月不知心底事
 杉杉的美味爱情
+闪闪发光的我们
 商圣范蠡与西施
 上错花轿嫁对郎
 上天派我来爱你
@@ -11022,6 +11043,7 @@ use_preset_vocabulary: true
 铠甲勇士猎铠之神脑危机
 美丽乡村系列之幸福乡村
 漂洋过海来看你之异乡人
+贫嘴张大民的幸福新生活
 七十二家房客第十六单元
 乞丐皇帝与大脚皇后传奇
 清明上河图传奇之闯皇城
