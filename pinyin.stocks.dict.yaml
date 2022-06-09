@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.06.08
+version: 2022.06.10
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3687,6 +3687,8 @@ use_preset_vocabulary: true
 图南股份
 退市昌鱼
 退市环球
+退市济堂
+退市金泰
 退市拉夏
 退市罗顿
 退市绿庭
