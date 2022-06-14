@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.06.10
+version: 2022.06.15
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4245,6 +4245,7 @@ use_preset_vocabulary: true
 悦康药业
 悦心健康
 粤桂股份
+粤泰股份
 越博动力
 越剑智能
 越秀金控
