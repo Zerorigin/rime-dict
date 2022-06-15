@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.06.15
+version: 2022.06.16
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2780,6 +2780,7 @@ use_preset_vocabulary: true
 绿的谐波
 绿康生化
 绿盟科技
+绿能慧充
 绿色动力
 绿田机械
 绿茵生态
@@ -3686,6 +3687,7 @@ use_preset_vocabulary: true
 透景生命
 图南股份
 退市昌鱼
+退市海创
 退市环球
 退市济堂
 退市金泰
