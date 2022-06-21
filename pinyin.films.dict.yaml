@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.06.08
+version: 2022.06.22
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -270,6 +270,7 @@ use_preset_vocabulary: true
 岛囧
 盗狗
 道歉
+地火
 地气
 地铁
 德兰
