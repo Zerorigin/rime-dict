@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.06.22
+version: 2022.06.25
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -534,6 +534,7 @@ use_preset_vocabulary: true
 红尘
 红船
 红粉
+红光
 红孩
 红河
 红姐
