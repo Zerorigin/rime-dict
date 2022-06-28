@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.06.25
+version: 2022.06.29
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8946,6 +8946,7 @@ use_preset_vocabulary: true
 我的梦想
 我的母亲
 我的七年
+我的青海
 我的日记
 我的圣途
 我的诗篇

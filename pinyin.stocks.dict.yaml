@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.06.16
+version: 2022.06.29
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -879,6 +879,7 @@ use_preset_vocabulary: true
 安彩高科
 安车检测
 安达维尔
+安孚科技
 安恒信息
 安徽合力
 安徽建工
@@ -1955,6 +1956,7 @@ use_preset_vocabulary: true
 华电国际
 华电能源
 华电重工
+华鼎股份
 华东数控
 华东医药
 华东重机
@@ -3688,6 +3690,7 @@ use_preset_vocabulary: true
 图南股份
 退市昌鱼
 退市海创
+退市海医
 退市环球
 退市济堂
 退市金泰
