@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.06.29
+version: 2022.07.01
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15480,6 +15480,7 @@ use_preset_vocabulary: true
 托尼王的合唱团
 托起明天的太阳
 外来媳妇来地郎
+外太空的莫扎特
 万吨水压机战歌
 万魂镜之诛魔记
 万炮齐发轰瘟神
