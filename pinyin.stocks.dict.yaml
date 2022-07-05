@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.07.01
+version: 2022.07.06
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2341,6 +2341,7 @@ use_preset_vocabulary: true
 金时科技
 金石亚药
 金石资源
+金田股份
 金田铜业
 金沃股份
 金一文化
