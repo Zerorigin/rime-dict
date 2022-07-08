@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.07.01
+version: 2022.07.09
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7022,6 +7022,7 @@ use_preset_vocabulary: true
 蒙古节日
 猛虫过江
 猛警神探
+猛龙出击
 猛龙过江
 猛龙特囧
 孟母三迁
@@ -10418,6 +10419,7 @@ use_preset_vocabulary: true
 追查到底
 追巢魔头
 追风少年
+追光万里
 追虎擒龙
 追剿魔头
 追金行动
@@ -14699,6 +14701,7 @@ use_preset_vocabulary: true
 种太阳的女孩
 重返希日塔拉
 周恩来回延安
+侏罗纪大乐园
 朱小皮的故事
 猪八戒吃西瓜
 猪太狼的夏天
