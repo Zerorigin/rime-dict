@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2022.06.09
+version: 2022.07.15
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -93,6 +93,7 @@ use_preset_vocabulary: true
 晨昏
 晨阳
 沉默
+成家
 成长
 承诺
 赤焰
@@ -371,6 +372,7 @@ use_preset_vocabulary: true
 借枪
 界线
 界限
+今春
 金秋
 金沙
 金山
@@ -609,6 +611,7 @@ use_preset_vocabulary: true
 情诫
 情伤
 秋蝉
+秋莲
 秋霜
 求索
 球梦
@@ -758,6 +761,7 @@ use_preset_vocabulary: true
 望京
 微尘
 围攻
+围猎
 卫国
 魏源
 问天
@@ -1349,6 +1353,7 @@ use_preset_vocabulary: true
 寒鸦劫
 捍卫者
 旱天雷
+汉京城
 汉阳造
 汉之云
 航空港
@@ -1818,6 +1823,7 @@ use_preset_vocabulary: true
 三道塬
 三更鼓
 三国志
+三江潮
 三界碑
 三棵树
 三生情
@@ -1986,6 +1992,7 @@ use_preset_vocabulary: true
 文工团
 文军行
 闻春雷
+问号猫
 蜗居传
 我的家
 我妈说
@@ -2809,6 +2816,7 @@ use_preset_vocabulary: true
 大好时光
 大河北去
 大河儿女
+大河息壤
 大河向北
 大河之恋
 大河之水
@@ -3161,6 +3169,7 @@ use_preset_vocabulary: true
 风神之子
 风声传奇
 风往南吹
+风行海上
 风雪影人
 风雨春和
 风雨春秋
@@ -3175,6 +3184,7 @@ use_preset_vocabulary: true
 风云天地
 风再起时
 风中玫瑰
+冯家小馆
 凤霸九天
 凤凰传奇
 凤凰大道
@@ -3724,6 +3734,7 @@ use_preset_vocabulary: true
 江团行动
 江影沉浮
 匠心皮影
+匠心筑梦
 交换人生
 焦点之外
 焦糖法则
@@ -4022,6 +4033,7 @@ use_preset_vocabulary: true
 黎明追剿
 李家大院
 理想爱人
+理想生活
 理想之城
 丽江客栈
 利剑出击
@@ -4628,6 +4640,7 @@ use_preset_vocabulary: true
 青出于篮
 青出于蓝
 青春不哭
+青春当歌
 青春放歌
 青春飞翔
 青春飞扬
@@ -4799,6 +4812,7 @@ use_preset_vocabulary: true
 如诉如爱
 如意芳霏
 入围人生
+瑞雪山乡
 弱冠之年
 撒种成金
 萨饼女孩
@@ -4843,6 +4857,7 @@ use_preset_vocabulary: true
 山东大嫂
 山哈闹海
 山海蓝图
+山河锦绣
 山河之间
 山花灿烂
 山花烂漫
@@ -5085,6 +5100,7 @@ use_preset_vocabulary: true
 隋唐演义
 隋唐英雄
 岁岁轻寒
+岁月芳华
 岁月骄阳
 岁月静好
 岁月母亲
@@ -5292,6 +5308,7 @@ use_preset_vocabulary: true
 铁血年代
 铁血热土
 铁血淞沪
+铁血铜心
 铁血壮士
 铁翼军魂
 庭前无讼
@@ -5721,6 +5738,7 @@ use_preset_vocabulary: true
 幸福返程
 幸福饭店
 幸福攻略
+幸福广场
 幸福归来
 幸福家园
 幸福乐章
@@ -6325,6 +6343,7 @@ use_preset_vocabulary: true
 宗师卜六
 总有晴空
 纵横芯海
+纵情四海
 走出宫廷
 走出国门
 走出夔门
@@ -6566,6 +6585,7 @@ use_preset_vocabulary: true
 春到落鹊台
 春光无限好
 春闺梦里人
+春暖花会开
 春暖皇城根
 春秋第一相
 春天的梦想
@@ -6828,6 +6848,7 @@ use_preset_vocabulary: true
 怪侠欧阳德
 怪医文三块
 关兰的夏天
+关系方程式
 观澜湖之恋
 光辉的旗帜
 光辉的岁月
@@ -7194,6 +7215,7 @@ use_preset_vocabulary: true
 聊斋狐仙传
 聊斋之狐仙
 烈鹰的故事
+猎豹突击队
 猎头局中局
 猎鹰的天空
 临老学吹打
@@ -7737,6 +7759,7 @@ use_preset_vocabulary: true
 十三行传奇
 十三绣衣使
 十五的月亮
+拾光咖啡厅
 时代交响曲
 时代追梦人
 时间的果实
@@ -7927,6 +7950,7 @@ use_preset_vocabulary: true
 蜗居在首尔
 我爱大葵扇
 我爱轰炸机
+我爱红领巾
 我爱男闺蜜
 我爱女汉子
 我爱新三板
@@ -8420,6 +8444,7 @@ use_preset_vocabulary: true
 遇见爱美味
 遇见爱情岛
 遇见美男子
+遇见文创师
 郁达夫传奇
 鸳鸯对对碰
 圆梦进行时
@@ -8831,6 +8856,7 @@ use_preset_vocabulary: true
 归还世界给你
 归来仍是少年
 桂花弄的钟声
+国旗下的少年
 国栓子覆灭记
 海风轻轻地吹
 海是睡醒的冰
@@ -9070,6 +9096,7 @@ use_preset_vocabulary: true
 让我们结婚吧
 热烈地清扫吧
 热血奇侠吕三
+人间烟火和你
 人民作家柳青
 人生若如初见
 日子越过越好
@@ -9242,6 +9269,7 @@ use_preset_vocabulary: true
 我们播种美丽
 我们曾是夫妻
 我们村里的人
+我们的翻译官
 我们的红缨枪
 我们的漫生活
 我们的梦工厂
@@ -9506,6 +9534,7 @@ use_preset_vocabulary: true
 北纬十七度以北
 被风吹散的青春
 奔赴下一场山海
+奔跑吧急救医生
 奔腾到海不复回
 遍地狼烟之猎杀
 彪哥的快乐生活
@@ -9691,6 +9720,7 @@ use_preset_vocabulary: true
 欢喜婆婆俏媳妇
 欢喜鸳鸯闹林城
 环保局长的故事
+唤醒青春的岁月
 唤醒阴山的岁月
 皇粮胡同十九号
 黄大发的奋斗史
@@ -9745,6 +9775,7 @@ use_preset_vocabulary: true
 敬老院里的故事
 久病床前有孝子
 久久不见久久见
+九曲黄河我的家
 九曲汀江英雄路
 就让咖啡有点甜
 决定爱你的瞬间
@@ -9882,6 +9913,7 @@ use_preset_vocabulary: true
 男人四十要出嫁
 闹春莲萧舞起来
 你不回来我不老
+你的谎言也动听
 你的天空我的城
 你的幸福我的爱
 你方唱罢我登场
@@ -10410,6 +10442,7 @@ use_preset_vocabulary: true
 犹记惊鸿照影来
 有房没房都很忙
 有你在时饭好香
+有瑕人生无瑕爱
 有效期限爱上你
 有这样一个警察
 有真爱才是幸福
@@ -10438,6 +10471,7 @@ use_preset_vocabulary: true
 在希望的田野上
 咱们工人有力量
 咱们小城故事多
+灶火屯里流水席
 宅门里的丫鬟们
 战场上的蒲公英
 战地黄花分外香
@@ -11077,6 +11111,7 @@ use_preset_vocabulary: true
 外来媳妇本地郎之春暖花开
 外来媳妇本地郎之锦绣前程
 外来媳妇本地郎之疫情防控
+万家灯火之我们的冷暖人生
 为了你我愿意热爱整个世界
 这世上你是我最亲最爱的人
 北回归线上的爱情之凌云拾光

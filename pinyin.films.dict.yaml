@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.films
-version: 2022.07.14
+version: 2022.07.15
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5621,6 +5621,7 @@ use_preset_vocabulary: true
 海上梦境
 海上神鹰
 海神密码
+海生稻香
 海市蜃城
 海市蜃楼
 海兽之子
@@ -5772,6 +5773,7 @@ use_preset_vocabulary: true
 红石钟声
 红土地画
 红霞万朵
+红星闪亮
 红星闪耀
 红叶时节
 红叶题诗
@@ -7120,6 +7122,7 @@ use_preset_vocabulary: true
 明亮的心
 明日边缘
 明日世界
+明日战记
 明日之战
 明星助理
 明月前身
@@ -15225,6 +15228,7 @@ use_preset_vocabulary: true
 萌娃呆爸闯通关
 蒙娜丽莎的微笑
 迷魂之密室逃脱
+迷你世界之觉醒
 米乐的完美夏天
 密室之不可告人
 密室之不可靠岸
@@ -16583,6 +16587,7 @@ use_preset_vocabulary: true
 亚瑟和他的迷你王国
 杨门女将之军令如山
 杨门女将之女将初征
+阳光照耀塔什库尔干
 摇滚少年之全民乐队
 一村之长之爸爸回家
 一村之长之参花怒放
