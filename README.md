@@ -28,13 +28,13 @@ $pinyin.counties$
 - - [ ] 县级以下
 
 $pinyin.films$
-- - [x] [中国电影数据信息网](https://www.zgdypw.cn/) - 国家电影专资办
+- - [x] ~~[中国电影数据信息网](https://www.zgdypw.cn/) - 国家电影专资办~~(Github Actions 的 IP 段可能被目标服务器的 WAF 拉黑了，短期内可能无法自动采集更新了)
 
 $pinyin.hwxnet$
 - - [x] 现代汉语词典 - [汉文学网](https://cd.hwxnet.com/)
 
 $pinyin.soaps$
-- - [x] ~~[电视剧电子政务平台](https://dsj.nrta.gov.cn/index.shanty) - 国家广播电影电视总局~~(Github Action 的 IP 段可能被目标服务器 WAF 拉黑了，短期内可能无法自动采集更新了)
+- - [x] [电视剧电子政务平台](https://dsj.nrta.gov.cn/index.shanty) - 国家广播电影电视总局
 
 $pinyin.stocks$
 - - [x] 上海证券交易所 - [SSE](http://www.sse.com.cn/)
