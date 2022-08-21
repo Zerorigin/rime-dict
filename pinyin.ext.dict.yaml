@@ -1,0 +1,28 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Rime 输入法增强词库
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime   (Linux)
+# ~/Library/Rime        (macOS)
+# %AppData%/Rime        (Windows)
+# /sdcard/rime          (Android)
+#
+# 于重新部署后生效
+#
+
+---
+name: pinyin.ext
+version: 2022.01.21
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+    - luna_pinyin
+    - pinyin.counties
+    - pinyin.films
+    - pinyin.hwxnet
+    - pinyin.soaps
+    - pinyin.stocks
+...
