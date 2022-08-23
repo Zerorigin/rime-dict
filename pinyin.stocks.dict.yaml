@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.08.21
+version: 2022.08.24
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1422,6 +1422,7 @@ use_preset_vocabulary: true
 飞天诚信
 分众传媒
 奋达科技
+丰华股份
 丰乐种业
 丰林集团
 丰山集团
