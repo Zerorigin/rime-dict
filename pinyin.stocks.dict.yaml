@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.08.24
+version: 2022.09.09
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1641,6 +1641,7 @@ use_preset_vocabulary: true
 国林科技
 国旅联合
 国脉科技
+国脉文化
 国茂股份
 国美通讯
 国民技术
@@ -4316,6 +4317,7 @@ use_preset_vocabulary: true
 长虹华意
 长虹美菱
 长华股份
+长华集团
 长江传媒
 长江电力
 长江健康
