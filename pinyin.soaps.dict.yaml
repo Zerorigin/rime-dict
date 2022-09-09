@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2022.08.21
+version: 2022.09.10
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -374,6 +374,7 @@ use_preset_vocabulary: true
 界线
 界限
 今春
+金关
 金秋
 金沙
 金山
@@ -826,6 +827,7 @@ use_preset_vocabulary: true
 选择
 绚丽
 学徒
+雪刺
 雪狐
 雪线
 雪鹰
@@ -1527,6 +1529,7 @@ use_preset_vocabulary: true
 九爪龙
 局外者
 菊花醉
+拒执罪
 卷席筒
 决战前
 绝密者
@@ -1675,6 +1678,7 @@ use_preset_vocabulary: true
 门风传
 梦非梦
 梦想城
+梦之歌
 迷宫蛛
 芈月传
 密码战
@@ -2201,6 +2205,7 @@ use_preset_vocabulary: true
 云水怒
 云水谣
 云襄传
+云遮月
 云之凡
 芸汐传
 杂牌军
@@ -2697,6 +2702,7 @@ use_preset_vocabulary: true
 成语游记
 成语中国
 成长路上
+成长有你
 橙红年代
 诚者无敌
 吃货心事
@@ -2774,6 +2780,7 @@ use_preset_vocabulary: true
 此间歌声
 此心安处
 刺刀英雄
+刺桐花开
 匆匆那年
 丛林兵王
 催生时代
@@ -3242,6 +3249,7 @@ use_preset_vocabulary: true
 钢铁驼队
 钢铁兄弟
 钢铁雄心
+港口时代
 港媳嫁到
 高能家族
 高能少女
@@ -3522,6 +3530,7 @@ use_preset_vocabulary: true
 护国双雄
 护士先生
 护士小姐
+沪上十年
 花灯满城
 花儿朵朵
 花儿红了
@@ -3579,6 +3588,7 @@ use_preset_vocabulary: true
 黄河汉子
 黄河惠嫂
 黄河情缘
+黄河入海
 黄河英雄
 黄金部队
 黄金地带
@@ -3753,6 +3763,7 @@ use_preset_vocabulary: true
 教子吾方
 接力青春
 接头暗号
+街坊邻里
 街坊四邻
 街球风暴
 街头巷尾
@@ -4510,6 +4521,7 @@ use_preset_vocabulary: true
 泡芙小姐
 泡沫之夏
 泡泡小桐
+炮局英雄
 炮制老公
 培根行动
 陪读妈妈
@@ -4781,6 +4793,7 @@ use_preset_vocabulary: true
 人工智能
 人好家旺
 人间告白
+人间暖阳
 人间情意
 人间喜剧
 人间有爱
@@ -4845,11 +4858,13 @@ use_preset_vocabulary: true
 三万英尺
 三侠五义
 扫黑风暴
+扫黑铁证
 森果精灵
 森木风云
 森女无敌
 杀出黎明
 杀尽豺狼
+沙城情缘
 沙海老兵
 沙漠绿洲
 沙漠情深
@@ -5006,6 +5021,7 @@ use_preset_vocabulary: true
 时光精灵
 时光战纪
 时光之城
+时间与风
 时空漩涡
 时尚大司
 时尚芳华
@@ -5677,6 +5693,7 @@ use_preset_vocabulary: true
 谢天谢地
 邂逅今生
 心的依靠
+心逢挚爱
 心肝宝贝
 心婚指南
 心灵捕手
@@ -5686,6 +5703,7 @@ use_preset_vocabulary: true
 心若大海
 心事浩茫
 心手相连
+心系朝阳
 心香女人
 心想事成
 心有不甘
@@ -5966,6 +5984,7 @@ use_preset_vocabulary: true
 衣被天下
 宜家先生
 沂蒙奇缘
+沂蒙人家
 疑云密布
 以爱为名
 以何言爱
@@ -6453,6 +6472,7 @@ use_preset_vocabulary: true
 爱要大胆说
 爱因你还在
 爱雨满森林
+爱在碧云间
 爱在黑土地
 爱在金山岭
 爱在景德镇
@@ -6608,6 +6628,7 @@ use_preset_vocabulary: true
 磁州窑传奇
 此间的少年
 此去共浮生
+此生只为你
 刺客聂隐娘
 刺猬的拥抱
 从这里开始
@@ -6685,6 +6706,7 @@ use_preset_vocabulary: true
 第三类爱情
 第四类接触
 第四片甲骨
+第五名发家
 第一次起飞
 第一块石头
 第一伞兵队
@@ -6967,6 +6989,7 @@ use_preset_vocabulary: true
 欢乐办公室
 欢乐大英雄
 欢乐合唱团
+欢乐家长群
 欢乐上班族
 欢乐鲜厨房
 欢乐一家亲
@@ -6998,6 +7021,7 @@ use_preset_vocabulary: true
 婚姻保卫战
 婚姻变奏曲
 婚姻部落格
+婚姻二三事
 婚姻攻防战
 婚姻鸿门宴
 婚姻进化论
@@ -7208,6 +7232,7 @@ use_preset_vocabulary: true
 李慧娘传奇
 李连贵传奇
 李想的理想
+李一向前冲
 理想的房子
 理想的工作
 理想的天空
@@ -7632,6 +7657,7 @@ use_preset_vocabulary: true
 球王李惠堂
 曲大兵上阵
 劝架的女人
+群星闪耀时
 燃烧的花朵
 燃烧的青春
 燃烧的岁月
@@ -7826,6 +7852,7 @@ use_preset_vocabulary: true
 隋燚的法则
 岁月忽已暮
 孙子在巴黎
+所念皆星河
 他从东方来
 他们的城市
 她们不一样
@@ -7950,6 +7977,7 @@ use_preset_vocabulary: true
 为幸福而战
 味道伊始篇
 尉官正年轻
+未来探险家
 蔚蓝的选择
 温暖的村庄
 温暖的日子
@@ -8247,6 +8275,7 @@ use_preset_vocabulary: true
 星空救援队
 星空特警队
 星落凝成糖
+星星的故乡
 星星的约会
 星星耀太空
 星选者联盟
@@ -8918,6 +8947,7 @@ use_preset_vocabulary: true
 吉人自有天相
 急诊室的故事
 极品男女日记
+假如爱有记忆
 假如爱有天意
 假如我是真的
 假如幸福来临
@@ -9761,6 +9791,7 @@ use_preset_vocabulary: true
 家里家外一把手
 家有儿女初长成
 家在青山绿水间
+假如爱情有温差
 假如不曾遇见你
 假如春风有心跳
 假如没有遇见你
@@ -9798,6 +9829,7 @@ use_preset_vocabulary: true
 九曲黄河我的家
 九曲汀江英雄路
 就让咖啡有点甜
+剧场有片荔枝园
 决定爱你的瞬间
 绝世佳人绝世剑
 军校的那些花儿
@@ -9890,6 +9922,7 @@ use_preset_vocabulary: true
 妹仔大过主人婆
 孟姜女与范喜良
 梦里不知身是客
+梦里不知她是客
 梦想女友改造记
 迷失之申城风云
 米脂婆姨绥德汉
@@ -10494,6 +10527,7 @@ use_preset_vocabulary: true
 咱们小城故事多
 灶火屯里流水席
 宅门里的丫鬟们
+占芭花下的约定
 战场上的蒲公英
 战地黄花分外香
 战旗村的当家人
@@ -10510,6 +10544,7 @@ use_preset_vocabulary: true
 这个邻居不好惹
 这个世界不看脸
 这个岳父不靠谱
+这就是你的家乡
 这里没有异乡人
 这条街的女人们
 真爱无敌之养母
@@ -10554,6 +10589,7 @@ use_preset_vocabulary: true
 爱你是最长的旅途
 爱情所允许的一切
 爱情应该有的样子
+爱情在不远处等我
 爱情在左婚姻在右
 八百壮士血染黄河
 八仙列传之蓝采和
@@ -10770,6 +10806,7 @@ use_preset_vocabulary: true
 我想要怒放的生命
 我有特殊沟通技巧
 我在时间深处等你
+我站的地方是中国
 我站在桥上看风景
 我最亲爱的陌生人
 无法恋爱的理智派
