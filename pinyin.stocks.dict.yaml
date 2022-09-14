@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.09.09
+version: 2022.09.15
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4239,6 +4239,7 @@ use_preset_vocabulary: true
 元隆雅图
 元祖股份
 原尚股份
+园城黄金
 园林股份
 圆通速递
 远达环保
