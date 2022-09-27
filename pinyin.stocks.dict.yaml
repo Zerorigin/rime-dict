@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.09.21
+version: 2022.09.28
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2910,6 +2910,7 @@ use_preset_vocabulary: true
 南山铝业
 南山智尚
 南天信息
+南网储能
 南网科技
 南网能源
 南威软件
