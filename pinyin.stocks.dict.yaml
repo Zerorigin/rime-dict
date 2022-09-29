@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.09.28
+version: 2022.09.30
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1689,6 +1689,7 @@ use_preset_vocabulary: true
 海格通信
 海锅股份
 海航科技
+海航控股
 海康威视
 海澜之家
 海立股份
