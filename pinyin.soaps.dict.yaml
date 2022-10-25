@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2022.09.10
+version: 2022.10.26
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -266,6 +266,7 @@ use_preset_vocabulary: true
 轨迹
 跪母
 国货
+国脉
 国球
 国丝
 国饮
@@ -447,6 +448,7 @@ use_preset_vocabulary: true
 莲花
 连城
 恋夏
+粮仓
 良人
 良心
 良种
@@ -811,8 +813,10 @@ use_preset_vocabulary: true
 信任
 信使
 信仰
+醒来
 幸福
 杏花
+兄弟
 雄起
 秀颜
 徐福
@@ -1820,6 +1824,7 @@ use_preset_vocabulary: true
 热血颂
 人世间
 人鱼恋
+韧之歌
 日升昌
 肉中刺
 如懿传
@@ -2220,6 +2225,7 @@ use_preset_vocabulary: true
 在远方
 在云上
 簪中录
+造城者
 造大船
 造型师
 择天记
@@ -2978,6 +2984,7 @@ use_preset_vocabulary: true
 第一纵队
 巅峰时代
 点石成金
+电波凌云
 电商风云
 电商女孩
 电影大亨
@@ -3381,6 +3388,7 @@ use_preset_vocabulary: true
 国脉风云
 国门英雄
 国酿传奇
+国色芳华
 国色旗袍
 国色天香
 国事家事
@@ -3771,6 +3779,7 @@ use_preset_vocabulary: true
 结束战争
 姐夫当家
 姐姐好飒
+姐姐真行
 姐妹爱情
 姐妹姐妹
 姐妹新娘
@@ -3896,6 +3905,7 @@ use_preset_vocabulary: true
 决战长空
 绝爱之城
 绝不放手
+绝不屈服
 绝代公主
 绝代双骄
 绝地刀锋
@@ -4015,6 +4025,7 @@ use_preset_vocabulary: true
 老憨正传
 老火靓汤
 老家厦门
+老街芳华
 老年公寓
 老婆大人
 老外邻居
@@ -4248,6 +4259,7 @@ use_preset_vocabulary: true
 梅花红桃
 梅香傲雪
 玫瑰大院
+玫瑰故事
 玫瑰人生
 玫瑰书香
 玫瑰行者
@@ -4426,6 +4438,7 @@ use_preset_vocabulary: true
 南海儿女
 南海往事
 南海兄弟
+南来北往
 南锣鼓巷
 南锣警探
 南腔北调
@@ -4964,6 +4977,7 @@ use_preset_vocabulary: true
 生儿育女
 生活万岁
 生活有戏
+生命繁花
 生命签证
 生命之歌
 生命之火
@@ -4983,6 +4997,7 @@ use_preset_vocabulary: true
 生死正名
 生死钟声
 生铁开花
+生为蓝天
 生为女人
 生育计划
 剩女之路
@@ -5133,6 +5148,7 @@ use_preset_vocabulary: true
 岁月母亲
 岁月如歌
 岁月无悔
+岁月长兴
 岁月正好
 所向无前
 锁定目标
@@ -5618,6 +5634,7 @@ use_preset_vocabulary: true
 县长达仁
 现场铁证
 线上线下
+限期出嫁
 限速人生
 乡村大业
 乡村法庭
@@ -5670,6 +5687,7 @@ use_preset_vocabulary: true
 小康时代
 小李飞刀
 小麦进城
+小满生活
 小美人鱼
 小妹艾草
 小妮扛枪
@@ -5987,6 +6005,7 @@ use_preset_vocabulary: true
 沂蒙人家
 疑云密布
 以爱为名
+以爱为营
 以何言爱
 以他之名
 以子之名
@@ -6342,6 +6361,7 @@ use_preset_vocabulary: true
 煮妇神探
 祝你平安
 祝你幸福
+祝您平安
 筑梦姐妹
 筑梦蓝海
 筑梦时代
@@ -6603,7 +6623,9 @@ use_preset_vocabulary: true
 成长的快乐
 成长的浪花
 诚信德天下
+池塘拨清波
 冲出月亮岛
+冲破封锁圈
 初出的我们
 初见水晶湖
 厨子与将军
@@ -7096,6 +7118,7 @@ use_preset_vocabulary: true
 借我青云翼
 戒酒俱乐部
 戒烟不戒酒
+今朝更好看
 今日宜加油
 今生是亲人
 今生只爱你
@@ -7631,6 +7654,7 @@ use_preset_vocabulary: true
 青云之琉璃
 情定大饭店
 情归双子座
+情满丁香峪
 情满红旗渠
 情迷洛杉矶
 情谜睡美人
@@ -8043,6 +8067,7 @@ use_preset_vocabulary: true
 我们的婚姻
 我们的邻居
 我们的年代
+我们的年华
 我们的旗帜
 我们的青春
 我们的日子
@@ -9017,6 +9042,7 @@ use_preset_vocabulary: true
 了不起的青春
 了不起的生活
 了不起的她们
+了不起的我们
 了不起的夏天
 黎明前的暗战
 黎明前的海啸
@@ -10708,6 +10734,7 @@ use_preset_vocabulary: true
 男人是酒女人是醋
 你的名字灿若星辰
 你的名字我的姓氏
+你的幸福我的生活
 你和我的倾城时光
 你快乐所以我开心
 你若安好便是晴天
@@ -10948,6 +10975,7 @@ use_preset_vocabulary: true
 那一场冬雪下的裘都
 南征北战之铁骑分队
 你的传奇之危机四伏
+你是钢筋铁骨的美人
 逆流而上的爱情时光
 聂隐娘之女刺客传奇
 暖叔老区的逆袭人生

@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.10.14
+version: 2022.10.26
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1707,6 +1707,7 @@ use_preset_vocabulary: true
 海南发展
 海南高速
 海南海药
+海南机场
 海南矿业
 海南瑞泽
 海南橡胶
@@ -2288,6 +2289,7 @@ use_preset_vocabulary: true
 津滨发展
 津膜科技
 津荣天宇
+津药药业
 金安国纪
 金杯电工
 金杯汽车
@@ -3392,6 +3394,7 @@ use_preset_vocabulary: true
 盛新锂能
 盛洋科技
 胜宏科技
+胜华新材
 胜蓝股份
 胜利股份
 胜利精密
