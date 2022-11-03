@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.10.26
+version: 2022.11.04
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3633,6 +3633,7 @@ use_preset_vocabulary: true
 天味食品
 天沃科技
 天阳科技
+天洋新材
 天药股份
 天宜上佳
 天邑股份
