@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.11.11
+version: 2022.11.16
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1267,6 +1267,7 @@ use_preset_vocabulary: true
 德赛西威
 德生科技
 德新交运
+德新科技
 德业股份
 德艺文创
 德展健康
