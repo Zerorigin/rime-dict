@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.11.23
+version: 2022.11.24
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1748,6 +1748,7 @@ use_preset_vocabulary: true
 海油发展
 海油工程
 海源复材
+海越能源
 海正药业
 寒锐钴业
 韩建河山
