@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2022.11.12
+version: 2022.12.14
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -295,6 +295,7 @@ use_preset_vocabulary: true
 红剑
 红箭
 红犁
+红票
 红色
 红袖
 鸿雁
@@ -915,6 +916,7 @@ use_preset_vocabulary: true
 越境
 再婚
 咱家
+暂坐
 造就
 扎根
 斩浪
@@ -1535,6 +1537,7 @@ use_preset_vocabulary: true
 九龙天
 九妹村
 九爪龙
+九重紫
 局外者
 菊花醉
 拒执罪
@@ -2076,6 +2079,7 @@ use_preset_vocabulary: true
 小情人
 小确幸
 小人物
+小日子
 小舍得
 小幸运
 小洋楼
@@ -2382,6 +2386,7 @@ use_preset_vocabulary: true
 爱心影楼
 爱有承诺
 爱有奇迹
+爱与被爱
 爱在冰点
 爱在春天
 爱在杭州
@@ -2660,6 +2665,7 @@ use_preset_vocabulary: true
 茶船古道
 茶都风云
 柴米油盐
+产后世界
 产科医生
 忏悔之门
 常开笑口
@@ -2814,6 +2820,7 @@ use_preset_vocabulary: true
 大厂小家
 大潮抉择
 大城小事
+大厨小味
 大楚庄王
 大道朝天
 大道通天
@@ -2855,6 +2862,7 @@ use_preset_vocabulary: true
 大脚格格
 大脚姥姥
 大街小巷
+大姐归来
 大浪淘沙
 大理寺卿
 大吏陈瑸
@@ -2983,6 +2991,7 @@ use_preset_vocabulary: true
 弟兄们上
 弟子有规
 第二故乡
+第七年春
 第三只眼
 第三种人
 第十二秒
@@ -4173,6 +4182,7 @@ use_preset_vocabulary: true
 龙行天下
 龙行亚欧
 龙巡天下
+龙影随行
 龙游商帮
 龙跃珠江
 龙珠传奇
@@ -4183,6 +4193,7 @@ use_preset_vocabulary: true
 庐山会战
 炉火纯青
 鲁菜传奇
+路过人间
 路在何方
 陆军一号
 陆军中学
@@ -4496,6 +4507,7 @@ use_preset_vocabulary: true
 逆风北上
 逆风起飞
 逆流而上
+逆行而来
 逆转人生
 年年岁岁
 年年有鱼
@@ -4577,6 +4589,7 @@ use_preset_vocabulary: true
 乒乓家族
 凭海临风
 平安是福
+平等之门
 平凡之路
 平湖往事
 平民英雄
@@ -4917,6 +4930,7 @@ use_preset_vocabulary: true
 山南水北
 山塘茶馆
 山外青山
+山乡之秋
 闪电飚车
 闪电行动
 闪光少女
@@ -5934,6 +5948,7 @@ use_preset_vocabulary: true
 瑶象传奇
 遥望初心
 药皇葛洪
+要久久爱
 椰香恋歌
 野火上行
 野蛮生长
@@ -6597,6 +6612,7 @@ use_preset_vocabulary: true
 不一样的我
 彩虹的重力
 采珠勿惊龙
+菜乡合伙人
 蔡李佛传奇
 灿烂的季节
 灿烂的日子
@@ -7105,6 +7121,7 @@ use_preset_vocabulary: true
 家住沂蒙山
 假日暖洋洋
 嫁给二婚男
+艰难的制造
 检察官故事
 鉴宝大作战
 将幸福保留
@@ -7445,6 +7462,7 @@ use_preset_vocabulary: true
 蓦然遇见你
 陌上繁花绽
 陌上人如玉
+陌上又花开
 谋圣鬼谷子
 母亲的荣光
 木兰无长兄
@@ -7483,6 +7501,7 @@ use_preset_vocabulary: true
 你结婚了吗
 你是我爱人
 你是我的菜
+你是我的光
 你是我的眼
 你是我兄弟
 你舒坦了吗
@@ -7710,6 +7729,7 @@ use_preset_vocabulary: true
 热血英雄传
 热血之滇军
 人活一句话
+人间的烟火
 人民的财产
 人民的名义
 人民的正义
@@ -8065,6 +8085,7 @@ use_preset_vocabulary: true
 我家是你家
 我家有点烦
 我家有贤妻
+我家这些年
 我叫阿米提
 我叫陈美丽
 我叫郝聪明
@@ -8238,6 +8259,7 @@ use_preset_vocabulary: true
 小五当官记
 小巷大总理
 小小飞虎队
+小爪呼噜噜
 小镇当家人
 孝心不能等
 孝心的烦恼
@@ -8572,6 +8594,7 @@ use_preset_vocabulary: true
 再次爱上你
 再见艳阳天
 再战上海滩
+在暴雪时分
 在你的身边
 在下赵子龙
 咱村有支部
@@ -9397,6 +9420,7 @@ use_preset_vocabulary: true
 乌托邦办公室
 无奋斗不青春
 无影灯下的爱
+无与伦比的爱
 梧桐街派出所
 西南联大往事
 喜马拉雅雄鹰
@@ -9773,6 +9797,7 @@ use_preset_vocabulary: true
 海棠经雨胭脂透
 含苞待放的年代
 含苞欲放的年代
+寒梅飘香暖春来
 韩国儿媳中国婆
 韩国媳妇中国婆
 好山好水好女人
@@ -10018,6 +10043,7 @@ use_preset_vocabulary: true
 你方唱罢我登场
 你敢求婚我敢嫁
 你就像那一把火
+你是迟来的欢喜
 你是空中一朵云
 你是我的摆渡人
 你是我的艳阳天
@@ -10534,6 +10560,7 @@ use_preset_vocabulary: true
 银杏飘香的日子
 鹰巢之预备警官
 赢在拉斯维加斯
+拥抱浪漫拥抱你
 拥抱星星的月亮
 勇往直前恋上你
 永不绝望的媳妇
@@ -10567,6 +10594,7 @@ use_preset_vocabulary: true
 岳母的幸福生活
 月里青山淡如画
 云过天空你过心
+云深山处是故乡
 云在青天水在瓶
 运河支队英雄传
 宰相刘罗锅后传
