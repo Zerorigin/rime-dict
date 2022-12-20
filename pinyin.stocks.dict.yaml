@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.11.30
+version: 2022.12.21
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1164,6 +1164,7 @@ use_preset_vocabulary: true
 创力集团
 创识科技
 创维数字
+创新新材
 创新医疗
 创兴资源
 创耀科技
