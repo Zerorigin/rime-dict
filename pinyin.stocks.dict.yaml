@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2022.12.21
+version: 2023.01.11
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2245,6 +2245,7 @@ use_preset_vocabulary: true
 江苏博云
 江苏国泰
 江苏国信
+江苏金租
 江苏雷利
 江苏神通
 江苏舜天
