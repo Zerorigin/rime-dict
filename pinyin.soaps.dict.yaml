@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.01.13
+version: 2023.02.02
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -290,6 +290,7 @@ use_preset_vocabulary: true
 河山
 黑狐
 黑井
+宏图
 宏途
 红船
 红剪
@@ -736,6 +737,7 @@ use_preset_vocabulary: true
 天狗
 天槐
 天骄
+天空
 天伦
 天目
 天怒
@@ -1091,6 +1093,7 @@ use_preset_vocabulary: true
 陈幸福
 陈英士
 城中计
+承欢记
 赤水河
 冲锋号
 出局者
@@ -1288,6 +1291,7 @@ use_preset_vocabulary: true
 风暴舞
 风尘误
 风铃渡
+风语颂
 冯妫传
 冯家连
 冯梦龙
@@ -3355,6 +3359,7 @@ use_preset_vocabulary: true
 股份农民
 股市故事
 谷鼓齐鸣
+谷雨冬至
 鼓浪风云
 故宫如梦
 故人新游
@@ -3516,6 +3521,7 @@ use_preset_vocabulary: true
 红旗漫道
 红旗飘飘
 红旗飘扬
+红旗如画
 红日初升
 红色报人
 红色大亨
@@ -4765,6 +4771,7 @@ use_preset_vocabulary: true
 情感经纬
 情感卧底
 情感战争
+情感诊所
 情归婺源
 情满大湾
 情满三江
@@ -5868,6 +5875,7 @@ use_preset_vocabulary: true
 玄门大师
 玄奘法师
 选美档案
+绚烂之城
 学堂故事
 雪白血红
 雪场情缘
@@ -6285,6 +6293,7 @@ use_preset_vocabulary: true
 昭苏河畔
 赵家婚礼
 赵氏孤儿
+侦察英雄
 侦探奇誉
 侦探小说
 珍爱诺言
@@ -7082,6 +7091,7 @@ use_preset_vocabulary: true
 回归乌拉特
 回家的诱惑
 回家的欲望
+会飞的大象
 慧眼徐官儿
 婚礼对对碰
 婚礼进行曲
@@ -7748,6 +7758,7 @@ use_preset_vocabulary: true
 热血之滇军
 人活一句话
 人间的烟火
+人间有嘉木
 人民的财产
 人民的名义
 人民的正义
@@ -8020,6 +8031,7 @@ use_preset_vocabulary: true
 偷时间的贼
 偷偷藏不住
 偷心丘比特
+偷走他的心
 突击再突击
 图尔与风车
 土楼剿匪记
@@ -10624,6 +10636,7 @@ use_preset_vocabulary: true
 宰相刘罗锅后传
 再不疯狂就老了
 再现白娘子传奇
+在茫茫夜色背后
 在希望的田野上
 咱们工人有力量
 咱们小城故事多
@@ -11074,6 +11087,7 @@ use_preset_vocabulary: true
 三侠五义之侠义联盟
 深圳青年之青春无怨
 生活不止眼前的苟且
+生命中最炽烈的时光
 盛开在冬季的太阳花
 石光荣和他的儿女们
 书法武林之九州大地
@@ -11296,5 +11310,6 @@ use_preset_vocabulary: true
 最寒冷的冬天是旧金山的夏季
 恋爱中的城市之我的女孩儿别哭
 谁的青春不迷茫之我在未来等你
+外来媳妇本地郎之耳根清净的秘密
 外来媳妇本地郎之来自汕尾的喜帖
 上下五千年系列情景剧之姥姥教我弟子规
