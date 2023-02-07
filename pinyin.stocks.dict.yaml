@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.01.11
+version: 2023.02.08
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2950,6 +2950,7 @@ use_preset_vocabulary: true
 宁波中百
 宁德时代
 宁沪高速
+宁科生物
 宁水集团
 宁夏建材
 纽威股份
