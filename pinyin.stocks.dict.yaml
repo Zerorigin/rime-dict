@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.02.08
+version: 2023.02.22
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2760,6 +2760,7 @@ use_preset_vocabulary: true
 龙头股份
 龙溪股份
 龙星化工
+龙宇股份
 龙宇燃油
 龙源技术
 龙元建设
