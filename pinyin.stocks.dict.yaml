@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.02.22
+version: 2023.03.01
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2579,6 +2579,7 @@ use_preset_vocabulary: true
 空港股份
 酷特智能
 快克股份
+快克智能
 快意电梯
 旷达科技
 葵花药业
