@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.03.04
+version: 2023.03.17
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1294,6 +1294,7 @@ use_preset_vocabulary: true
 电广传媒
 电魂网络
 电科数字
+电科芯片
 电连技术
 电能股份
 电气风电
