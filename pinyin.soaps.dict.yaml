@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.02.02
+version: 2023.03.18
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -113,6 +113,7 @@ use_preset_vocabulary: true
 传家
 传奇
 窗花
+闯海
 闯业
 创客
 创神
@@ -542,6 +543,7 @@ use_preset_vocabulary: true
 娜娜
 南漂
 南迁
+难哄
 内线
 逆火
 逆战
@@ -580,6 +582,7 @@ use_preset_vocabulary: true
 破局
 破浪
 破晓
+破译
 破绽
 破阵
 葡萄
@@ -2063,6 +2066,7 @@ use_preset_vocabulary: true
 向太阳
 向天歌
 向延安
+逍遥诀
 小八义
 小拜年
 小保安
@@ -2729,6 +2733,7 @@ use_preset_vocabulary: true
 成长路上
 成长有你
 橙红年代
+橙色光芒
 诚者无敌
 吃货心事
 吃亏是福
@@ -2871,6 +2876,7 @@ use_preset_vocabulary: true
 大脚姥姥
 大街小巷
 大姐归来
+大开眼界
 大浪淘沙
 大理寺卿
 大吏陈瑸
@@ -3440,6 +3446,7 @@ use_preset_vocabulary: true
 海军世家
 海阔天空
 海蓝情天
+海暮朝歌
 海裳丽人
 海上繁花
 海上明珠
@@ -5104,6 +5111,7 @@ use_preset_vocabulary: true
 似曾相见
 似水流年
 势不两立
+势在必行
 市上之城
 视界之外
 誓言今生
@@ -5429,6 +5437,7 @@ use_preset_vocabulary: true
 外科风云
 外滩警事
 外姓兄弟
+弯道超车
 完美伴侣
 完美关系
 完美婚礼
@@ -5479,6 +5488,7 @@ use_preset_vocabulary: true
 危亡时刻
 危险旅程
 威武三国
+巍巍东方
 微博达人
 微男三十
 微笑妈妈
@@ -5713,6 +5723,7 @@ use_preset_vocabulary: true
 向风而行
 向海而生
 向前一步
+向水而生
 向天倾诉
 向往幸福
 向阳而生
@@ -6185,6 +6196,7 @@ use_preset_vocabulary: true
 圆梦时刻
 圆梦庄园
 圆梦足球
+援藏岁月
 援疆兄弟
 援外医生
 缘定今生
@@ -8130,6 +8142,7 @@ use_preset_vocabulary: true
 我就是角儿
 我就是警察
 我们不一样
+我们的稻田
 我们的奋斗
 我们的故事
 我们的婚姻
@@ -8818,6 +8831,7 @@ use_preset_vocabulary: true
 艾德莱斯传人
 安哥拉大劫案
 安静的美男子
+安小吉一家人
 暗恋橘生淮南
 暗夜下的枪口
 奥运梦少年强
@@ -9870,6 +9884,7 @@ use_preset_vocabulary: true
 欢天喜地灶王爷
 欢喜婆婆俏媳妇
 欢喜鸳鸯闹林城
+欢迎来到麦乐村
 环保局长的故事
 唤醒青春的岁月
 唤醒阴山的岁月
@@ -10823,6 +10838,7 @@ use_preset_vocabulary: true
 男人是酒女人是醋
 你的名字灿若星辰
 你的名字我的姓氏
+你的世界如此美丽
 你的幸福我的生活
 你和我的倾城时光
 你快乐所以我开心
@@ -10988,6 +11004,7 @@ use_preset_vocabulary: true
 长江上的警察张竞
 赵宝树的城市生活
 只要你过得比我好
+致依然平凡的我们
 中华雄狮之黄飞鸿
 中华英雄之黄飞鸿
 住在我隔壁的甲方
