@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.03.17
+version: 2023.03.22
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1522,6 +1522,7 @@ use_preset_vocabulary: true
 格力电器
 格林精密
 格灵深瞳
+庚星股份
 公牛集团
 公司简称
 工大高科
@@ -3706,6 +3707,7 @@ use_preset_vocabulary: true
 铜陵有色
 铜牛信息
 统联精密
+统一股份
 透景生命
 图南股份
 退市昌鱼
