@@ -15,7 +15,7 @@
 
 ---
 name: pinyin.counties
-version: 2021.12.11
+version: 2023.04.26
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -721,6 +721,7 @@ use_preset_vocabulary: true
 横峰
 横山
 横县
+横州
 衡东
 衡南
 衡山
@@ -850,7 +851,6 @@ use_preset_vocabulary: true
 霍邱
 霍山
 霍州
-绩溪
 鸡东
 鸡冠
 鸡西
@@ -875,6 +875,7 @@ use_preset_vocabulary: true
 济阳
 济源
 稷山
+绩溪
 蓟州
 佳县
 加查
@@ -1199,6 +1200,7 @@ use_preset_vocabulary: true
 临河
 临江
 临澧
+临平
 临清
 临朐
 临泉
@@ -1649,6 +1651,7 @@ use_preset_vocabulary: true
 前进
 潜江
 潜山
+钱塘
 黔江
 黔南
 黔西
@@ -2342,6 +2345,7 @@ use_preset_vocabulary: true
 新县
 新乡
 新兴
+新星
 新野
 新沂
 新余
@@ -2354,10 +2358,6 @@ use_preset_vocabulary: true
 信阳
 信宜
 信州
-荥经
-荥阳
-行唐
-邢台
 兴安
 兴宾
 兴城
@@ -2375,6 +2375,10 @@ use_preset_vocabulary: true
 兴县
 兴业
 兴义
+荥经
+荥阳
+行唐
+邢台
 雄县
 休宁
 修水
@@ -3280,6 +3284,7 @@ use_preset_vocabulary: true
 凤泉区
 凤山县
 凤台县
+凤翔区
 凤翔县
 凤阳县
 奉化区
@@ -3548,6 +3553,7 @@ use_preset_vocabulary: true
 恒山区
 横峰县
 横山区
+横州市
 衡东县
 衡南县
 衡山县
@@ -3656,6 +3662,7 @@ use_preset_vocabulary: true
 回民区
 会昌县
 会东县
+会理市
 会理县
 会宁县
 会同县
@@ -3681,7 +3688,6 @@ use_preset_vocabulary: true
 霍山县
 霍州市
 积石山
-绩溪县
 鸡东县
 鸡冠区
 鸡西市
@@ -3708,6 +3714,7 @@ use_preset_vocabulary: true
 济阳区
 济源市
 稷山县
+绩溪县
 蓟州区
 佳木斯
 加查县
@@ -4031,6 +4038,7 @@ use_preset_vocabulary: true
 临河区
 临江市
 临澧县
+临平区
 临清市
 临朐县
 临泉县
@@ -4105,6 +4113,7 @@ use_preset_vocabulary: true
 龙岗区
 龙港区
 龙港市
+龙海区
 龙海市
 龙湖区
 龙华区
@@ -4156,6 +4165,7 @@ use_preset_vocabulary: true
 潞城区
 潞州区
 碌曲县
+禄丰市
 禄丰县
 路北区
 路南区
@@ -4241,6 +4251,7 @@ use_preset_vocabulary: true
 蒙自市
 勐海县
 勐腊县
+孟津区
 孟津县
 孟州市
 弥渡县
@@ -4461,6 +4472,7 @@ use_preset_vocabulary: true
 祁东县
 祁连县
 祁门县
+祁阳市
 祁阳县
 綦江区
 蕲春县
@@ -4477,9 +4489,11 @@ use_preset_vocabulary: true
 前进区
 潜江市
 潜山市
+钱塘区
 黔东南
 黔江区
 黔西南
+黔西市
 黔西县
 桥东区
 桥西区
@@ -4623,7 +4637,9 @@ use_preset_vocabulary: true
 沙坡头
 沙市区
 沙湾区
+沙湾市
 沙湾县
+沙县区
 沙雅县
 沙洋县
 莎车县
@@ -5183,6 +5199,7 @@ use_preset_vocabulary: true
 新乡市
 新乡县
 新兴区
+新星市
 新兴县
 新野县
 新沂市
@@ -5196,10 +5213,6 @@ use_preset_vocabulary: true
 信阳市
 信宜市
 信州区
-荥经县
-荥阳市
-行唐县
-邢台市
 兴安盟
 兴安区
 兴安县
@@ -5221,6 +5234,10 @@ use_preset_vocabulary: true
 兴文县
 兴业县
 兴义市
+荥经县
+荥阳市
+行唐县
+邢台市
 杏花岭
 休宁县
 修水县
@@ -5248,6 +5265,7 @@ use_preset_vocabulary: true
 玄武区
 薛城区
 寻乌县
+旬阳市
 旬阳县
 旬邑县
 浔阳区
@@ -5280,6 +5298,7 @@ use_preset_vocabulary: true
 盐亭县
 盐源县
 阎良区
+偃师区
 偃师市
 兖州区
 郾城区
@@ -5549,6 +5568,7 @@ use_preset_vocabulary: true
 长沙县
 长寿区
 长顺县
+长泰区
 长泰县
 长汀县
 长武县

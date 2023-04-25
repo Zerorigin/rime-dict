@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.03.22
+version: 2023.04.26
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -108,6 +108,7 @@ use_preset_vocabulary: true
 节能
 金刚
 金鸿
+金山
 金泰
 金正
 金洲
@@ -1913,6 +1914,7 @@ use_preset_vocabulary: true
 弘亚数控
 弘业股份
 弘宇股份
+弘元绿能
 洪城环境
 洪都航空
 洪汇新材
