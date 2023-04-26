@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.04.26
+version: 2023.04.27
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -26,6 +26,7 @@ use_preset_vocabulary: true
 安控
 安泰
 安信
+奥康
 奥马
 八菱
 巴士
@@ -66,6 +67,7 @@ use_preset_vocabulary: true
 丰华
 辅仁
 富奥
+富吉
 高升
 冠福
 光一
@@ -4213,6 +4215,7 @@ use_preset_vocabulary: true
 永吉股份
 永利股份
 永清环保
+永杉锂业
 永太科技
 永泰能源
 永新股份
