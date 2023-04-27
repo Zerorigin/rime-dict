@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.04.27
+version: 2023.04.28
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -182,6 +182,7 @@ use_preset_vocabulary: true
 松江
 松炀
 索菱
+碳元
 特力
 腾邦
 天成
