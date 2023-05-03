@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.04.28
+version: 2023.05.04
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -68,6 +68,7 @@ use_preset_vocabulary: true
 辅仁
 富奥
 富吉
+富润
 高升
 冠福
 光一
@@ -127,6 +128,7 @@ use_preset_vocabulary: true
 科林
 跨境
 拉夏
+蓝光
 浪奇
 乐材
 利源
@@ -147,9 +149,11 @@ use_preset_vocabulary: true
 明诚
 明科
 摩登
+莫高
 目药
 南玻
 南化
+南卫
 鸥玛
 平能
 起步
@@ -192,6 +196,7 @@ use_preset_vocabulary: true
 天山
 天圣
 天首
+通脉
 通葡
 同洲
 拓新
