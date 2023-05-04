@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.05.04
+version: 2023.05.05
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -102,6 +102,7 @@ use_preset_vocabulary: true
 环球
 皇庭
 辉丰
+慧辰
 基础
 济堂
 佳通
@@ -155,9 +156,11 @@ use_preset_vocabulary: true
 南化
 南卫
 鸥玛
+庞大
 平能
 起步
 全新
+全筑
 群兴
 热电
 仁智
@@ -179,12 +182,14 @@ use_preset_vocabulary: true
 圣亚
 实达
 时万
+世茂
 视讯
 数知
 双环
 顺利
 松江
 松炀
+宋都
 索菱
 碳元
 特力
@@ -198,6 +203,7 @@ use_preset_vocabulary: true
 天首
 通脉
 通葡
+同达
 同洲
 拓新
 瓦轴
@@ -212,6 +218,7 @@ use_preset_vocabulary: true
 未来
 文化
 西发
+西钢
 西水
 西域
 西源
