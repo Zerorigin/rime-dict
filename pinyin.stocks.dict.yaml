@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.05.05
+version: 2023.05.10
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1784,6 +1784,7 @@ use_preset_vocabulary: true
 汉钟精机
 瀚川智能
 瀚蓝环境
+瀚叶股份
 翰宇药业
 杭叉集团
 杭齿前进
@@ -4309,6 +4310,7 @@ use_preset_vocabulary: true
 云铝股份
 云煤能源
 云南白药
+云南城投
 云南旅游
 云南能投
 云南铜业
