@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.04.08
+version: 2023.05.11
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -140,6 +140,7 @@ use_preset_vocabulary: true
 大器
 大桥
 大舜
+大洼
 大医
 代驾
 担当
@@ -724,6 +725,7 @@ use_preset_vocabulary: true
 酸枣
 算计
 锁侠
+她们
 台商
 太极
 坦白
@@ -791,6 +793,7 @@ use_preset_vocabulary: true
 西单
 西迁
 西施
+喜剧
 喜宴
 狭路
 仙泣
@@ -1042,6 +1045,7 @@ use_preset_vocabulary: true
 暴风眼
 北风寒
 北风烈
+北国策
 北京兵
 北京梦
 北京爷
@@ -1091,6 +1095,7 @@ use_preset_vocabulary: true
 车之殇
 宸汐缘
 沉睡者
+陈大姐
 陈李记
 陈少敏
 陈幸福
@@ -1119,6 +1124,7 @@ use_preset_vocabulary: true
 创青春
 创想季
 春日宴
+春水谣
 春天里
 纯爷们
 磁州窑
@@ -1394,6 +1400,7 @@ use_preset_vocabulary: true
 合伙人
 合家亲
 和平村
+和平颂
 和田玉
 河洛图
 黑白鱼
@@ -1752,6 +1759,7 @@ use_preset_vocabulary: true
 女儿梦
 女公卿
 女管家
+女律师
 女马帮
 女骑警
 女人帮
@@ -1799,6 +1807,7 @@ use_preset_vocabulary: true
 亲爱的
 亲娘姨
 勤王记
+擒熊记
 秦淮河
 秦香莲
 倾城赋
@@ -2219,6 +2228,7 @@ use_preset_vocabulary: true
 鸳鸯佩
 圆明园
 圆月亮
+塬上情
 袁崇焕
 袁隆平
 月亮刀
@@ -2454,6 +2464,7 @@ use_preset_vocabulary: true
 白衣胜雪
 白玉老虎
 白纸时光
+柏山书院
 百草芊芊
 百舸争流
 百合花开
@@ -2907,6 +2918,7 @@ use_preset_vocabulary: true
 大女三十
 大炮传奇
 大鹏海战
+大齐春秋
 大乔小乔
 大秦直道
 大清版图
@@ -2990,6 +3002,7 @@ use_preset_vocabulary: true
 捣蛋日记
 蹈海东南
 倒霉男人
+道北往事
 道高一尺
 的哥的姐
 的哥奇遇
@@ -3695,6 +3708,7 @@ use_preset_vocabulary: true
 激荡岁月
 激荡珠江
 激情飞越
+激战苍穹
 激战江南
 积木之城
 缉毒精英
@@ -3871,6 +3885,7 @@ use_preset_vocabulary: true
 尽善尽美
 锦瑟年华
 锦瑟千秋
+锦绣安宁
 锦绣浮生
 锦绣南歌
 锦绣情缘
@@ -3888,6 +3903,7 @@ use_preset_vocabulary: true
 京城后街
 京城四少
 京城玩主
+京城烟火
 京电风云
 京港之恋
 京杭之恋
@@ -4563,6 +4579,7 @@ use_preset_vocabulary: true
 女儿之谜
 女孩不坏
 女继承人
+女排天团
 女朋友们
 女人当官
 女人进城
@@ -5587,6 +5604,7 @@ use_preset_vocabulary: true
 沃野飘香
 乌兰牧骑
 乌头宰相
+乌云之上
 吴三玩玉
 吴王阖闾
 吾儿可教
@@ -5770,6 +5788,7 @@ use_preset_vocabulary: true
 小站风云
 小镇警事
 小镇青年
+晓山忠魂
 孝道故事
 孝仁公主
 孝子难当
@@ -6085,6 +6104,7 @@ use_preset_vocabulary: true
 以子之名
 义海雄风
 义者无敌
+亦舞之城
 亿万甜心
 亿万之城
 异母兄弟
@@ -6195,6 +6215,7 @@ use_preset_vocabulary: true
 玉树往事
 玉玺传奇
 玉渊骊龙
+豫州风云
 遇见成都
 郁孤台下
 郁郁葱葱
@@ -6494,6 +6515,7 @@ use_preset_vocabulary: true
 最后征战
 最美江南
 最美是你
+最暖归途
 最亲的爱
 最终较量
 昨日今夜
@@ -6546,6 +6568,7 @@ use_preset_vocabulary: true
 爱情橡皮糖
 爱情也包邮
 爱情有点甜
+爱情有烟火
 爱情真善美
 爱情侏罗纪
 爱情筑梦师
@@ -6585,6 +6608,7 @@ use_preset_vocabulary: true
 安逗和黑仔
 安娜的爱人
 俺爹李大山
+暗夜与黎明
 暗战桃花源
 傲世九重天
 八九不离十
@@ -7023,6 +7047,7 @@ use_preset_vocabulary: true
 海上牧云记
 海上升明月
 海上游击队
+海棠花未眠
 海外安全官
 海鲜素食馆
 旱天雷行动
@@ -7174,6 +7199,7 @@ use_preset_vocabulary: true
 家住沂蒙山
 假日暖洋洋
 嫁给二婚男
+坚韧的羽毛
 艰难的制造
 检察官故事
 鉴宝大作战
@@ -7858,6 +7884,7 @@ use_preset_vocabulary: true
 少年中国梦
 少年诸葛亮
 少侠霍元甲
+舍不得星星
 射雕英雄传
 社工服务社
 伸出你的手
@@ -7887,6 +7914,7 @@ use_preset_vocabulary: true
 生活启示录
 生活有点甜
 生活在此处
+生活最优解
 生命的承诺
 生命的荣耀
 生命的职责
@@ -8653,6 +8681,7 @@ use_preset_vocabulary: true
 再创业女人
 再次爱上你
 再见艳阳天
+再向前一步
 再战上海滩
 在暴雪时分
 在你的身边
@@ -9335,6 +9364,7 @@ use_preset_vocabulary: true
 孙老倔的烦恼
 他与海洋为邻
 他与月光为邻
+她和她的群岛
 她和她的世界
 台湾村的故事
 太平公主秘史
@@ -9616,6 +9646,7 @@ use_preset_vocabulary: true
 张卫国的夏天
 张五妹的春天
 长安十二时辰
+找到他抓住他
 赵城金藏传奇
 赵师傅闯东京
 这里胜似花开
@@ -9754,6 +9785,7 @@ use_preset_vocabulary: true
 穿山越岭为了你
 穿越人海拥抱你
 穿越时空的密令
+穿越时空的勋章
 传奇国舅陈北科
 传奇女将秦良玉
 创业青春三重奏
@@ -10690,6 +10722,7 @@ use_preset_vocabulary: true
 长白山下我的家
 长城脚下红石口
 长风破浪会有时
+长风破浪终有时
 长征从这里出发
 丈夫的青梅竹马
 找好男人嫁了吧
