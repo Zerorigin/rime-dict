@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.05.10
+version: 2023.05.19
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -389,6 +389,7 @@ use_preset_vocabulary: true
 福立旺
 福龙马
 福然德
+福瑞达
 福斯特
 富安娜
 富瀚微
@@ -1027,6 +1028,7 @@ use_preset_vocabulary: true
 北京君正
 北京科锐
 北京利尔
+北京人力
 北京银行
 北矿科技
 北陆药业
