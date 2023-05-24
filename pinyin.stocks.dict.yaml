@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.05.19
+version: 2023.05.25
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1982,6 +1982,7 @@ use_preset_vocabulary: true
 华昌化工
 华辰装备
 华创阳安
+华创云信
 华瓷股份
 华达科技
 华达新材
