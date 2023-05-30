@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.05.25
+version: 2023.05.31
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3434,6 +3434,7 @@ use_preset_vocabulary: true
 实丰文化
 时代出版
 时代电气
+时代万恒
 时代新材
 时空科技
 石大胜华
@@ -3732,6 +3733,7 @@ use_preset_vocabulary: true
 透景生命
 图南股份
 退市昌鱼
+退市辅仁
 退市海创
 退市海医
 退市环球
@@ -3742,10 +3744,13 @@ use_preset_vocabulary: true
 退市绿庭
 退市明科
 退市厦华
+退市未来
 退市西水
 退市新亿
 退市易见
 退市游久
+退市运盛
+退市中昌
 退市中房
 退市中天
 退市中新
