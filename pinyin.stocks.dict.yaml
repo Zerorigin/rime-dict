@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.06.01
+version: 2023.06.07
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -341,6 +341,7 @@ use_preset_vocabulary: true
 超频三
 潮宏基
 诚益通
+赤天化
 楚天龙
 川金诺
 创世纪
@@ -2090,6 +2091,7 @@ use_preset_vocabulary: true
 华西股份
 华西能源
 华熙生物
+华锡有色
 华西证券
 华夏航空
 华夏幸福
