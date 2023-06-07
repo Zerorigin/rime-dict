@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.06.07
+version: 2023.06.08
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3753,10 +3753,12 @@ use_preset_vocabulary: true
 退市易见
 退市游久
 退市运盛
+退市泽达
 退市中昌
 退市中房
 退市中天
 退市中新
+退市紫晶
 拓邦股份
 拓普集团
 拓日新能
