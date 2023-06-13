@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.06.08
+version: 2023.06.14
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1432,6 +1432,7 @@ use_preset_vocabulary: true
 方大特钢
 方盛制药
 方正电机
+方正科技
 方正证券
 方直科技
 芳源股份
