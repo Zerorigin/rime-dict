@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.06.14
+version: 2023.06.21
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3296,6 +3296,7 @@ use_preset_vocabulary: true
 山鹰国际
 杉杉股份
 陕鼓动力
+陕建股份
 陕天然气
 陕西黑猫
 陕西建工
