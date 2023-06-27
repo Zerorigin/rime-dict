@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.05.11
+version: 2023.06.28
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -301,6 +301,7 @@ use_preset_vocabulary: true
 红犁
 红票
 红色
+红侠
 红袖
 鸿雁
 猴票
@@ -326,6 +327,7 @@ use_preset_vocabulary: true
 画圣
 画乡
 幻城
+焕羽
 凰权
 灰雁
 回归
@@ -478,6 +480,7 @@ use_preset_vocabulary: true
 领养
 刘娥
 流年
+留根
 留学
 龙城
 龙道
@@ -1060,6 +1063,7 @@ use_preset_vocabulary: true
 碧血剑
 碧云天
 避难地
+变节者
 表演者
 别梦园
 别撒手
@@ -1209,6 +1213,7 @@ use_preset_vocabulary: true
 大熔炉
 大陕北
 大扇坊
+大商埠
 大商场
 大商城
 大商海
@@ -1391,6 +1396,7 @@ use_preset_vocabulary: true
 好家伙
 好妻子
 好日子
+好团圆
 好运家
 皓镧传
 何时归
@@ -1623,6 +1629,7 @@ use_preset_vocabulary: true
 梨花湾
 梨花峪
 梨园劫
+犁头旗
 离不离
 离婚记
 李保国
@@ -2218,6 +2225,7 @@ use_preset_vocabulary: true
 榆阳秋
 羽传说
 雨花台
+雨霖铃
 御膳房
 玉海棠
 玉楼春
@@ -2541,6 +2549,7 @@ use_preset_vocabulary: true
 北京姑娘
 北京记忆
 北京你早
+北京您早
 北京青年
 北京时间
 北京往事
@@ -3626,6 +3635,7 @@ use_preset_vocabulary: true
 华医之盾
 滑冰女孩
 划出彩虹
+画红传奇
 怀帮传奇
 怀玉公主
 槐花飘香
@@ -4138,6 +4148,7 @@ use_preset_vocabulary: true
 利箭行动
 利箭纵横
 利刃出击
+利刃长锋
 励志人生
 沥川往事
 荔枝红了
@@ -4155,6 +4166,7 @@ use_preset_vocabulary: true
 恋恋瑜伽
 恋人之街
 恋上冰城
+良辰美景
 良家妇男
 良家富男
 良家妇女
@@ -4197,6 +4209,7 @@ use_preset_vocabulary: true
 灵州盛会
 陵锒缭乱
 零度较量
+另一种蓝
 刘海砍樵
 刘家媳妇
 刘氏兄弟
@@ -4920,6 +4933,7 @@ use_preset_vocabulary: true
 如此婚姻
 如此美丽
 如来神掌
+如梦芳菲
 如山父爱
 如诉如爱
 如意芳霏
@@ -5005,6 +5019,7 @@ use_preset_vocabulary: true
 上海青年
 上海森林
 上海五虎
+韶华岁月
 少帝康熙
 少林猛虎
 少林小子
@@ -6823,6 +6838,7 @@ use_preset_vocabulary: true
 敌后便衣队
 地道女英雄
 地雷英雄传
+帝凰凤轻尘
 弟子规外传
 弟子规新说
 第八号当铺
@@ -6999,6 +7015,7 @@ use_preset_vocabulary: true
 功夫乐翻天
 共和国法官
 共和国血脉
+共和国之翼
 枸杞又红了
 姑苏十二娘
 姑爷的烦恼
@@ -7027,6 +7044,7 @@ use_preset_vocabulary: true
 滚烫的雪花
 郭县令轶事
 国安局密档
+国宝沉浮录
 国际大营救
 国门十三行
 国民大生活
@@ -7065,6 +7083,7 @@ use_preset_vocabulary: true
 和爱去旅行
 和平与战争
 和氏壁传奇
+和我结婚吧
 和谐交响曲
 黑狐之吉光
 黑界地传奇
@@ -8005,6 +8024,7 @@ use_preset_vocabulary: true
 她们的生活
 她是检察官
 塔里的女人
+太湖游击队
 太极武当传
 太极杨露禅
 太平洋暗战
@@ -8305,8 +8325,10 @@ use_preset_vocabulary: true
 咸鱼要翻身
 咸鱼也疯狂
 冼夫人传奇
+县令冯梦龙
 现在就要爱
 乡村的早上
+乡村合伙人
 湘西喋血记
 相爱不恨晚
 相爱在北京
@@ -8414,6 +8436,7 @@ use_preset_vocabulary: true
 新刑警本色
 新燕子李三
 新杨门女将
+新养老时代
 新英雄儿女
 新永不瞑目
 新圆月弯刀
@@ -8737,6 +8760,7 @@ use_preset_vocabulary: true
 真假胭脂劫
 真实的幸福
 针叶与松根
+峥嵘岁月稠
 正义的承诺
 郑和下西洋
 郑氏十七房
@@ -9063,6 +9087,7 @@ use_preset_vocabulary: true
 国栓子覆灭记
 海风轻轻地吹
 海是睡醒的冰
+海与山的拥抱
 憨先生逗太太
 航勒村的故事
 好爸爸坏爸爸
@@ -9202,6 +9227,7 @@ use_preset_vocabulary: true
 妈妈的罗曼史
 妈妈的男朋友
 马车店的女人
+马莲村的故事
 马书记上任记
 马斯南路诊所
 马小灿认亲记
@@ -9885,6 +9911,7 @@ use_preset_vocabulary: true
 顾靖尧与林湘君
 顾盼盼的小时代
 关公之义薄云天
+关于妻子的一切
 关于胜利的法则
 滚滚黄河东逝水
 国士无双黄飞鸿
@@ -10360,6 +10387,7 @@ use_preset_vocabulary: true
 脱了军装还是兵
 外来媳妇本地郎
 完美妈妈成长记
+玩命爱一个姑娘
 万家灯火平安夜
 万米高空的俊颜
 万木霜天红烂漫
@@ -10556,6 +10584,7 @@ use_preset_vocabulary: true
 像星星一样爱你
 像阳光一样灿烂
 向前一步是幸福
+向阳而生的我们
 向着阳光的花朵
 消失的罗马军团
 硝烟背后的故事
@@ -10628,6 +10657,7 @@ use_preset_vocabulary: true
 一不小心嫁给你
 一不小心遇上你
 一次心跳的距离
+一代巨匠齐白石
 一代名相陈廷敬
 一代药王孙思邈
 一代宗师董海川
@@ -10767,6 +10797,7 @@ use_preset_vocabulary: true
 走过那座风雨桥
 最后的风花雪月
 最美不过初相见
+最美还是夕阳红
 最熟悉的陌生人
 醉是人间烟火味
 做药茶的年轻人
