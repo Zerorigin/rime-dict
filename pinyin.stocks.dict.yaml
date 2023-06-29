@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.06.21
+version: 2023.06.30
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1612,6 +1612,7 @@ use_preset_vocabulary: true
 广深铁路
 广田集团
 广西广电
+广西能源
 广信材料
 广信股份
 广宇发展
