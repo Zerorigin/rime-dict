@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.06.30
+version: 2023.07.05
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -108,7 +108,9 @@ use_preset_vocabulary: true
 佳通
 嘉信
 建车
+建元
 江铃
+交昂
 节能
 金刚
 金鸿
