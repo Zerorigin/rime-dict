@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.06.28
+version: 2023.07.20
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -128,6 +128,7 @@ use_preset_vocabulary: true
 村警
 错伏
 错恨
+搭伙
 打击
 打仗
 大波
@@ -457,6 +458,7 @@ use_preset_vocabulary: true
 连城
 恋夏
 粮仓
+粮芯
 良人
 良心
 良种
@@ -875,6 +877,7 @@ use_preset_vocabulary: true
 仰望
 养父
 窑火
+耀眼
 药方
 药香
 爷们
@@ -1010,6 +1013,7 @@ use_preset_vocabulary: true
 走火
 租界
 族魂
+足迹
 足金
 祖根
 罪爱
@@ -1597,6 +1601,7 @@ use_preset_vocabulary: true
 老宝贝
 老北风
 老病号
+老厨家
 老渡口
 老工人
 老闺蜜
@@ -1673,6 +1678,7 @@ use_preset_vocabulary: true
 六尺巷
 六骏劫
 六扇门
+六姊妹
 龙凤驹
 龙凤滩
 龙虎斗
@@ -2196,6 +2202,7 @@ use_preset_vocabulary: true
 一江水
 一年间
 一瓯春
+一起过
 衣锦坊
 遗腹子
 义门陈
@@ -2247,6 +2254,7 @@ use_preset_vocabulary: true
 云起时
 云水怒
 云水谣
+云坞上
 云襄传
 云遮月
 云之凡
@@ -2698,6 +2706,7 @@ use_preset_vocabulary: true
 草样年华
 茶船古道
 茶都风云
+茶香盛世
 柴米油盐
 产后世界
 产科医生
@@ -3249,6 +3258,7 @@ use_preset_vocabulary: true
 风往南吹
 风行海上
 风雪影人
+风雨成昆
 风雨春和
 风雨春秋
 风雨阑珊
@@ -3287,6 +3297,7 @@ use_preset_vocabulary: true
 浮光掠影
 福星高照
 福星盈门
+芙蓉朝晖
 复调人生
 妇产医院
 妇好传奇
@@ -3439,6 +3450,7 @@ use_preset_vocabulary: true
 滚滚红尘
 郭外青山
 国宝奇踪
+国宝耀世
 国魂不死
 国家孩子
 国家救援
@@ -3784,6 +3796,7 @@ use_preset_vocabulary: true
 家有遗产
 家在岸上
 家在北京
+家在兵团
 家在何方
 家在铁西
 家长里短
@@ -4609,6 +4622,7 @@ use_preset_vocabulary: true
 女心理师
 女婿嫁到
 女婿难当
+女子监狱
 女子神探
 女子特警
 女子战车
@@ -4908,6 +4922,7 @@ use_preset_vocabulary: true
 人生路遥
 人生暖暖
 人生如戏
+人生五年
 人生有戏
 人有孝心
 人鱼先生
@@ -4937,6 +4952,7 @@ use_preset_vocabulary: true
 如山父爱
 如诉如爱
 如意芳霏
+如约绽放
 入围人生
 瑞雪山乡
 润物无声
@@ -5007,6 +5023,7 @@ use_preset_vocabulary: true
 善财童子
 善良的她
 善始善终
+商贾传奇
 商丘往事
 商圣传奇
 商圣范蠡
@@ -5104,6 +5121,7 @@ use_preset_vocabulary: true
 盛世元音
 盛唐幻夜
 盛唐南诏
+盛夏缤纷
 盛装舞步
 胜利之路
 胜利之师
@@ -5161,6 +5179,7 @@ use_preset_vocabulary: true
 适婚男女
 守护妈妈
 守护热土
+守护者们
 守护正义
 守婚如玉
 守陵人家
@@ -5451,6 +5470,7 @@ use_preset_vocabulary: true
 铁血铜心
 铁血壮士
 铁翼军魂
+铁证悬案
 庭前无讼
 同班同学
 同窗危情
@@ -5523,6 +5543,7 @@ use_preset_vocabulary: true
 网络年代
 网球少年
 网事如演
+忘川无殇
 危城风云
 危机迷雾
 危机先生
@@ -5726,6 +5747,7 @@ use_preset_vocabulary: true
 仙草世家
 仙狐传奇
 仙剑客栈
+仙台有树
 仙侠世界
 先婚厚爱
 咸鱼翻身
@@ -5870,6 +5892,7 @@ use_preset_vocabulary: true
 星光闪耀
 星海蔷薇
 星汉灿烂
+星河滚烫
 星火燎原
 星速微光
 星途爱情
@@ -6115,6 +6138,7 @@ use_preset_vocabulary: true
 以爱为名
 以爱为营
 以何言爱
+以美之名
 以他之名
 以子之名
 义海雄风
@@ -6758,6 +6782,7 @@ use_preset_vocabulary: true
 传奇女莫愁
 闯关东前传
 创意狂想曲
+春到黄土坡
 春到落鹊台
 春风拂山河
 春光无限好
@@ -7931,6 +7956,7 @@ use_preset_vocabulary: true
 生活大爆炸
 生活大纠缠
 生活启示录
+生活是什么
 生活有点甜
 生活在此处
 生活最优解
@@ -8170,6 +8196,7 @@ use_preset_vocabulary: true
 我不是特工
 我不是作女
 我曾是个兵
+我从北京来
 我的波塞冬
 我的大水井
 我的好妈妈
@@ -8537,6 +8564,7 @@ use_preset_vocabulary: true
 血战长津湖
 寻梦香巴拉
 寻你到天涯
+寻她千百度
 寻找北极星
 寻找杨善洲
 鸭绿江风云
@@ -8626,6 +8654,7 @@ use_preset_vocabulary: true
 英雄刘胡兰
 英雄先遣连
 迎着太阳走
+硬币落下时
 邕城故事会
 勇闯白沙门
 勇闯上海滩
@@ -8693,6 +8722,7 @@ use_preset_vocabulary: true
 越狱倒计时
 晕头不转向
 云边剿匪记
+云雀叫天录
 云上的恋情
 云上的日子
 涢水生死线
@@ -8977,6 +9007,7 @@ use_preset_vocabulary: true
 春天的薇薇安
 瓷都人之瓷魂
 此处禁止恋爱
+此处通往繁星
 此水此山此地
 从爱情到幸福
 从巴黎到罗马
@@ -9118,6 +9149,7 @@ use_preset_vocabulary: true
 黄河黄大地红
 黄颜色绿颜色
 会打扮的姐姐
+会飞翔的孩子
 婚礼的进行曲
 婚前三十三天
 婚姻的左撇子
@@ -9156,6 +9188,7 @@ use_preset_vocabulary: true
 金色的伊犁河
 近在云端的你
 京港爱情故事
+京洛再无佳人
 井塔上的天轮
 警务站的故事
 静静的胡杨林
@@ -9621,6 +9654,7 @@ use_preset_vocabulary: true
 阳光下的沐浴
 阳光下的星星
 阳光照进车窗
+要不完的德才
 椰子味的夏天
 爷爷爸爸和我
 叶问与李小龙
@@ -9774,11 +9808,13 @@ use_preset_vocabulary: true
 奔赴下一场山海
 奔跑吧急救医生
 奔腾到海不复回
+奔向幸福的方式
 遍地狼烟之猎杀
 彪哥的快乐生活
 别想打扰我学习
 别样风雨别样情
 别再叫我俘虏兵
+别再叫我熊孩子
 鬓边不是海棠红
 冰雪融化的季节
 不曾逝去的岁月
@@ -9791,6 +9827,7 @@ use_preset_vocabulary: true
 不信蜜糖便信盐
 不要逼我做老板
 不要问我在哪里
+不一样的检察官
 不知不觉爱上你
 财神爷的那些事
 彩云归来是霓裳
@@ -10223,6 +10260,7 @@ use_preset_vocabulary: true
 清风有骨范仲淹
 清歌逐酒少年行
 清宫巨匠样式雷
+清明上河图密码
 青春从这里走过
 青春敲开我的门
 青春燃烧的岁月
@@ -10282,6 +10320,7 @@ use_preset_vocabulary: true
 三生有幸遇上你
 山村的美女书记
 山海沉浮万千路
+山间有片火烧云
 山清水秀又一村
 山外青山楼外楼
 山月不知心底事
@@ -10331,6 +10370,7 @@ use_preset_vocabulary: true
 谁都渴望遇见你
 谁都知道我爱你
 谁许情深误浮华
+谁言儿女不英雄
 谁在宿命里勇敢
 水殿风来珠翠香
 说个笑话纪念我
@@ -10668,6 +10708,7 @@ use_preset_vocabulary: true
 一个女婿两个儿
 一戽黄沙半升海
 一家不说两家话
+一间屋子半间炕
 一江春水向北流
 一路繁花香正浓
 一路迎风遇见海
@@ -10786,6 +10827,7 @@ use_preset_vocabulary: true
 煮妇的幸福生活
 抓住彩虹的男人
 追求幸福的日子
+灼灼韶华风禾起
 资深少女的初恋
 自古英雄出少年
 自恋女神修成记
@@ -11181,6 +11223,7 @@ use_preset_vocabulary: true
 乔家大院之光明之路
 秦时明月之万里长城
 请和这样的我恋爱吧
+请在你的世界发现我
 让我们记住那个年代
 人间喜剧之君子之交
 人人都爱雷锋服务站
