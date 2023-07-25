@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.07.05
+version: 2023.07.26
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3551,6 +3551,7 @@ use_preset_vocabulary: true
 宋都股份
 苏奥传感
 苏大维格
+苏豪弘业
 苏垦农发
 苏利股份
 苏宁环球
