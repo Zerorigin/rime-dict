@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.07.20
+version: 2023.08.09
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -215,6 +215,7 @@ use_preset_vocabulary: true
 蜂巢
 蜂鸟
 锋火
+锋芒
 锋刃
 风车
 风雷
@@ -363,6 +364,7 @@ use_preset_vocabulary: true
 嫁期
 奸细
 尖刀
+间者
 简爱
 剑魂
 剑侠
@@ -477,6 +479,7 @@ use_preset_vocabulary: true
 猎枭
 裂变
 裂锦
+临渊
 邻居
 玲珑
 领养
@@ -622,6 +625,7 @@ use_preset_vocabulary: true
 青方
 青恋
 青盲
+青鸟
 青山
 情报
 情劫
@@ -817,6 +821,7 @@ use_preset_vocabulary: true
 校花
 校囧
 笑脸
+缬罗
 心岸
 心歌
 心界
@@ -1239,6 +1244,7 @@ use_preset_vocabulary: true
 大西迁
 大戏法
 大戏台
+大熊猫
 大熏坊
 大丫鬟
 大盐道
@@ -1675,6 +1681,7 @@ use_preset_vocabulary: true
 柳白瓷
 柳君拂
 柳毅传
+柳舟记
 六尺巷
 六骏劫
 六扇门
@@ -2079,6 +2086,7 @@ use_preset_vocabulary: true
 仙侠剑
 先河源
 冼夫人
+县大队
 现代城
 相思扣
 香满天
@@ -2643,6 +2651,7 @@ use_preset_vocabulary: true
 冰样年华
 秉德女人
 波哥日记
+波月无边
 玻璃之城
 伯乐传奇
 博士县长
@@ -2885,6 +2894,7 @@ use_preset_vocabulary: true
 大国行商
 大国重机
 大国重器
+大国重装
 大汉情缘
 大汉天使
 大好时光
@@ -2892,6 +2902,7 @@ use_preset_vocabulary: true
 大河儿女
 大河息壤
 大河向北
+大河长歌
 大河之恋
 大河之水
 大红灯笼
@@ -3058,6 +3069,7 @@ use_preset_vocabulary: true
 喋血汉口
 喋血昆仑
 喋血英雄
+谍影风云
 谍影三国
 谍战深海
 谍战双雄
@@ -3110,6 +3122,7 @@ use_preset_vocabulary: true
 独立纵队
 独身女人
 独生子女
+读书少年
 杜鹃红了
 杜鹃花开
 短兵血刃
@@ -3323,6 +3336,7 @@ use_preset_vocabulary: true
 干得漂亮
 钢琴往事
 钢铁年代
+钢铁森林
 钢铁丝路
 钢铁驼队
 钢铁兄弟
@@ -3686,6 +3700,7 @@ use_preset_vocabulary: true
 黄金家族
 黄金密码
 黄金血道
+黄金战道
 黄浦江边
 黄埔女生
 黄泉见母
@@ -3738,6 +3753,7 @@ use_preset_vocabulary: true
 吉屋良缘
 吉祥如意
 吉祥天宝
+急救先锋
 急速危客
 极道英雄
 极光之恋
@@ -3877,6 +3893,7 @@ use_preset_vocabulary: true
 今世联情
 巾帼传奇
 津门飞鹰
+津门故事
 金灿秋色
 金藏传奇
 金钗谍影
@@ -3983,6 +4000,7 @@ use_preset_vocabulary: true
 救赎幸福
 救援风云
 狙击部队
+狙击蝴蝶
 局里局外
 鹃啼金沙
 决不突围
@@ -4649,6 +4667,7 @@ use_preset_vocabulary: true
 皮五传奇
 匹夫英雄
 匹夫友泽
+偏偏热爱
 片警大花
 漂亮宝贝
 漂亮的她
@@ -4681,6 +4700,7 @@ use_preset_vocabulary: true
 破产妈咪
 破产女友
 破产书店
+破晓时分
 破晓行动
 破晓之前
 迫在眉睫
@@ -4896,6 +4916,7 @@ use_preset_vocabulary: true
 热血故园
 热血寒刀
 热血尖兵
+热血黎明
 热血凉山
 热血码头
 热血枪手
@@ -5063,6 +5084,7 @@ use_preset_vocabulary: true
 深海猎鲨
 深井食堂
 深山传奇
+深瞳之下
 深夜食堂
 深圳青年
 神笔传奇
@@ -5233,6 +5255,7 @@ use_preset_vocabulary: true
 丝丝心动
 司春女神
 司徒公主
+私藏浪漫
 私人公园
 死亡玫瑰
 四大才子
@@ -5668,6 +5691,7 @@ use_preset_vocabulary: true
 无为婚姻
 无畏英雄
 无形之刃
+无影之墙
 无忧之地
 五彩呈祥
 五彩琉璃
@@ -5814,6 +5838,7 @@ use_preset_vocabulary: true
 小李飞刀
 小麦进城
 小满生活
+小满未满
 小美人鱼
 小妹艾草
 小妮扛枪
@@ -5866,6 +5891,7 @@ use_preset_vocabulary: true
 新疆古丽
 新锦衣卫
 新镜花缘
+新卷席筒
 新苦菜花
 新妈上岗
 新生常谈
@@ -6012,6 +6038,7 @@ use_preset_vocabulary: true
 焉支传奇
 胭脂霸王
 延安爱情
+延安颂歌
 延安延安
 延禧攻略
 炎黄大帝
@@ -6101,6 +6128,7 @@ use_preset_vocabulary: true
 一念时光
 一念无间
 一念永恒
+一盘好棋
 一品汤王
 一品仵作
 一仆二主
@@ -6178,6 +6206,7 @@ use_preset_vocabulary: true
 英雄使命
 英雄岁月
 英雄无泪
+英雄无言
 鹦鹉行动
 鹰击行动
 瀛寰之志
@@ -6265,6 +6294,7 @@ use_preset_vocabulary: true
 原来是你
 原生家庭
 原生之爱
+原星时空
 圆梦时刻
 圆梦庄园
 圆梦足球
@@ -6795,6 +6825,7 @@ use_preset_vocabulary: true
 磁州十八窑
 磁州窑传奇
 此间的少年
+此刻的生活
 此去共浮生
 此生只为你
 刺客聂隐娘
@@ -7032,6 +7063,7 @@ use_preset_vocabulary: true
 跟你扯不清
 跟往事干杯
 跟我抖起来
+跟着黄河走
 更好的青春
 更好的我们
 公主不说谎
@@ -7238,6 +7270,7 @@ use_preset_vocabulary: true
 家是一座城
 家庭保卫战
 家有五味糖
+家在海那边
 家在京津冀
 家在南三条
 家住沂蒙山
@@ -7373,9 +7406,11 @@ use_preset_vocabulary: true
 蓝天木棉红
 蓝天燕飞翔
 浪花一朵朵
+浪漫的底色
 浪子多情剑
 姥姥的抗战
 姥爷的抗战
+老爸充电中
 老爸的爱情
 老爸的心愿
 老爸那些事
@@ -8134,6 +8169,7 @@ use_preset_vocabulary: true
 偷心丘比特
 偷走他的心
 突击再突击
+突然拥有你
 图尔与风车
 土楼剿匪记
 湍流的代号
@@ -8528,6 +8564,7 @@ use_preset_vocabulary: true
 幸福双行线
 幸福万年长
 幸福向前冲
+幸福小冤家
 幸福小丈夫
 幸福新时代
 幸福新天地
@@ -8891,6 +8928,7 @@ use_preset_vocabulary: true
 最后的刑名
 最后的战士
 最后一公里
+最后一里路
 最佳前男友
 最美的爱恋
 最美的安排
@@ -9176,6 +9214,7 @@ use_preset_vocabulary: true
 江山如此多骄
 交警队的故事
 脚尖上的人生
+姐姐们的秘密
 介子推与重耳
 借你一世玲珑
 借什么别借钱
@@ -9374,6 +9413,7 @@ use_preset_vocabulary: true
 山无棱天地合
 伤不起的青春
 商圣范蠡传奇
+上海爱情故事
 上海恋爱地图
 上世纪的爱情
 上有老下有小
@@ -9519,6 +9559,7 @@ use_preset_vocabulary: true
 我的鸵鸟先生
 我的危险恋人
 我的犀利女友
+我的限定男友
 我的刑警老爸
 我的幸福模式
 我的幸福乡村
@@ -9863,6 +9904,7 @@ use_preset_vocabulary: true
 从台北吹来的风
 达吉和她的父亲
 打火机与公主裙
+大坝的幸福时光
 大别山上红旗飘
 大汉贤后卫子夫
 大门从这里打开
@@ -10562,12 +10604,14 @@ use_preset_vocabulary: true
 我们走在山路上
 我们最好的时光
 我亲爱的丈母娘
+我深深地爱着你
 我是警察之潜伏
 我是女儿我是妈
 我是女人我怕谁
 我是一个侦察兵
 我为青春点个赞
 我想回到那一天
+我想我们在一起
 我心如冰剑如雪
 我选择了不结婚
 我要和你在一起
@@ -10675,6 +10719,7 @@ use_preset_vocabulary: true
 薛平贵与王宝钏
 雪山草地秘密战
 寻找时间的灰度
+烟岚水色石中收
 燕山派与百花门
 燕子李三之门徒
 艳势番之新青年
@@ -11202,6 +11247,7 @@ use_preset_vocabulary: true
 论习惯对颜值的影响
 麻辣女友的幸福时光
 玫瑰与康乃馨的战争
+梦堡小精灵之黑旋风
 梦想三部曲之梦想城
 梦想小镇之创业手记
 民警老林的幸福生活
@@ -11450,6 +11496,7 @@ use_preset_vocabulary: true
 外来媳妇本地郎之如此蹭热度
 外来媳妇本地郎之湾区一家亲
 外来媳妇本地郎之枝子的危机
+外来媳妇本地郎之逐梦天地间
 丫丫趴魔幻城堡之传统大作战
 正阳门下之大前门下的小女人
 中华传统文化故事之成语典故
