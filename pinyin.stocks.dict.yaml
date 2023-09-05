@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.07.26
+version: 2023.09.06
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4611,6 +4611,7 @@ use_preset_vocabulary: true
 中航高科
 中航光电
 中航机电
+中航机载
 中航沈飞
 中航西飞
 中航重机
