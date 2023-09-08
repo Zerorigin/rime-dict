@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.08.09
+version: 2023.09.09
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -441,6 +441,7 @@ use_preset_vocabulary: true
 老家
 老街
 老井
+老舅
 老漂
 乐活
 乐音
@@ -455,6 +456,7 @@ use_preset_vocabulary: true
 礼赞
 力量
 砺剑
+立春
 立秋
 莲花
 连城
@@ -708,6 +710,7 @@ use_preset_vocabulary: true
 使命
 誓盟
 誓言
+收山
 守承
 守望
 手机
@@ -788,6 +791,7 @@ use_preset_vocabulary: true
 围猎
 卫国
 魏源
+温锅
 问天
 我们
 卧底
@@ -806,6 +810,7 @@ use_preset_vocabulary: true
 喜宴
 狭路
 仙泣
+咸雪
 贤妻
 乡愁
 香火
@@ -1360,6 +1365,7 @@ use_preset_vocabulary: true
 姑苏情
 孤城闭
 孤独者
+孤勇者
 古玩商
 古盐道
 古游记
@@ -1522,6 +1528,7 @@ use_preset_vocabulary: true
 鉴证人
 将军令
 江格尔
+江海情
 江河水
 江湖祭
 江南恨
@@ -1665,6 +1672,7 @@ use_preset_vocabulary: true
 猎天狼
 猎心者
 猎星者
+临安变
 临界点
 凌云图
 灵与肉
@@ -1884,6 +1892,7 @@ use_preset_vocabulary: true
 三江潮
 三界碑
 三棵树
+三山凹
 三生情
 三侠剑
 三叶草
@@ -1954,6 +1963,7 @@ use_preset_vocabulary: true
 双生花
 双行线
 水车巷
+水龙吟
 水男孩
 说书人
 丝路魂
@@ -2026,6 +2036,7 @@ use_preset_vocabulary: true
 同窗会
 同龄人
 同生结
+同心结
 同学会
 童话镇
 土楼王
@@ -2352,6 +2363,7 @@ use_preset_vocabulary: true
 重生者
 周瑜传
 诸神传
+竹书谣
 主场日
 筑梦人
 铸剑师
@@ -2517,6 +2529,7 @@ use_preset_vocabulary: true
 半路辣妈
 半路兄弟
 半暖时光
+半山浅巷
 半世浮沉
 半熟青年
 半熟少女
@@ -2617,6 +2630,7 @@ use_preset_vocabulary: true
 遍地阳光
 标化人生
 镖王传奇
+表妹万福
 别惹抠姐
 别无选择
 别样青春
@@ -3640,6 +3654,7 @@ use_preset_vocabulary: true
 花好月圆
 花开半夏
 花开如梦
+花开盛世
 花开一路
 花落古城
 花落花开
@@ -3753,6 +3768,7 @@ use_preset_vocabulary: true
 吉屋良缘
 吉祥如意
 吉祥天宝
+吉宅出售
 急救先锋
 急速危客
 极道英雄
@@ -4136,6 +4152,7 @@ use_preset_vocabulary: true
 老街芳华
 老年公寓
 老婆大人
+老去的家
 老外邻居
 老爷升堂
 老友餐厅
@@ -4536,6 +4553,7 @@ use_preset_vocabulary: true
 哪吒闹海
 娜仁传奇
 那个年代
+那年那月
 那年同学
 那年有匪
 那些花儿
@@ -4752,6 +4770,7 @@ use_preset_vocabulary: true
 迁徙部落
 前妻来了
 前任攻略
+前途无量
 潜龙翻江
 潜龙行动
 潜龙在渊
@@ -5036,6 +5055,7 @@ use_preset_vocabulary: true
 闪电飚车
 闪电行动
 闪光少女
+闪亮的她
 陕北村庄
 陕北汉子
 陕北星火
@@ -5057,6 +5077,7 @@ use_preset_vocabulary: true
 上海青年
 上海森林
 上海五虎
+韶华若锦
 韶华岁月
 少帝康熙
 少林猛虎
@@ -5191,6 +5212,7 @@ use_preset_vocabulary: true
 世纪谜案
 世界你好
 似曾相见
+似海无双
 似水流年
 势不两立
 势在必行
@@ -5845,11 +5867,13 @@ use_preset_vocabulary: true
 小女霓裳
 小区人家
 小巷名流
+小巷人家
 小小诸葛
 小丫头子
 小站风云
 小镇警事
 小镇青年
+小镇中年
 晓山忠魂
 孝道故事
 孝仁公主
@@ -5884,6 +5908,7 @@ use_preset_vocabulary: true
 新东游记
 新方世玉
 新封神榜
+新赶牲灵
 新官上任
 新后羿传
 新婚公寓
@@ -6076,6 +6101,7 @@ use_preset_vocabulary: true
 瑶山匪事
 瑶象传奇
 遥望初心
+窈窈有期
 药皇葛洪
 要久久爱
 椰香恋歌
@@ -6117,6 +6143,7 @@ use_preset_vocabulary: true
 一路花开
 一路狂奔
 一路狂镖
+一路前行
 一路同心
 一路向北
 一路向前
@@ -6427,6 +6454,7 @@ use_preset_vocabulary: true
 真情真义
 真是万幸
 真心爱你
+真心英雄
 真芯英雄
 真凶难逃
 真爷们儿
@@ -6450,6 +6478,7 @@ use_preset_vocabulary: true
 执行法官
 执行外传
 直隶往事
+直视骄阳
 职场江湖
 职业农民
 纸圣蔡伦
@@ -6498,6 +6527,7 @@ use_preset_vocabulary: true
 钟馗传奇
 钟馗降龙
 重案六组
+重返青春
 重工长歌
 重回上海
 重建家园
@@ -6718,6 +6748,7 @@ use_preset_vocabulary: true
 宝莲灯传奇
 北部湾人家
 北京一家人
+北京在青春
 北平无战事
 北纬三十度
 背后的真相
@@ -6924,6 +6955,7 @@ use_preset_vocabulary: true
 东厂女杀手
 东方有大海
 东风向前冲
+东郊一条街
 东仁的抉择
 东山晴后雪
 冬奥一家人
@@ -7821,6 +7853,7 @@ use_preset_vocabulary: true
 青春进行时
 青春麻辣烫
 青春那几年
+青春那一夏
 青春逆行时
 青春抛物线
 青春起跑线
@@ -8267,6 +8300,7 @@ use_preset_vocabulary: true
 我叫赵红花
 我就是角儿
 我就是警察
+我们啊我们
 我们不一样
 我们的稻田
 我们的奋斗
@@ -8407,6 +8441,7 @@ use_preset_vocabulary: true
 向旗帜敬礼
 向太太致敬
 向往的家庭
+向阳花会开
 向阳杂货铺
 小八路传奇
 小菜向前冲
@@ -8506,6 +8541,7 @@ use_preset_vocabulary: true
 新运河人家
 信仰的年华
 星辰下雨沫
+星辰知我意
 星火耀天明
 星火耀西北
 星际桃花运
@@ -8666,6 +8702,8 @@ use_preset_vocabulary: true
 一生只爱你
 一树桃花开
 一碗盛天下
+依依向北风
+医生的品格
 沂蒙山小调
 移动的枪口
 遗失的身份
@@ -8675,6 +8713,7 @@ use_preset_vocabulary: true
 倚天屠龙记
 义渠王传奇
 异次元公寓
+因为是家人
 因为有了你
 因为遇见你
 隐蔽的英雄
@@ -8928,6 +8967,7 @@ use_preset_vocabulary: true
 最后的刑名
 最后的战士
 最后一公里
+最后一海里
 最后一里路
 最佳前男友
 最美的爱恋
@@ -9206,6 +9246,7 @@ use_preset_vocabulary: true
 假若明天来临
 尖刀之风雷诀
 检察官的春天
+检察官与少年
 健身房的故事
 剑花烟雨江山
 涧水村的春天
@@ -10286,6 +10327,7 @@ use_preset_vocabulary: true
 骑马扛枪打天下
 气吞山河之岳飞
 恰逢姐妹花正开
+千朵桃花一世开
 千古风流苏东波
 千古一圣王阳明
 千江有水千江月
@@ -10365,6 +10407,7 @@ use_preset_vocabulary: true
 山间有片火烧云
 山清水秀又一村
 山外青山楼外楼
+山乡盛开玉兰花
 山月不知心底事
 杉杉的美味爱情
 闪闪发光的我们
@@ -10427,6 +10470,7 @@ use_preset_vocabulary: true
 孙老师和同学们
 他从火光中走来
 她们灿烂的人生
+她们的烨烨人生
 踏遍青山人未老
 踏着彩虹的我们
 太极宗师陈王廷
@@ -10462,6 +10506,7 @@ use_preset_vocabulary: true
 田坎书记邓平寿
 铁道兵血染成昆
 铁路之父詹天佑
+铁马冰河入梦来
 听说你还回忆我
 听说你会爱上我
 听说你要治愈我
@@ -10802,6 +10847,7 @@ use_preset_vocabulary: true
 又是一年山林绿
 于无声处听惊雷
 余小猪的大奋斗
+玉兰花开君再来
 玉兰花开幸福来
 遇见最好的我们
 元宝山下金元宝
@@ -11022,6 +11068,7 @@ use_preset_vocabulary: true
 你是我的未完待续
 你问我爱你有多深
 你知道我在等你吗
+年年有余岁岁平安
 年轻的朋友来相会
 女博士的美丽事业
 女汉子的幸福生活
@@ -11318,6 +11365,7 @@ use_preset_vocabulary: true
 舞法天女之璀璨甜蜜
 仙路争锋之秘境仙踪
 先生系列之中产先生
+想把你和时间藏起来
 向海而居的好朋友们
 小保姆的大腕儿生活
 小风暴之时间的玫瑰
