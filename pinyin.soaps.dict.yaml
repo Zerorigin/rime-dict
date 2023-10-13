@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.09.09
+version: 2023.10.14
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1058,6 +1058,7 @@ use_preset_vocabulary: true
 帮夫记
 包青天
 宝莲灯
+宝庆里
 宝箴塞
 暴风眼
 北风寒
@@ -1289,6 +1290,7 @@ use_preset_vocabulary: true
 滇娇传
 点金者
 丁宝桢
+定风波
 东风破
 东江魂
 冬与狮
@@ -1897,6 +1899,7 @@ use_preset_vocabulary: true
 三侠剑
 三叶草
 桑梓地
+扫鼠岭
 涩女郎
 杀八方
 杀狼花
@@ -2231,6 +2234,7 @@ use_preset_vocabulary: true
 易容术
 艺术生
 音乐会
+饮早茶
 樱桃红
 英雄地
 英雄花
@@ -3655,6 +3659,7 @@ use_preset_vocabulary: true
 花开半夏
 花开如梦
 花开盛世
+花开石上
 花开一路
 花落古城
 花落花开
@@ -4123,6 +4128,7 @@ use_preset_vocabulary: true
 蓝天行动
 蓝焰突击
 懒人部落
+狼兵出击
 狼牙英雄
 狼烟姐妹
 狼与蔷薇
@@ -4327,6 +4333,7 @@ use_preset_vocabulary: true
 乱世英雄
 乱世云烟
 乱世争雄
+罗家女人
 裸婚时代
 裸婚之后
 裸嫁时代
@@ -4335,6 +4342,7 @@ use_preset_vocabulary: true
 落红萧萧
 落花时节
 落跑甜心
+律动心跳
 律师来也
 率土归唐
 绿茶情缘
@@ -4977,6 +4985,7 @@ use_preset_vocabulary: true
 日出江南
 日出琴岛
 日光之城
+日落东瀛
 日落日出
 日升昌记
 日月传奇
@@ -5356,6 +5365,7 @@ use_preset_vocabulary: true
 淘气小子
 特案追缉
 特别调查
+特别公诉
 特别使命
 特警力量
 特勤精英
@@ -5939,6 +5949,7 @@ use_preset_vocabulary: true
 星光灿烂
 星光璀璨
 星光都市
+星光皎皎
 星光满天
 星光闪耀
 星海蔷薇
@@ -6144,6 +6155,7 @@ use_preset_vocabulary: true
 一路狂奔
 一路狂镖
 一路前行
+一路生花
 一路同心
 一路向北
 一路向前
@@ -6646,6 +6658,7 @@ use_preset_vocabulary: true
 爱你不后悔
 爱你一万年
 爱拼才会赢
+爱拼的慧盈
 爱情保卫战
 爱情不打烊
 爱情不摇号
@@ -6913,6 +6926,7 @@ use_preset_vocabulary: true
 代号十三钗
 带刀女捕快
 待嫁三千金
+待我醒来时
 蛋条也烦恼
 当家大掌柜
 当家的男人
@@ -7414,6 +7428,7 @@ use_preset_vocabulary: true
 抗日手枪队
 抗倭奇侠传
 可爱的他们
+可是我想你
 可惜不是你
 课间好时光
 空间魔术师
@@ -7707,6 +7722,7 @@ use_preset_vocabulary: true
 怒海斩鲸录
 怒吼的平原
 暖男成长记
+暖暖的春风
 暖暖的守护
 暖暖的新家
 暖暖的幸福
@@ -8702,6 +8718,7 @@ use_preset_vocabulary: true
 一生只爱你
 一树桃花开
 一碗盛天下
+伊吾保卫战
 依依向北风
 医生的品格
 沂蒙山小调
@@ -10442,6 +10459,7 @@ use_preset_vocabulary: true
 时尚不相信眼泪
 手机之有一说一
 戍边儒将陈元光
+树下有片红房子
 刷新之城市之光
 刷新之六月的雨
 刷新之墙里墙外
@@ -10556,6 +10574,7 @@ use_preset_vocabulary: true
 我的老爸是卧底
 我的老板不靠谱
 我的妈妈是天使
+我的名字是李静
 我的莫格利男孩
 我的母亲兰冬梅
 我的母亲是红军
@@ -10847,6 +10866,7 @@ use_preset_vocabulary: true
 又是一年山林绿
 于无声处听惊雷
 余小猪的大奋斗
+鱼在金融海啸中
 玉兰花开君再来
 玉兰花开幸福来
 遇见最好的我们
@@ -11213,6 +11233,7 @@ use_preset_vocabulary: true
 勇敢者之铁血使命
 有一种爱情叫兄弟
 余生很长你最难忘
+与死神作战的人们
 圆明园之九洲清晏
 在寂与寞的川流上
 在桃花盛开的地方
