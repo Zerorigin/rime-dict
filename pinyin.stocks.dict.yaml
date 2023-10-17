@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.09.06
+version: 2023.10.18
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2324,6 +2324,7 @@ use_preset_vocabulary: true
 津滨发展
 津膜科技
 津荣天宇
+津投城开
 津药药业
 金安国纪
 金杯电工
