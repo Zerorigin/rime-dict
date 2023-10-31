@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.10.18
+version: 2023.11.01
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4725,6 +4725,7 @@ use_preset_vocabulary: true
 中信国安
 中信海直
 中信建投
+中信尼雅
 中信特钢
 中信银行
 中信证券
