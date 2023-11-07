@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.11.01
+version: 2023.11.08
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2256,6 +2256,7 @@ use_preset_vocabulary: true
 建新股份
 建业股份
 建艺集团
+建元信托
 键凯科技
 江丰电子
 江海股份
