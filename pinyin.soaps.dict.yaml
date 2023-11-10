@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.10.14
+version: 2023.11.11
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -202,6 +202,7 @@ use_preset_vocabulary: true
 繁花
 繁华
 返乡
+范儿
 范蠡
 方向
 房战
@@ -684,6 +685,7 @@ use_preset_vocabulary: true
 尚食
 少林
 舌尖
+舌战
 设局
 深爱
 深白
@@ -817,6 +819,7 @@ use_preset_vocabulary: true
 向往
 枭臣
 萧璃
+逍遥
 小草
 小城
 小芳
@@ -919,6 +922,7 @@ use_preset_vocabulary: true
 樱桃
 英雄
 赢家
+迎风
 影子
 勇士
 永生
@@ -1164,6 +1168,7 @@ use_preset_vocabulary: true
 大博弈
 大捕房
 大茶商
+大柴湖
 大钞关
 大车帮
 大川商
@@ -1238,6 +1243,7 @@ use_preset_vocabulary: true
 大上海
 大生意
 大盛魁
+大师傅
 大水井
 大台门
 大糖坊
@@ -1299,6 +1305,7 @@ use_preset_vocabulary: true
 都挺好
 斗红颜
 豆沙关
+独立团
 独生女
 独生子
 独药师
@@ -1420,6 +1427,7 @@ use_preset_vocabulary: true
 何时归
 何思源
 何为爱
+合成令
 合伙记
 合伙人
 合家亲
@@ -1509,6 +1517,7 @@ use_preset_vocabulary: true
 回马枪
 悔丁族
 火凤凰
+火辣辣
 火苗儿
 火烧云
 火语者
@@ -1746,6 +1755,7 @@ use_preset_vocabulary: true
 蜜月岛
 妙女郎
 闽宁镇
+明灯引
 摩登派
 魔女郎
 魔天记
@@ -1763,6 +1773,7 @@ use_preset_vocabulary: true
 那年代
 南风窗
 南海潮
+南货店
 南泥湾
 南洋情
 南诏王
@@ -1988,6 +1999,7 @@ use_preset_vocabulary: true
 岁岁红
 孙思邈
 锁梦楼
+他是狼
 他是谁
 踏沧然
 踏雪寻
@@ -2145,6 +2157,7 @@ use_preset_vocabulary: true
 小中产
 小重逢
 啸清风
+笑歌行
 笑忘书
 斜马镇
 谢谢你
@@ -2540,6 +2553,7 @@ use_preset_vocabulary: true
 半糖夫妻
 半夏同盟
 梆板春秋
+榜上佳婿
 包公治端
 包容天下
 保定军校
@@ -2869,6 +2883,7 @@ use_preset_vocabulary: true
 此心安处
 刺刀英雄
 刺桐花开
+次元玩家
 匆匆那年
 丛林兵王
 催生时代
@@ -3184,6 +3199,7 @@ use_preset_vocabulary: true
 防不胜防
 放飞理想
 放飞梦想
+放心不下
 绯闻女友
 非常搭档
 非常公诉
@@ -3516,6 +3532,7 @@ use_preset_vocabulary: true
 海边春秋
 海边女人
 海道传奇
+海风正浓
 海军世家
 海阔天空
 海蓝情天
@@ -3932,6 +3949,7 @@ use_preset_vocabulary: true
 金牌月嫂
 金牌助理
 金钱本质
+金桥飞渡
 金色大地
 金色暮年
 金色漩涡
@@ -4059,6 +4077,7 @@ use_preset_vocabulary: true
 军事代表
 君子好逑
 喀什往事
+卡拉计划
 开国前夜
 开国岁月
 开门见喜
@@ -5086,6 +5105,7 @@ use_preset_vocabulary: true
 上海青年
 上海森林
 上海五虎
+上篮追风
 韶华若锦
 韶华岁月
 少帝康熙
@@ -5293,6 +5313,7 @@ use_preset_vocabulary: true
 四季饭店
 四季客栈
 四季青青
+四凉八热
 四灵战士
 四梦情缘
 四面八方
@@ -5324,6 +5345,7 @@ use_preset_vocabulary: true
 她的一生
 她很漂亮
 塔台呼叫
+踏遍青山
 踏火行歌
 踏破硝烟
 台上台下
@@ -5728,6 +5750,7 @@ use_preset_vocabulary: true
 五彩呈祥
 五彩琉璃
 五彩云霞
+五福临门
 五哥传奇
 五湖四海
 五路财神
@@ -6066,6 +6089,7 @@ use_preset_vocabulary: true
 烟花璀璨
 烟花易冷
 烟火人间
+烟火生活
 烟雨红尘
 烟雨红颜
 烟雨黄河
@@ -6151,6 +6175,7 @@ use_preset_vocabulary: true
 一路朝阳
 一路传奇
 一路芳华
+一路芬芳
 一路花开
 一路狂奔
 一路狂镖
@@ -6345,6 +6370,7 @@ use_preset_vocabulary: true
 缘来幸福
 远大前程
 远东来信
+远东之光
 远东之恋
 远古大帝
 远亲近邻
@@ -6416,6 +6442,7 @@ use_preset_vocabulary: true
 战旗如画
 战神韩信
 战神杨戬
+战士荣耀
 战争和人
 战至终场
 绽放时代
@@ -7126,6 +7153,7 @@ use_preset_vocabulary: true
 孤战在黎明
 古城小女人
 古今六人行
+古乐风华录
 故道槐花香
 故乡的泥土
 故乡月更明
@@ -7804,6 +7832,7 @@ use_preset_vocabulary: true
 契约上的爱
 恰逢雨连天
 千古凤山缘
+千里江山图
 千里无人区
 千年木垒河
 牵牛的夏天
@@ -8659,6 +8688,7 @@ use_preset_vocabulary: true
 鸭绿江风云
 哑父与花花
 雅典娜女神
+烟花与少年
 烟火江湖情
 烟雨北京城
 烟雨梦江南
@@ -8848,6 +8878,7 @@ use_preset_vocabulary: true
 斩尾龙传奇
 战斗到黎明
 战后大遣返
+战火浮生录
 战火家园梦
 战火四千金
 战火太阳山
@@ -9456,6 +9487,7 @@ use_preset_vocabulary: true
 燃烧的地平线
 让世界爱上你
 让我们结婚吧
+让我在你身边
 热烈地清扫吧
 热血奇侠吕三
 人间烟火和你
@@ -10010,6 +10042,7 @@ use_preset_vocabulary: true
 董事长家的战争
 都是礼物惹的祸
 都是男孩惹的祸
+斗贼之虚拟飞贼
 锻刀之绝地重生
 对的时间对的人
 多情剑客无情剑
@@ -10031,6 +10064,7 @@ use_preset_vocabulary: true
 钢花灿烂的地方
 高知女人回家记
 格调和凯旋夫妇
+葛西河水向西流
 阁楼上的神炮手
 革命时期的爱情
 给老外当丈母娘
@@ -10051,6 +10085,7 @@ use_preset_vocabulary: true
 关于妻子的一切
 关于胜利的法则
 滚滚黄河东逝水
+滚滚长江东逝水
 国士无双黄飞鸿
 还想还想谈恋爱
 海风吹来的故事
@@ -10169,6 +10204,7 @@ use_preset_vocabulary: true
 军校的那些花儿
 开往春天的地铁
 开往首都的高铁
+铠甲勇士之星曜
 看见爱情的声音
 抗大之青春往事
 抗日传奇刘黑仔
@@ -10271,6 +10307,7 @@ use_preset_vocabulary: true
 摩登中产恋爱时
 魔术学院之傲客
 抹布女也有春天
+陌上逢却再少年
 陌上云暮迟迟归
 母亲的光辉岁月
 牡丹花开幸福来
@@ -10677,6 +10714,7 @@ use_preset_vocabulary: true
 我想回到那一天
 我想我们在一起
 我心如冰剑如雪
+我心中的一束光
 我选择了不结婚
 我要和你在一起
 我要我们在一起
