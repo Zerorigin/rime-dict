@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.11.08
+version: 2023.11.15
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1368,6 +1368,7 @@ use_preset_vocabulary: true
 东方证券
 东方中科
 东风股份
+东峰集团
 东风科技
 东风汽车
 东港股份
