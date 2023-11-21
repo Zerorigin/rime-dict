@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.11.15
+version: 2023.11.22
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2940,6 +2940,7 @@ use_preset_vocabulary: true
 南京公用
 南京化纤
 南京聚隆
+南京商旅
 南京新百
 南京熊猫
 南京医药
