@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.11.29
+version: 2023.12.13
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1835,6 +1835,7 @@ use_preset_vocabulary: true
 豪美新材
 豪能股份
 豪森股份
+豪森智能
 豪悦护理
 好利科技
 昊海生科
