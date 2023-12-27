@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.12.13
+version: 2023.12.28
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4643,6 +4643,7 @@ use_preset_vocabulary: true
 中简科技
 中建环能
 中交地产
+中交设计
 中捷精工
 中金辐照
 中金公司
