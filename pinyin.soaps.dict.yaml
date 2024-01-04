@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2023.12.08
+version: 2024.01.05
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -595,6 +595,7 @@ use_preset_vocabulary: true
 票友
 拼居
 乒乓
+破壁
 破冰
 破茧
 破局
@@ -655,6 +656,7 @@ use_preset_vocabulary: true
 人居
 人生
 人味
+人鱼
 容闳
 戎殇
 熔点
@@ -1117,6 +1119,7 @@ use_preset_vocabulary: true
 苍穹下
 苍天泪
 藏茶坊
+藏海传
 曹操传
 草根王
 策天阙
@@ -1764,6 +1767,7 @@ use_preset_vocabulary: true
 密码战
 密杀令
 密语者
+蜜语纪
 蜜月岛
 妙女郎
 闽宁镇
@@ -2006,6 +2010,7 @@ use_preset_vocabulary: true
 宋耀如
 搜索连
 苏北里
+苏东坡
 苏乞儿
 酸辣粉
 岁食记
@@ -2123,6 +2128,7 @@ use_preset_vocabulary: true
 下南洋
 下扬州
 下一代
+仙武传
 仙侠剑
 先河源
 冼夫人
@@ -2519,6 +2525,7 @@ use_preset_vocabulary: true
 爸爸驾到
 爸爸来了
 白发王妃
+白华为菅
 白狼宝藏
 白领白话
 白领武馆
@@ -2892,6 +2899,7 @@ use_preset_vocabulary: true
 春满家乡
 春暖花开
 春暖矿山
+春秋风云
 春秋商圣
 春去春归
 春生夏长
@@ -3520,6 +3528,7 @@ use_preset_vocabulary: true
 郭外青山
 国宝奇踪
 国宝耀世
+国宝忠魂
 国魂不死
 国家孩子
 国家救援
@@ -3580,6 +3589,7 @@ use_preset_vocabulary: true
 翰墨人生
 航天儿女
 航天英雄
+濠江潮涌
 好儿好女
 好好生活
 好好说话
@@ -3841,6 +3851,7 @@ use_preset_vocabulary: true
 继母回家
 继母来了
 计算者们
+佳偶天成
 佳期如梦
 加油爱人
 加油妈妈
@@ -4068,6 +4079,7 @@ use_preset_vocabulary: true
 鹃啼金沙
 决不突围
 决胜法庭
+决胜时刻
 决战马陵
 决战女神
 决战太行
@@ -5259,6 +5271,7 @@ use_preset_vocabulary: true
 石榴树下
 石破天惊
 石头开花
+食南之徒
 食全食美
 食色男女
 食味人间
@@ -5290,6 +5303,7 @@ use_preset_vocabulary: true
 守望正义
 首尔之恋
 寿星歪传
+狩猎时刻
 书法武林
 书墨未浓
 书堂少年
@@ -5851,6 +5865,7 @@ use_preset_vocabulary: true
 夏花秋叶
 夏日狂奔
 夏日心跳
+夏日序曲
 夏日烟火
 夏至未至
 仙草世家
@@ -6336,10 +6351,12 @@ use_preset_vocabulary: true
 泳装恋人
 忧乐天下
 悠悠少年
+悠悠岁月
 游击英雄
 游戏天子
 游泳先生
 有备而来
+又见炊烟
 又见花火
 又见南锣
 又见青春
@@ -6419,6 +6436,7 @@ use_preset_vocabulary: true
 月明三更
 月嫂先生
 月上重火
+月下烟火
 月照西廊
 越过山丘
 越来越好
@@ -6501,6 +6519,7 @@ use_preset_vocabulary: true
 长平之战
 长期关系
 长孙皇后
+长夜星火
 长缨在手
 长者社区
 招商局长
@@ -6888,6 +6907,7 @@ use_preset_vocabulary: true
 潮白河人家
 车情十八弯
 尘封的情债
+沉默的光芒
 沉重的军礼
 趁父母还在
 趁青春正好
@@ -7190,6 +7210,7 @@ use_preset_vocabulary: true
 古今六人行
 古乐风华录
 故道槐花香
+故人绣塘栖
 故乡的泥土
 故乡月更明
 怪臣满朝荐
@@ -7339,6 +7360,7 @@ use_preset_vocabulary: true
 婚姻保卫战
 婚姻变奏曲
 婚姻部落格
+婚姻的路口
 婚姻二三事
 婚姻攻防战
 婚姻鸿门宴
@@ -7408,6 +7430,7 @@ use_preset_vocabulary: true
 叫我一声哥
 教师的名义
 结婚的秘密
+结婚的勇气
 结婚进行时
 结婚前规则
 结婚为什么
@@ -7940,6 +7963,7 @@ use_preset_vocabulary: true
 青春见习生
 青春进行时
 青春麻辣烫
+青春梦工厂
 青春那几年
 青春那一夏
 青春逆行时
@@ -8003,6 +8027,7 @@ use_preset_vocabulary: true
 燃烧的岁月
 让爱再回首
 让我爱上你
+让我陪着你
 让真爱还原
 热浪救援队
 热闹城管队
@@ -8386,6 +8411,7 @@ use_preset_vocabulary: true
 我叫汪格格
 我叫肖小军
 我叫颜如玉
+我叫赵出息
 我叫赵红花
 我就是角儿
 我就是警察
@@ -9598,6 +9624,7 @@ use_preset_vocabulary: true
 苏东坡在儋州
 孙光明下乡记
 孙老倔的烦恼
+他以时间为名
 他与海洋为邻
 他与月光为邻
 她和她的群岛
@@ -9659,6 +9686,7 @@ use_preset_vocabulary: true
 我的非常岳父
 我的父老乡亲
 我的盖世英雄
+我的骨肉兄弟
 我的闺蜜婆婆
 我的韩国机长
 我的合伙恋人
@@ -10020,6 +10048,7 @@ use_preset_vocabulary: true
 乘风破浪会有时
 成都老爸重庆妈
 成语故事系列剧
+吃饭跑步和恋爱
 充满阳光的生活
 初遇在光年之外
 川军团血战到底
@@ -10320,6 +10349,7 @@ use_preset_vocabulary: true
 绿水青山红日子
 绿叶对根的情意
 绿叶对根的情谊
+妈妈的南方宾馆
 妈妈你不要改嫁
 妈妈再吻我一次
 买手小姐我爱你
@@ -10394,6 +10424,7 @@ use_preset_vocabulary: true
 你敢求婚我敢嫁
 你就像那一把火
 你是迟来的欢喜
+你是光阴派的糖
 你是空中一朵云
 你是我的摆渡人
 你是我的艳阳天
@@ -10504,6 +10535,7 @@ use_preset_vocabulary: true
 三生三世枕上书
 三生有幸遇见你
 三生有幸遇上你
+傻妞的无限宇宙
 山村的美女书记
 山海沉浮万千路
 山间有片火烧云
@@ -11158,6 +11190,7 @@ use_preset_vocabulary: true
 美丽的乡村我的家
 美丽乡村那些事儿
 美坡村的幸福事业
+明天也是新的一天
 那金花和她的女婿
 那些青春与爱有关
 那一年下雪的日子
