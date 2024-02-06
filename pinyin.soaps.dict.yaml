@@ -16,7 +16,7 @@
 
 ---
 name: pinyin.soaps
-version: 2024.01.05
+version: 2024.02.07
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -380,6 +380,7 @@ use_preset_vocabulary: true
 匠心
 娇妻
 叫板
+较量
 接头
 截杀
 结爱
@@ -591,6 +592,7 @@ use_preset_vocabulary: true
 咆哮
 炮神
 彭祖
+漂白
 飘帅
 票友
 拼居
@@ -722,6 +724,7 @@ use_preset_vocabulary: true
 誓盟
 誓言
 收山
+守藏
 守承
 守望
 手机
@@ -799,6 +802,7 @@ use_preset_vocabulary: true
 忘食
 望海
 望京
+危局
 微尘
 围攻
 围猎
@@ -1962,6 +1966,7 @@ use_preset_vocabulary: true
 生命缘
 生死河
 生死情
+生万物
 盛宣怀
 胜利日
 胜利者
@@ -2128,6 +2133,7 @@ use_preset_vocabulary: true
 下南洋
 下扬州
 下一代
+仙情诀
 仙武传
 仙侠剑
 先河源
@@ -2361,6 +2367,7 @@ use_preset_vocabulary: true
 长河谣
 长虹岭
 长街行
+长乐曲
 长相思
 长相依
 长相知
@@ -2565,6 +2572,7 @@ use_preset_vocabulary: true
 班超父子
 班淑传奇
 板栗红了
+伴我出嫁
 半步天涯
 半步之遥
 半路村长
@@ -2905,6 +2913,7 @@ use_preset_vocabulary: true
 春生夏长
 慈悲客栈
 慈母的爱
+慈母县令
 瓷皇柴荣
 此间歌声
 此心安处
@@ -2927,6 +2936,7 @@ use_preset_vocabulary: true
 蹉跎岁月
 错点鸳鸯
 打虎上山
+大爱同仁
 大爱晚成
 大爱无垠
 大兵小将
@@ -3284,6 +3294,7 @@ use_preset_vocabulary: true
 沸腾生活
 分期付款
 芬芳岁月
+芬芳喜事
 粉墨丹青
 奋斗时代
 封神英雄
@@ -3637,6 +3648,7 @@ use_preset_vocabulary: true
 红安娃子
 红岸绝恋
 红帮匠人
+红尘四合
 红粉兵团
 红粉佳衣
 红河风云
@@ -3714,6 +3726,7 @@ use_preset_vocabulary: true
 花落花开
 花奴公主
 花生满路
+花乡儿女
 花样冰团
 花样美男
 花样时代
@@ -3799,6 +3812,7 @@ use_preset_vocabulary: true
 浑河之魂
 活色生香
 伙伴夫妻
+火场追凶
 火锅传奇
 火红青春
 火蓝刀锋
@@ -4400,6 +4414,7 @@ use_preset_vocabulary: true
 落花时节
 落跑甜心
 律动心跳
+律师来了
 律师来也
 率土归唐
 绿茶情缘
@@ -4690,6 +4705,7 @@ use_preset_vocabulary: true
 娘的故事
 娘亲舅大
 娘要嫁人
+聂耳传奇
 宁波商帮
 柠檬初上
 牛郎织女
@@ -4732,6 +4748,7 @@ use_preset_vocabulary: true
 排球少女
 派出所长
 潘安传奇
+盘古风云
 泡芙小姐
 泡沫之夏
 泡泡小桐
@@ -4919,6 +4936,7 @@ use_preset_vocabulary: true
 青青子衿
 青山不墨
 青山烽火
+青山绿水
 青山郁郁
 青天宝砚
 青秀之恋
@@ -5066,6 +5084,7 @@ use_preset_vocabulary: true
 弱冠之年
 撒种成金
 萨饼女孩
+塞上青春
 三丁包子
 三坊七巷
 三粉传奇
@@ -5300,6 +5319,7 @@ use_preset_vocabulary: true
 守望亲情
 守望仁心
 守望乡村
+守望相助
 守望正义
 首尔之恋
 寿星歪传
@@ -5335,6 +5355,7 @@ use_preset_vocabulary: true
 水火之恋
 水木沉香
 水木清华
+舜山苍苍
 顺义妈妈
 朔沙流年
 丝路风云
@@ -5854,6 +5875,7 @@ use_preset_vocabulary: true
 喜事成双
 戏比天大
 戏点鸳鸯
+戏里戏外
 戏路仁风
 戏梦江安
 细说乾隆
@@ -6148,6 +6170,7 @@ use_preset_vocabulary: true
 延安延安
 延禧攻略
 炎黄大帝
+焰火明城
 焰月凌天
 燕荡恩仇
 燕弓听雪
@@ -6265,6 +6288,7 @@ use_preset_vocabulary: true
 依水之恋
 医崇聊斋
 医馆笑传
+医生荣誉
 医生有梦
 医者仁心
 医者雄心
@@ -6276,6 +6300,8 @@ use_preset_vocabulary: true
 疑云密布
 以爱为名
 以爱为营
+以爱之名
+以法之名
 以何言爱
 以美之名
 以他之名
@@ -6366,6 +6392,7 @@ use_preset_vocabulary: true
 诱狼行动
 迂子老马
 于无声处
+余生有涯
 俞家大院
 愚人善事
 渔岛怒潮
@@ -6514,6 +6541,7 @@ use_preset_vocabulary: true
 长河落日
 长江大桥
 长江大侠
+长乐昭昭
 长路向天
 长梦留痕
 长平之战
@@ -6640,10 +6668,13 @@ use_preset_vocabulary: true
 珠圆玉润
 诛寇行动
 诸葛孔明
+诸事皆宜
 竹林英魂
 竹马青梅
+竹焉荒道
 逐爱天堂
 逐梦时代
+逐梦田园
 主任来了
 煮夫正传
 煮妇神探
@@ -7012,6 +7043,8 @@ use_preset_vocabulary: true
 蛋条也烦恼
 当家大掌柜
 当家的男人
+当你有光时
+当我遇见你
 党家村传奇
 党员马大爷
 刀锋乱世情
@@ -7129,6 +7162,7 @@ use_preset_vocabulary: true
 疯狂化妆师
 风吹过草原
 风吹过时光
+风从黄河来
 风帆起珠江
 风起第一关
 风起科尔沁
@@ -7985,6 +8019,7 @@ use_preset_vocabulary: true
 青春追梦人
 青春资本论
 青春最好时
+青风海上涞
 青木川传奇
 青囊书传奇
 青年兵支书
@@ -8823,6 +8858,7 @@ use_preset_vocabulary: true
 依依向北风
 医生的品格
 沂蒙山小调
+沂蒙英雄传
 移动的枪口
 遗失的身份
 以家人之名
@@ -9565,6 +9601,7 @@ use_preset_vocabulary: true
 热血奇侠吕三
 人间烟火和你
 人民作家柳青
+人生初恋日记
 人生若如初见
 日子越过越好
 如果还有时间
@@ -9895,6 +9932,7 @@ use_preset_vocabulary: true
 远方的山楂树
 远方来的茶客
 远远地爱着你
+月亮奔我而来
 月亮上的篝火
 再唱山歌给党
 在回忆里等你
@@ -9912,6 +9950,7 @@ use_preset_vocabulary: true
 张思德的故事
 张卫国的夏天
 张五妹的春天
+长安二十四计
 长安十二时辰
 找到他抓住他
 赵城金藏传奇
@@ -10278,6 +10317,7 @@ use_preset_vocabulary: true
 剧场有片荔枝园
 决定爱你的瞬间
 绝世佳人绝世剑
+军马嘶鸣的岁月
 军校的那些花儿
 开往春天的地铁
 开往首都的高铁
@@ -10510,6 +10550,7 @@ use_preset_vocabulary: true
 热血沸腾的年代
 热血之共赴国难
 人逢喜事精神爽
+人间有味是清欢
 人间滋味在路边
 人人都爱我丈夫
 人生的微量元素
@@ -10963,6 +11004,7 @@ use_preset_vocabulary: true
 银杏飘香的日子
 鹰巢之预备警官
 赢在拉斯维加斯
+映日荷花别样红
 拥抱浪漫拥抱你
 拥抱星星的月亮
 勇往直前恋上你
@@ -11063,6 +11105,7 @@ use_preset_vocabulary: true
 自古英雄出少年
 自恋女神修成记
 总有蝴蝶过沧海
+总有一天会老去
 走出军营还是兵
 走出山林的部落
 走出山门天地宽
