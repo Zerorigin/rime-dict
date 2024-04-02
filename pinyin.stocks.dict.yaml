@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2023.12.28
+version: 2024.04.03
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -79,6 +79,7 @@ use_preset_vocabulary: true
 海投
 海医
 海越
+汉马
 瀚叶
 浩源
 赫美
@@ -3747,6 +3748,7 @@ use_preset_vocabulary: true
 统一股份
 透景生命
 图南股份
+退市博天
 退市昌鱼
 退市辅仁
 退市海创
