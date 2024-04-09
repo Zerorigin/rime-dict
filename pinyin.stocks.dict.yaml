@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2024.04.03
+version: 2024.04.10
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -158,6 +158,7 @@ use_preset_vocabulary: true
 南玻
 南化
 南卫
+宁科
 鸥玛
 庞大
 平能
