@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2024.04.10
+version: 2024.05.01
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -47,6 +47,7 @@ use_preset_vocabulary: true
 达志
 大集
 大唐
+大药
 大有
 大洲
 丹邦
@@ -130,6 +131,7 @@ use_preset_vocabulary: true
 科迪
 科技
 科林
+科新
 跨境
 拉夏
 蓝光
@@ -221,12 +223,14 @@ use_preset_vocabulary: true
 维维
 未来
 文化
+文投
 西发
 西钢
 西水
 西域
 西源
 香梨
+新潮
 新光
 新海
 新亿
@@ -245,6 +249,7 @@ use_preset_vocabulary: true
 盈方
 尤夫
 游久
+元成
 园城
 远程
 粤泰
