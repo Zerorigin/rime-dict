@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2024.05.01
+version: 2024.05.08
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -26,12 +26,14 @@ use_preset_vocabulary: true
 安控
 安泰
 安信
+傲农
 奥康
 奥马
 八菱
 巴士
 柏龙
 百花
+百利
 邦讯
 宝德
 北文
@@ -44,6 +46,7 @@ use_preset_vocabulary: true
 晨鸣
 晨鑫
 澄星
+春天
 达志
 大集
 大唐
@@ -52,12 +55,15 @@ use_preset_vocabulary: true
 大洲
 丹邦
 当代
+导航
 德奥
 德豪
 德威
 德新
+迪马
 东电
 东海
+东时
 东网
 东旭
 东洋
@@ -95,6 +101,7 @@ use_preset_vocabulary: true
 华鼎
 华兰
 华塑
+华微
 华讯
 华仪
 华英
@@ -142,6 +149,7 @@ use_preset_vocabulary: true
 林重
 柳工
 龙净
+龙宇
 龙韵
 鲁泰
 罗顿
@@ -163,6 +171,7 @@ use_preset_vocabulary: true
 宁科
 鸥玛
 庞大
+鹏博
 平能
 起步
 全新
@@ -201,6 +210,7 @@ use_preset_vocabulary: true
 特力
 腾邦
 天成
+天创
 天龙
 天马
 天润
@@ -218,6 +228,7 @@ use_preset_vocabulary: true
 万林
 万祥
 网力
+威帝
 威尔
 围海
 维维
@@ -242,11 +253,15 @@ use_preset_vocabulary: true
 雪莱
 雅博
 亚星
+阳光
 一致
+亿利
 易见
+易连
 银河
 银亿
 盈方
+永悦
 尤夫
 游久
 元成
@@ -262,6 +277,7 @@ use_preset_vocabulary: true
 长动
 招港
 争光
+智知
 中安
 中昌
 中迪
