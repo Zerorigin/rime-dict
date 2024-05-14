@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2024.05.08
+version: 2024.05.15
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1905,6 +1905,7 @@ use_preset_vocabulary: true
 禾望电气
 禾信仪器
 黑猫股份
+亨通股份
 亨通光电
 恒邦股份
 恒宝股份
