@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2024.05.15
+version: 2024.05.29
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2769,6 +2769,7 @@ use_preset_vocabulary: true
 联泰环保
 联赢激光
 莲花健康
+莲花控股
 炼石航空
 良品铺子
 良信股份
@@ -3784,6 +3785,7 @@ use_preset_vocabulary: true
 退市绿庭
 退市明科
 退市厦华
+退市商城
 退市未来
 退市西水
 退市新亿
