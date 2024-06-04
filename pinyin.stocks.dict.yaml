@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2024.05.29
+version: 2024.06.05
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -127,6 +127,7 @@ use_preset_vocabulary: true
 金泰
 金正
 金洲
+锦港
 京粮
 景谷
 久盛
@@ -2486,6 +2487,7 @@ use_preset_vocabulary: true
 经纬纺机
 经纬辉开
 景峰医药
+景谷林业
 景津环保
 景津装备
 景旺电子
@@ -3786,11 +3788,14 @@ use_preset_vocabulary: true
 退市明科
 退市厦华
 退市商城
+退市碳元
+退市同达
 退市未来
 退市西水
 退市新亿
 退市易见
 退市游久
+退市园城
 退市运盛
 退市泽达
 退市中昌
