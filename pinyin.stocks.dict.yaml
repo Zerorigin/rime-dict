@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2024.06.05
+version: 2024.06.12
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -969,6 +969,7 @@ use_preset_vocabulary: true
 奥美医疗
 奥普光电
 奥普家居
+奥普科技
 奥泰生物
 奥拓电子
 奥维通信
@@ -3472,6 +3473,7 @@ use_preset_vocabulary: true
 胜利股份
 胜利精密
 狮头股份
+实达集团
 实丰文化
 时代出版
 时代电气
