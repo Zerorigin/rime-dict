@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2024.06.12
+version: 2024.06.14
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1626,6 +1626,7 @@ use_preset_vocabulary: true
 广东鸿图
 广东骏亚
 广东明珠
+广东榕泰
 广发证券
 广哈通信
 广弘控股
