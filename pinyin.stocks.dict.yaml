@@ -17,7 +17,7 @@
 
 ---
 name: pinyin.stocks
-version: 2024.06.14
+version: 2024.06.19
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1605,6 +1605,7 @@ use_preset_vocabulary: true
 光库科技
 光力科技
 光明地产
+光明肉业
 光明乳业
 光莆股份
 光启技术
@@ -2407,6 +2408,7 @@ use_preset_vocabulary: true
 金能科技
 金牛化工
 金牌厨柜
+金牌家居
 金盘科技
 金浦钛业
 金埔园林
